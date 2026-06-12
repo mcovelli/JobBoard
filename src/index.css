@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --bg-color: #F9FAFB;
+  --surface-color: #FFFFFF;
+  --border-color: #E5E7EB;
+  --border-hover: #D1D5DB;
+  --text-primary: #111827;
+  --text-secondary: #4B5563;
+  --accent-color: #2563EB;
+  --accent-hover: #1D4ED8;
+  --success-color: #059669;
+  --success-bg: #ECFDF5;
+  --warning-color: #D97706;
+  --warning-bg: #FFFBEB;
+  --danger-color: #DC2626;
+  --danger-bg: #FEF2F2;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  min-height: 100vh;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.header h1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.025em;
+}
+
+.header p {
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+}
+
+.jobs-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.job-card {
+  background: var(--surface-color);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: all 0.15s ease-in-out;
+  cursor: pointer;
+  position: relative;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+.job-card:hover {
+  border-color: var(--border-hover);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+}
+
+.job-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.job-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+}
+
+.job-company {
+  color: var(--text-secondary);
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+.match-score {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 6px;
+  font-weight: 700;
+  font-size: 1.05rem;
+  flex-shrink: 0;
+  margin-left: 1rem;
+}
+
+.score-high {
+  background: var(--success-bg);
+  color: var(--success-color);
+  border: 1px solid rgba(5, 150, 105, 0.2);
+}
+
+.score-medium {
+  background: var(--warning-bg);
+  color: var(--warning-color);
+  border: 1px solid rgba(217, 119, 6, 0.2);
+}
+
+.score-low {
+  background: var(--danger-bg);
+  color: var(--danger-color);
+  border: 1px solid rgba(220, 38, 38, 0.2);
+}
+
+.job-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.detail-badge {
+  background: var(--bg-color);
+  border: 1px solid var(--border-color);
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.job-expanded {
+  margin-top: 1.25rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border-color);
+  animation: fadeIn 0.2s ease-out;
+}
+
+.ai-reasoning {
+  background: var(--bg-color);
+  border-left: 3px solid var(--accent-color);
+  padding: 1rem;
+  border-radius: 0 4px 4px 0;
+  margin-bottom: 1.25rem;
+}
+
+.ai-reasoning h4 {
+  color: var(--text-primary);
+  margin-bottom: 0.35rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.ai-reasoning p {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.job-description {
+  color: var(--text-primary);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  max-height: 300px;
+  overflow-y: auto;
+  padding: 1rem;
+  background: var(--bg-color);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  margin-bottom: 1.25rem;
+}
+
+/* Custom Scrollbar for Light Theme */
+.job-description::-webkit-scrollbar {
+  width: 8px;
+}
+.job-description::-webkit-scrollbar-track {
+  background: var(--bg-color);
+  border-radius: 4px;
+}
+.job-description::-webkit-scrollbar-thumb {
+  background: var(--border-hover);
+  border-radius: 4px;
+}
+.job-description::-webkit-scrollbar-thumb:hover {
+  background: #9CA3AF;
+}
+
+.apply-button {
+  display: inline-block;
+  padding: 0.6rem 1.25rem;
+  background: var(--accent-color);
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.95rem;
+  border-radius: 6px;
+  transition: background-color 0.15s;
+}
+
+.apply-button:hover {
+  background: var(--accent-hover);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 640px) {
+  .app-container {
+    padding: 1rem;
+  }
+}

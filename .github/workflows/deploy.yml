@@ -1,0 +1,48 @@
+name: Scrape and Deploy to GitHub Pages
+
+on:
+  schedule:
+    # Runs at 13:00 UTC (9 AM EDT)
+    - cron: '0 13 * * *'
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
+
+permissions:
+  contents: write # Needed to commit jobs.json and push to gh-pages branch
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Job Scraper
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/scraper.js
+
+      - name: Commit Updated Jobs (if any)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/jobs.json
+          git commit -m "Automated job scrape update" || echo "No changes to commit"
+          git push
+
+      - name: Build Vite App
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist

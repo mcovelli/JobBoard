@@ -1,0 +1,142 @@
+Michael Covelli
+Queens, NY | (516) 695-4162 | michaelrcovelli@gmail.com | LinkedIn: www.linkedin.com/in/mcovelli 
+Github: https://github.com/mcovelli
+
+PROFESSIONAL SUMMARY
+Computer Science graduate from SUNY Old Westbury with a B.B.A. in Management from Hofstra 
+University and a completed Google Data Analytics Professional Certificate. I have hands-on SQL and 
+database experience through coursework and independent projects, particularly during my capstone 
+project developing a complex university management system featuring a 58 table MariaDB database 
+and a PHP web interface hosted on AWS. I've applied that foundation to real world data analysis using 
+SQL, Python, and Tableau across portfolio projects on large datasets with millions of records to identify 
+trends. I want to put that background to work in a Junior Data Analyst or Business Analyst role where 
+the analysis drives real decisions.
+
+TECHNICAL SKILLS
+Data & Analytics: SQL, Data Entry & Validation, Data Organization, Data Cleaning, Statistical 
+Analysis, KPI Tracking, Data Visualization, Business Intelligence Analysis
+Programming Languages: Python, PHP, HTML, CSS, Java, C++, Kotlin (Android Studio)
+Analytical Tools & Platforms: Microsoft Office Suite (Excel, Word, Outlook, PowerPoint), Google 
+Workspace, MariaDB, MySQL Workbench, AWS, Github
+Core Competencies: Database Design, Object Oriented Design, Software Development Principles, 
+Problem Solving, Data Integrity, Requirements gathering, Attention to Detail, Verbal Communication 
+Skills, Critical Thinking, Trend Analysis, Reporting, Stakeholder Communication
+
+CERTIFICATIONS & EDUCATION
+Google Data Analytics Professional Certificate — Google / Coursera March 2026
+B.S., Computer Science — SUNY Old Westbury, Old Westbury, NY December 2025
+B.B.A., Management — Hofstra University, Hempstead, NY May 2014
+A.A., Culinary Arts – Culinary Institute of America, Hyde Park, NY March 2016
+
+Projects
+Database System with Web Interface - https://github.com/mcovelli/SystemsProject.git
+• Collaborated with a team to design a complex 58-table relational schema for a university system 
+in MariaDB, modeling students, faculty, courses, enrollment, attendance, grades, degree 
+requirements, and internal messaging across hundreds of thousands of records. 
+• Implemented stored procedures and triggers to enforce business logic and data integrity rules 
+directly at the database level. 
+• Validated and reconciled generated data across all 58 tables, resolving referential integrity 
+issues and ensuring logical consistency between related entities such as students, enrollments, 
+sections, and attendance.
+• Built and deployed a PHP web interface on AWS supporting four user roles — students, faculty, 
+administration and statistic staff; with features including course management, attendance 
+tracking, grade entry, degree audits, and internal messaging.
+
+Superstore Sales Analysis - https://github.com/mcovelli/SuperStoreSalesAnalysis.git
+• Performed data analysis on 10,000+ sales records in SQL to identify trends in regional 
+performance, finding that aggressive discounting in the Central region was producing a -133% 
+profit margin and dragging down company-wide profitability.
+• Cleaned and verified data using SQL by validating order dates, order numbers and customer 
+IDs, removing null, whitespace and negative sales values.
+• Created two dashboards visualizing overall and region performance, monthly trends, sub category profitability and discount impact on profitability, enabling stakeholders to identify 
+underperforming regions and discount driving losses.
+
+NYC Crime Complaint Analysis - https://github.com/mcovelli/nyc_crime_complaints.git | 
+https://nyccrimecomplaints.streamlit.app
+• Analyzed 9.4 million NYC crime complaint records from 2006–2024 using Python, examining 
+crime trends by year, time of day, borough, offense type, and victim and suspect demographics.
+• Cleaned and validated data using Python, correcting offense dates, standardizing demographic 
+fields, and removing null and whitespace values to ensure accuracy across a dataset of millions 
+of records.
+• Built and deployed a live Streamlit web app that presents twelve data visualizations alongside 
+AI-generated summaries, powered by a locally-run Llama 3 model via Ollama.
+• Key findings include Brooklyn having the highest reported crime volume, Staten Island the 
+lowest, female victims being disproportionately represented, and the majority of crimes 
+occurring between noon and midnight.
+
+PROFESSIONAL EXPERIENCE
+
+Independent Rideshare Driver
+Uber | New York City Metro Area | June 2024 – Present
+• Managed daily independent business operations, tracking mileage, expenses, and 
+earnings to optimize profitability.
+• Navigated high-volume traffic environments across the metropolitan area, maintaining a 
+high passenger rating through clear communication and professional service.
+• Analyzed passenger demand patterns and peak hours to plan efficient driving 
+schedules and maximize trip volume.
+• Resolved real-time routing and scheduling challenges independently while adhering 
+strictly to safety regulations and transport guidelines.
+
+Referral Coordinator / Client Services Representative
+Medsource National | Garden City, NY | Feb 2019 – Sep 2023
+• Tracked and organized thousands of referral and deposition records across multiple 
+stakeholders, including clients, physicians, and attorneys.
+• Managed and maintained confidential client files, medical reports, and Independent 
+Medical Examination (IME) reports with strong attention to data governance.
+• Collaborated with insurance adjusters, attorneys, and medical providers to streamline 
+information delivery and meet strict deadlines.
+• Assisted clients and patients with inquiries regarding appointments and scheduling.
+• Coordinated depositions between physicians and legal counsel.
+• Processed and organized incoming referrals received from insurance adjusters and 
+defense attorneys, ensuring all necessary documentation was collected.
+
+Data Entry Specialist
+Lawyers Land Services | West Hempstead, NY | Oct 2018 – Feb 2019
+• Digitized, validated, and organized large volumes of legal documents into structured 
+databases to ensure data integrity.
+• Scanned source documents to create secure digital copies and retrieved non-digitized 
+files from storage.
+• Compared digital entries against physical source documents to identify, correct, and 
+reduce data errors in sensitive files.
+• Managed the secure storage, retrieval, and disposal of outdated confidential records in 
+accordance with privacy standards.
+
+Assistant Manager
+The Rex Burger & Lobster | Mineola, NY | May 2018 – Oct 2018
+• Supervised hourly and temporary personnel, provided daily work direction, and 
+reviewed team workflows.
+• Assisted with the hiring process, including interviewing candidates, processing 
+paperwork, and managing training procedures.
+• Set performance expectations and modeled excellent customer service to ensure a 
+positive guest experience.
+• Managed food inventory and organization using standard stock rotation methods to 
+minimize waste.
+
+Line Cook
+Volpe at Fox Hollow | Woodbury, NY | Jun 2017 – Apr 2018
+• Maintained and operated standard kitchen equipment, including grills and deep fryers.
+• Prepared ingredients, followed specific recipe orders, and plated dishes for serving.
+• Stored food items properly at correct temperatures in accordance with food handling 
+and health safety guidelines.
+• Established and maintained professional working relationships with kitchen staff, 
+supervisors and front-of-house teams.
+
+Assistant Chef Instructor (Seasonal)
+Toscana Saporita | Massaciuccoli, Toscana, Italy | Sep 2016 – Dec 2016
+• Instructed students on authentic Italian recipes, preparation, and culinary techniques.
+• Provided hands-on support, guidance, and feedback during instructional cooking 
+classes.
+• Assisted the head chefs with lesson preparation, execution, and meal service.
+• Monitored and maintained safe food storage and cooking temperatures throughout the 
+kitchen.
+
+Catering Line Cook
+Fox Hollow | Woodbury, NY | Mar 2015 – Aug 2016
+• Followed recipes precisely to maintain consistency and quality during high-volume 
+batch preparations.
+• Properly portioned food items to manage kitchen costs and adhere to event guidelines.
+• Maintained clean, sanitized kitchen equipment, utensils, and workspaces according to 
+strict food safety standards.
+• Secured proper storage temperatures for raw and prepared foods.
+• Prepared ingredients for the chef and sous chef and assisted in assembling garde 
+manger catering displays.
