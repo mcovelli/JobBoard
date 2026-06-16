@@ -1,6 +1,6 @@
 [
   {
-    "id": "eyJqb2JfdGl0bGUiOiJGdWxseSBSZW1vdGUsIEVudHJ5LUxldmVsIERhdGEgRW50cnkgSm9iIiwiY29tcGFueV9uYW1lIjoiU21hcnQgSGlyZSBBZ2VuY3kiLCJodGlkb2NpZCI6InNuUTh1VS1kUmFxOXRwRE9BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVUxdU15MTVVMGt6VFhoWE1VWkJaVEZGZWtVNU5HTldZVWhMU2xoTVRsQk9WRUZTWW1KUWNYWXpiREJqY1RFelNqVlZlbFZPY0UxRVNGcEpSR2d0VFVwcmFXcHBabVpKUmt0dGFUVllibWhJUW0xdmMwSlJVRVJwYzJRNFYxVlBSSGRHVkRWdU5ETm5RV3RLVEVVdExVdG5OQzEyTmtZemRYaERRM3BIYUVKRFgwVlRNRmhJTFhsdGRWY1NGelY2YjNkaGRIbHlUelppUTNKMVJWQTFiM2xrTkZGckdpSkJTa3RNUm0xS1RtMU1ibWhEUWkxNVVFaEVReTAxY1ZGdWJHbEVhV1F5WjNSQiIsImZjdiI6IjMiLCJmY19pZCI6InNuUTh1VS1kUmFxOXRwRE9BQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJGdWxseSBSZW1vdGUsIEVudHJ5LUxldmVsIERhdGEgRW50cnkgSm9iIiwiY29tcGFueV9uYW1lIjoiU21hcnQgSGlyZSBBZ2VuY3kiLCJodGlkb2NpZCI6InNuUTh1VS1kUmFxOXRwRE9BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVUxdU15MTVWRFpKYVZWamMxazBjMEp5WjFnMGF6aFdWazlKYldSZk5XOUVPRVJHTmpSMlVXMUVRVGx1TkVwS1pHWllTV2M1UjNwYU5uQllNbk5OTjIxRmNuRkpXRkpNVERkRlgxWkpNREZPVjNKT2FHb3lOSFJEVlRCS00ySlNiVEEzTUVsV1ZYSndla2RUYUVablprUjViMjV4UjFNdGJXOTZSMGRYTkcxM1VUbEphWEJRWVVjMVNtOFNGMGswTkhoaGRWOUlUSE0yZFhCMFVWQmZaRzVvYVVGRkdpSkJTa3RNUm0xTWFYQkZkV2hwYUdaalUwVjBiWFJVWVdKNWJsTmphMlZWTWpWQiIsImZjdiI6IjMiLCJmY19pZCI6InNuUTh1VS1kUmFxOXRwRE9BQUFBQUE9PSJ9",
     "title": "Fully Remote, Entry-Level Data Entry Job",
     "company": "Smart Hire Agency",
     "location": "New York, NY",
@@ -13,7 +13,7 @@
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKGVudHJ5IGxldmVsKSIsImNvbXBhbnlfbmFtZSI6IkdvdGhhbSBUZWNobm9sb2d5IEdyb3VwIiwiaHRpZG9jaWQiOiJrMHpYbXktM1ItN202bXZjQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VTJkb1RISldWRkpwZG1sMU1tSk9lRGcxYkhrMFVFeHFURGxqT0ZaRFZGbDRVbVI2Um1GNE1EVXlaelUxVW1NdFpWWTFUMGg1VW5GdFEyRjZYMVV0WVhOamVWOXVWMnBmU0hwWFdtc3dPV2htTldSTmVtRndkVXN5Y0RsWVJVNTBVWFpNUVRZd01sTllSbnAwU0ZaalJHNW5ibkZGU2tKT1UxcFpURlJPT1Y4elEySlFia0lTRnpWNmIzZGhkSGx5VHpaaVEzSjFSVkExYjNsa05GRnJHaUpCU2t0TVJtMU1OSFIyYTA5dE0xUlFjVlZrYUVWTldtcFNRVWxwVmtSdFpuTm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJrMHpYbXktM1ItN202bXZjQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKGVudHJ5IGxldmVsKSIsImNvbXBhbnlfbmFtZSI6IkdvdGhhbSBUZWNobm9sb2d5IEdyb3VwIiwiaHRpZG9jaWQiOiJrMHpYbXktM1ItN202bXZjQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VkZWTVVHOUpNMjExV0c5c2RYSjNRbFV3WmpneFgxWkpMV2RoZGpCNlJsQk5kVlp0WkdZM2IySmlNMVUzVTFwUFdUUm5iMHM0WkdkVk5XUXRiVzlETUVVelZ6ZEdiMHBRUVRSdVoySnRkRVJIYm5CclJXNXRlREZSV2pkeVJrdzVVRW80YjBOTU5HYzRhRE5GWjBoUU9WUndSRXBEVEY5SlkwcE5ObUpSZW05SU4wZzFRVThTRjBrME5IaGhkVjlJVEhNMmRYQjBVVkJmWkc1b2FVRkZHaUpCU2t0TVJtMUtUbUk0WkdGU2IyZG1kRGx4YUZORGN6aG1SSG94WVhORWFGWlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJrMHpYbXktM1ItN202bXZjQUFBQUFBPT0ifQ==",
     "title": "Data Analyst (entry level)",
     "company": "Gotham Technology Group",
     "location": "New York, NY",
@@ -22,11 +22,11 @@
     "via": "LinkedIn",
     "score": 95,
     "reasoning": "Michael is an exceptionally strong candidate, aligning perfectly with the 'recent graduate/early-career professional' profile and possessing strong SQL, Python, and data visualization skills demonstrated through multiple robust projects. His experience with AWS and AI integration in projects further enhances his appeal, showing a proactive interest in modern data tools beyond the basic requirements. While specific Power BI, Snowflake, or Databricks experience isn't listed, his comprehensive foundational skills and eagerness to learn make him highly trainable for these tools.",
-    "posted_at": "5 days ago",
+    "posted_at": "6 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbC9ObyBFeHBlcmllbmNlIERhdGEgRW50cnkiLCJjb21wYW55X25hbWUiOiJBcGV4IEZvY3VzIEdyb3VwIiwiaHRpZG9jaWQiOiJiRHB0SHpNMElaYlZBbXdUQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VVVWalVFbzNTRXBDUm5VM2NWZERXRzEyT1ZZelFWZHhjRWMyZDE5V2NIY3dRM1ZsTVRCMFYxSlZZa1F3Ukd4MGFrMTRWWEJ6VUMxaFZHaHdlR1pYUzJoS1QzcExaWFI1VEVWQk5HbExkM2d0YVdoUk5XRnZPVjh3ZUZCVWNFVXlNVzF5UzFwUFZFTktWMFZ2YnpkdmMzcHNSMHhMZGpkT2NHRnRhRVU0Tm5acmEzWTJSME1TRnpWNmIzZGhkSGx5VHpaaVEzSjFSVkExYjNsa05GRnJHaUpCU2t0TVJtMUxaVXRLU21KTmVtOW1SV1ZPWWtsdVRFNU1jMWgzWDAxQ2QzaDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJiRHB0SHpNMElaYlZBbXdUQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbC9ObyBFeHBlcmllbmNlIERhdGEgRW50cnkiLCJjb21wYW55X25hbWUiOiJBcGV4IEZvY3VzIEdyb3VwIiwiaHRpZG9jaWQiOiJiRHB0SHpNMElaYlZBbXdUQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VWkxdmRHNWZXazVrYURoZlVqaEZNMloxWTFBM2VVeFliMUJEZFVoV00wczFSV0l5YWxGTVdYRlBUWEZKTkROcVEzSkRWMHRqTW5obmJrNXNiMDFmVVZkMldYTkJTMVZGZUZCMWJYSnVNMGRFZUhCUE1VVTVXbGgzWVdwVFN6UXRTVkI2VGpCRGNHc3dNV0phVEVOM2NsSTBNMFppVFRGdE9WcFFjRzB3ZEhneVdGcFJjMGNTRjBrME5IaGhkVjlJVEhNMmRYQjBVVkJmWkc1b2FVRkZHaUpCU2t0TVJtMUpiMlZqZW1SVmRsQkJlR0ZMZG1kcGVXNWpURWRWU1cxV1JFNTMiLCJmY3YiOiIzIiwiZmNfaWQiOiJiRHB0SHpNMElaYlZBbXdUQUFBQUFBPT0ifQ==",
     "title": "Entry Level/No Experience Data Entry",
     "company": "Apex Focus Group",
     "location": "New York, NY",
@@ -35,11 +35,11 @@
     "via": "Apex Focus Group",
     "score": 95,
     "reasoning": "Michael is exceptionally well-suited for this role, possessing strong communication, critical thinking, and organizational skills, which are ideal for providing thoughtful feedback in research studies. His prior experience as a Data Entry Specialist, coupled with advanced data analysis projects, demonstrates a high capacity for precision and adherence to instructions. Although overqualified for an \"entry-level/no experience\" role, he meets and significantly exceeds all specified requirements and preferred qualifications.",
-    "posted_at": "11 days ago",
+    "posted_at": "12 days ago",
     "schedule_type": "Part-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBSZW1vdGUgRGF0YSBBbmFseXN0IGF0IGNld2l0IE5ldyBZb3JrLCBOWSIsImNvbXBhbnlfbmFtZSI6IkNFV0lUIiwiaHRpZG9jaWQiOiJqMGZRVDd4d3RJNlBEcnJLQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VTBwTFlYVlhVMDV3V0dKdmN6UmFaa04yVFcxcVFUWTFaRzlXT1c5bFluVk1TazFaV2sweFJFdDNhR2h4WkcxQ2RWWkpjMW94V1ZKMWJ6RkJPVmsxUlVoRlVrVlNPVlZpZVVsdlJHODJhbXhGWTBrMFNUWmFNMUEyYTJkaFdtcFZURmc0VG1GVWVtVjVVakpTWVRaWmVHZGtUVmsxZDB0bloxcHNXVlZSVjJWTVVYQlJXRzRTRnpWNmIzZGhkSGx5VHpaaVEzSjFSVkExYjNsa05GRnJHaUpCU2t0TVJtMUtlbUZmWVhKVFNHTXplRlJSUWtaeGRrZE9ZM1ZRV0ZjeU9XNUIiLCJmY3YiOiIzIiwiZmNfaWQiOiJqMGZRVDd4d3RJNlBEcnJLQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBSZW1vdGUgRGF0YSBBbmFseXN0IGF0IGNld2l0IE5ldyBZb3JrLCBOWSIsImNvbXBhbnlfbmFtZSI6IkNFV0lUIiwiaHRpZG9jaWQiOiJqMGZRVDd4d3RJNlBEcnJLQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VXpKbk0yVndiR2c1VUhoSkxWbzNZMWQ0VVV0TWRIcHBOVFpSVEVaNGR6bHdaVTQ1VGs1QlNIYzBWREl3YURaUVZrbFRkbXBvVlhKalJFNW1jazlKVDFab1kyWjZZVW93TlhsVk1tSm1XVFJaTkRWeVEwRlJWa0prWlhsaE9UbGxRVGxDUTNRd1prbE5ZVk5RWm1sUWFHdG9RVVpLVkhSM0xUaHlhMHR0U3pndGNsVnZVVWtTRjBrME5IaGhkVjlJVEhNMmRYQjBVVkJmWkc1b2FVRkZHaUpCU2t0TVJtMUpSRFZFWW1SWFZ6ZG9MV2hSVTFwblRHZDRabDk0TkhGSmRVTkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJqMGZRVDd4d3RJNlBEcnJLQUFBQUFBPT0ifQ==",
     "title": "Entry-Level Remote Data Analyst at cewit New York, NY",
     "company": "CEWIT",
     "location": "New York, NY",
@@ -48,11 +48,11 @@
     "via": "BeBee",
     "score": 95,
     "reasoning": "The candidate is an excellent fit, possessing strong hands-on experience in data cleaning, SQL, Python, and data visualization demonstrated through robust projects involving large datasets and complex database design. Their Computer Science degree and Google Data Analytics certificate directly align with and exceed the preferred qualifications, making them highly suitable for this entry-level role despite the stated \"no prior experience necessary\".",
-    "posted_at": "8 days ago",
+    "posted_at": "9 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKGVudHJ5IGxldmVsKSIsImNvbXBhbnlfbmFtZSI6IkdvdGhhbSBUZWNobm9sb2d5IEdyb3VwIiwiaHRpZG9jaWQiOiJrMHpYbXktM1ItN202bXZjQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VW05WmNWRnpWSE51ZG5oTWVGaDZVVmQyWjFsQlZIWjNUbDlPVURCNFFWODNUVmRrYWswM2NGSkxOVVZRWWxSR2FYQk1TbDlIYXpka04waFVTM294YVRKWllYVmZkMk13VDJKZlIxUkRRVXhuZVd4dVFrUmZVRFJVV1VWNGNGUkxaekZRTTB0NGVISmphVmhyWnpsRlJqTlBhV1Z0ZFMwNE5HaFpMVGRtUkhaVFEyVXlTM1VTRnpoRWIzZGhjSEp3UTAxdWRHMU1VVkI1V2xSckxWRkZHaUpCU2t0TVJtMUxNMmxqY1dONmMwUnBSMVJ3TWs5WllrRndXa0ZIYVVwdU1EbDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJrMHpYbXktM1ItN202bXZjQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKGVudHJ5IGxldmVsKSIsImNvbXBhbnlfbmFtZSI6IkdvdGhhbSBUZWNobm9sb2d5IEdyb3VwIiwiaHRpZG9jaWQiOiJrMHpYbXktM1ItN202bXZjQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VWtnNFVrbG1kVVZTYlZJMk0wbzRUa3hOVkdOTFFXODNOMVJxZWt0NFp6Z3RZVXRqU1hoalNXRjNRamxxUWxoMk9XUTBZbEpxU2xsVE1tNXVjamcwTlVzM1NscHBMWE5PTlVaMGEybDVkVzVKU20xNVUxZzJPV05MTjBWUlkzbHVXbUkyTFRReWF6aHJjblJRVVZORFluUmpZa0kzZGxwU1QxRTJja2xvY1djNWIyMXNkR3dTRjBwSk5IaGhkVkJSVDFwRVNtdFFTVkEwWkdWek5FRlpHaUpCU2t0TVJtMU1UVVpVVDJOTWRGbFdUamhpTjJoWWFWRXdabVozYkZkdFFUbFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJrMHpYbXktM1ItN202bXZjQUFBQUFBPT0ifQ==",
     "title": "Data Analyst (entry level)",
     "company": "Gotham Technology Group",
     "location": "New York, NY",
@@ -61,24 +61,11 @@
     "via": "LinkedIn",
     "score": 95,
     "reasoning": "Michael is an exceptionally strong candidate, aligning perfectly with the 'recent graduate/early-career professional' profile and possessing strong SQL, Python, and data visualization skills demonstrated through multiple robust projects. His experience with AWS and AI integration in projects further enhances his appeal, showing a proactive interest in modern data tools beyond the basic requirements. While specific Power BI, Snowflake, or Databricks experience isn't listed, his comprehensive foundational skills and eagerness to learn make him highly trainable for these tools.",
-    "posted_at": "5 days ago",
+    "posted_at": "6 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBEYXRhIEFuYWx5c3Q6IFZpc3VhbGl6YXRpb24gXHUwMDI2IERhdGEgU3Rvcnl0ZWxsaW5nIiwiY29tcGFueV9uYW1lIjoiTWF6aUNUb29scyIsImh0aWRvY2lkIjoiNFJUbDNhWV9IbnpUWHNDa0FBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVUxZFNOakZ6TTBFelkwUjRNelZhUjJVdFFqVnZiRzFTT0VsUlNHTXdaMlJJVlVZMFkwbE9Zbk5NV0ZOUlh6TnlhbUZxVWxORlUyZzFSRnAyVUZOdGNIcG1aMDFKVFZKSVRERjVOVFZTYkVSeGNVc3hhbVpJYlVsVFNuZEJOVmhvZEhNeU1UUjNaMjAyUjFoR2VtMTFabUpMWldSeE1uUjVXRFJ4YlRkcGFGUkJXVGhhVjJRU0Z6VjZiM2RoZEhseVR6WmlRM0oxUlZBMWIzbGtORkZyR2lKQlNrdE1SbTFMVFRGU1JuVnJibE55YWxkTU5ESjRaRkI1WVZoSVoyTnFhMGwzIiwiZmN2IjoiMyIsImZjX2lkIjoiNFJUbDNhWV9IbnpUWHNDa0FBQUFBQT09In0=",
-    "title": "Entry-Level Data Analyst: Visualization & Data Storytelling",
-    "company": "MaziCTools",
-    "location": "New York, NY",
-    "description": "MaziCTools is seeking an Entry Level Data Analyst in the USA, ideal for graduates in Computer Science or related fields. The role involves working on data analysis projects, where programming skills in Java and knowledge of data visualization tools will be critical.\nA strong emphasis on excellent communication skills is required, along with the ability to work in a collaborative remote environment. Join us to build your career in the tech industry.",
-    "apply_link": "https://bebee.com/us/jobs/entry-level-data-analyst-visualization-data-storytelling-mazictools-new-york--lensa-7428_c5231e6539e6efbfae5faf54124f8f4cd2c005d050d3bb0dec4a5a4a0d9aa072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "BeBee",
-    "score": 93,
-    "reasoning": "The candidate is a strong match, holding a Computer Science degree and showcasing extensive project experience in data analysis, visualization (Tableau, Streamlit), and data storytelling using SQL and Python on large datasets. They also explicitly list Java programming skills and excellent communication abilities, directly aligning with the key requirements for this entry-level role.",
-    "posted_at": "11 days ago",
-    "schedule_type": "Full-time"
-  },
-  {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBEYXRhIFNjaWVudGlzdC9BbmFseXN0L0phdmEgZnVsbCBzdGFjayBkZXZlbG9wZXItcmVtb3RlIiwiY29tcGFueV9uYW1lIjoiU3luZXJnaXN0aWNJVCIsImh0aWRvY2lkIjoiSXI5VUs0SEozSXFkOHhjd0FBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVZISk5WVXhPYWtwT2NucHNPVVpoTURobFgwdGZSVGt6UjJWWGNtbDZRVXRJUzNSM1ltSlFWRkkyUVVsd2VYbHlRbTVXYTI0eGEyZFZjelY2UWxSelRWTkpPWFpQYVdVMWJVTXhja1pPVkc5NlFrTm9UbnAyVDJaU1pWTnhPR2RUTFZwclprWkNSalZzU1dObVRVRlJiMkpIUzFSYVNtNHdRWFpKUlhsd1JWVkVUbTU0VlVzU0Z6VjZiM2RoZEhseVR6WmlRM0oxUlZBMWIzbGtORkZyR2lKQlNrdE1SbTFLVWtGak0wb3pSMkV3YkUwNWNYZDFPRkF6VGpWd1ZFOVJTVlpuIiwiZmN2IjoiMyIsImZjX2lkIjoiSXI5VUs0SEozSXFkOHhjd0FBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBEYXRhIFNjaWVudGlzdC9BbmFseXN0L0phdmEgZnVsbCBzdGFjayBkZXZlbG9wZXItcmVtb3RlIiwiY29tcGFueV9uYW1lIjoiU3luZXJnaXN0aWNJVCIsImh0aWRvY2lkIjoiSXI5VUs0SEozSXFkOHhjd0FBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVUyZ3hPVWRmVDNneE1EZGxlVWxHWWxaNlQybzFRamQzUVVSdkxYQjJNVXh5VEhKQ2FEbHJZMmhtZGxwWVRVNVZiMXBxUjA4MU5sTkNkWFIxTFRCZlRsTXpOa0pQVEhoVU0yZEdaV3BrT0Raa01VdGxkR3BGZUZkbVkyZE9TVFF0YmxSWGJGRmFjMUEwVUV4SE1VeEdPR2hzYzBkRGFVcG5UVWRCWjFGMldWZGhMVXRsUTBzU0YwazBOSGhoZFY5SVRITTJkWEIwVVZCZlpHNW9hVUZGR2lKQlNrdE1SbTFKT0Rrd00zWldVREJJUTJSZlZVWTJPRWxGYjNSQ2NIWnZTakozIiwiZmN2IjoiMyIsImZjX2lkIjoiSXI5VUs0SEozSXFkOHhjd0FBQUFBQT09In0=",
     "title": "Entry Level Data Scientist/Analyst/Java full stack developer-remote",
     "company": "SynergisticIT",
     "location": "New York, NY",
@@ -87,11 +74,11 @@
     "via": "LinkedIn",
     "score": 92,
     "reasoning": "The candidate is a strong fit for the 'Entry Level Data Scientist/Analyst' aspect, possessing a CS degree, a Data Analytics certificate, and robust projects showcasing SQL, Python, database design on AWS, and data visualization. Their profile as a recent CS grad seeking a first technical role aligns perfectly with SynergisticIT's target audience of candidates needing interview training and placement assistance, even with listed Java skills for full stack roles.",
-    "posted_at": "18 days ago",
+    "posted_at": "19 days ago",
     "schedule_type": "Contractor"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRGhhbGl0ZSBJbmMuIiwiaHRpZG9jaWQiOiJTZWwxUzBpR2U3dkc4cFJUQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VVd0RlIyVmZVakp1YkVkRlVWZzFhMVY2VUVzNU5XcENXakJFYWw4eE5YZFVYMXBLV0RCMU9YQmZkbVpoVDBzeloxYzRTbGR5ZFUwMFZGaDNiVTlzVjBWaFJUaGtYMDkyYjJaQ0xXWnZVVWxXUzNsbmF6RjVjM0IzVFVNek9HNVRNMWRDZEV0VlRUWXpiRlp5WkdsR2RuZDJlSFJ3U2pCV05WOHhSbXBzV0ZsaVJuZE1hVmdTRnpoRWIzZGhjSEp3UTAxdWRHMU1VVkI1V2xSckxWRkZHaUpCU2t0TVJtMUpRMVUzZEROeGNIUjFkeTFTVUd0bE5uUnJUM05TWkdGTmVIQjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJTZWwxUzBpR2U3dkc4cFJUQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRGhhbGl0ZSBJbmMuIiwiaHRpZG9jaWQiOiJTZWwxUzBpR2U3dkc4cFJUQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VkdSaE0ydFNRMEpPWlRNNGNsVlpkMnhWTW5SRmVXbE5jMk5TTmpWMVltbDVkMGt5U2tSeVNHSk5YME4yUld0dVRtczRTMnhQTVhFMk0wRnhhbEZVV0RkNU5VbFdhekp4TVdSR1kzcHNRMnBVTVZOUGFYQjJNbEJIV1ZkYU1FNHdiV2xFYlZkWWVYUlRRWEZFZEdkd1JIcEphekV3VUMxdmJrZHBiMXA1TTNWNllsOVZUSGNTRjBwSk5IaGhkVkJSVDFwRVNtdFFTVkEwWkdWek5FRlpHaUpCU2t0TVJtMUtNVkE0YUZCNmMxUjZTMDVYUWxSc1VURmlRVkp6VXpsVVVHcDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJTZWwxUzBpR2U3dkc4cFJUQUFBQUFBPT0ifQ==",
     "title": "Entry-Level Business Analyst",
     "company": "Dhalite Inc.",
     "location": "New York, NY",
@@ -100,11 +87,24 @@
     "via": "Dice",
     "score": 92,
     "reasoning": "The candidate is an excellent match, possessing both Computer Science and Management degrees, alongside a Google Data Analytics Certificate. Their detailed projects clearly demonstrate strong capabilities in SQL, data analysis, visualization, requirement gathering, and ensuring data integrity, directly addressing the core responsibilities of the role. Although prior experience isn't explicitly titled Business Analyst, the candidate's practical application of skills is highly relevant for an entry-level position.",
-    "posted_at": "6 days ago",
+    "posted_at": "7 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJQbGFjZW1lbnRzMjQiLCJodGlkb2NpZCI6IlNsVWhaN01pVmJsV2xkbVVBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVUxdU15MTVWRmQ2VFZnMFUzWjZNMHRtWTFoSmNtczJhSE54T1hGcFprZzNaalpNZG1GbmFFeFJlWFJqWTBKdGJtTkRZVEJIUVdkelowNDViWE52TWpKQmQzZDNhWHBYZFdvdGQyODFTemhSYjFoVVJEWXRZemhSWWtkdWMyaDZSQzFuUTNObGJraHJaVEl3Y0VwVVkycGZUMUJwVkhGVFoyNWlNbTl0Y1RaalkyMDBTVXhWVDFkaFMyNFNGelY2YjNkaGRIbHlUelppUTNKMVJWQTFiM2xrTkZGckdpSkJTa3RNUm0xSk5sZFJTWGxVVkV4blRGSlpWakZoV2tacVVrOHdVMjVhZEd0MyIsImZjdiI6IjMiLCJmY19pZCI6IlNsVWhaN01pVmJsV2xkbVVBQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKEVudHJ5LUxldmVsIC8gSnVuaW9yKSIsImNvbXBhbnlfbmFtZSI6IkNhcmVlcnMgYXQgVU5FU0NPIiwiaHRpZG9jaWQiOiJrakNXbmNETm85cEZmTWlJQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VTBvMmVqVlpObXgwYjBVdE9VMDJPR1IxVHpJMFdEaGlkbkJYTjFZeWFtTXlYMUpzTTBGelVIaEJWRTFUTVdaTVpGVm9WazgwY1hoQmFtUlNUbkphUm10S1FUZzRhWFpmYkZnMVNDMXdTSEkwT1hneWNsUnVkRkJyTjFGUmNFNHRiRmg0WjFWaFNGUkRNSEZ1ZDBwbGVGVldiMFZGVkZORmRXeENkR2hRVlZodFRGcGxSamNTRjBrME5IaGhkVjlJVEhNMmRYQjBVVkJmWkc1b2FVRkZHaUpCU2t0TVJtMU1aVFJ4YjJ0NlNVaHZOekZEWlRKeFNuQnNZa1Y1UmpoNWVFbFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJrakNXbmNETm85cEZmTWlJQUFBQUFBPT0ifQ==",
+    "title": "Data Analyst (Entry-Level / Junior)",
+    "company": "Careers at UNESCO",
+    "location": "New York, NY",
+    "description": "Data Analyst (Entry-Level / Junior)\n\n\n\n\nRole Description\n\nSupport data-driven decision-making by collecting, organizing, analyzing, and interpreting data from various business and operational sources. Develop and maintain reports, dashboards, and data visualizations that provide stakeholders with actionable insights into business performance, trends, and key performance indicators. Perform data validation, cleansing, and quality assurance activities to ensure the accuracy, consistency, and reliability of datasets. Analyze data to identify patterns, opportunities, risks, and areas for improvement, and communicate findings through clear and meaningful reports. Collaborate with cross-functional teams to support forecasting, performance monitoring, process optimization, and strategic initiatives that contribute to organizational growth and operational excellence.\n\n\n\n\nQualifications\n\nBachelor’s degree in Data Analytics, Statistics, Mathematics, Economics, Business Administration, Computer Science, Information Systems, or a related field. Strong analytical, critical-thinking, and problem-solving abilities with exceptional attention to detail. Proficiency in spreadsheets, data analysis tools, reporting platforms, and data visualization software. Familiarity with SQL, database concepts, statistical methodologies, and data management practices is advantageous. Excellent communication and presentation skills with the ability to translate complex data into clear and actionable insights for both technical and non-technical stakeholders. Strong organizational and time-management capabilities with the ability to manage multiple priorities and deadlines effectively. Knowledge of business intelligence, reporting frameworks, data governance, performance measurement, and process improvement principles is a plus.",
+    "apply_link": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-junior-at-careers-at-unesco-4427775163?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "LinkedIn",
+    "score": 0,
+    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
+    "posted_at": "19 hours ago",
+    "schedule_type": "Full-time"
+  },
+  {
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJQbGFjZW1lbnRzMjQiLCJodGlkb2NpZCI6IlNsVWhaN01pVmJsV2xkbVVBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVUxdU15MTVVbWhGZUVSU1JVNXdkRmhPWW1ab2QwRlBVR1ZZUWxOTE9YQnhTMDVGTUdaT1UwSkRObGxCWDBwU04xbG9hbkU1TUZSb2ExWk9MVFpQTUZoMFdrZFlNV1ZNY0V4WVZGSkhhbTFZWjBSUmNYUXpTREYxYjFCdFZtUkRRVGRmTFhOak5qZzBNWGxXU25Rd1JrMXhNVEYzVDBwdlZtdG5OMlZoWDJKSk9XaFljV3BuWjBGeVNYZ1NGMGswTkhoaGRWOUlUSE0yZFhCMFVWQmZaRzVvYVVGRkdpSkJTa3RNUm0xTGNEVkdTaTExV0UxZlRucDZNSGRwTnpBdGJFOWhWbUZ1VEdoMyIsImZjdiI6IjMiLCJmY19pZCI6IlNsVWhaN01pVmJsV2xkbVVBQUFBQUE9PSJ9",
     "title": "Entry-Level Data Analyst",
     "company": "Placements24",
     "location": "New York, NY",
@@ -113,24 +113,37 @@
     "via": "WhatJobs",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "11 days ago",
+    "posted_at": "12 days ago",
     "schedule_type": "Internship"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgMSIsImNvbXBhbnlfbmFtZSI6Ik5ldyBZb3JrIFN0YXRlIERlcGFydG1lbnQgb2YgSGVhbHRoIiwiaHRpZG9jaWQiOiJwM2lpaHhLVUdqenBoSUdtQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VTNkaGNrZFhWR1JVZVU5NlVESjFTMjlQWlV0aFp5MTJNVzF1TkVsMFdtTnRiRjh5YURSMmRtazJhazk2VmxwMlZYRktZbVZ0Ym1KNFNtOWhTMjUyT1VKWE1TMXdaMlJJYkZFd1IyNTNWV2hGVnpScFVYVjFaMFJtUm1wSFVrVjBaRGx5U0ZwNVptODRSbTl2V2xSemEyMXZVbTVLTlZOU2MwWTROVkUzZFdjeFF6WjZTVlFTRnpWNmIzZGhkSGx5VHpaaVEzSjFSVkExYjNsa05GRnJHaUpCU2t0TVJtMUxTWFI0ZG5WS09EbGFPV05YZDAxUGRIUm9TbE5tTUZCNFFVMUIiLCJmY3YiOiIzIiwiZmNfaWQiOiJwM2lpaHhLVUdqenBoSUdtQUFBQUFBPT0ifQ==",
-    "title": "Data Analyst 1",
-    "company": "New York State Department of Health",
-    "location": "New York, NY",
-    "description": "OverviewThe Data Analyst 1 will be responsible for data analysis and system management for the Maternal Mortality Review Initiative (MMRI) program and other Maternal and Child Health (MCH) initiatives in the Perinatal Health Surveillance and Quality Measurement Section of the Bureau of Data Analytics, Research, and Evaluation.\n\nResponsibilitiesWork with program staff to develop and build systems in support of data collection, data management, and analysis.Conduct data summaries, prepare statistical reports and presentations.Perform data extraction, aggregation, and quality checks from multiple sources and tables to support trend identification and root cause analysis.Develop and build data dashboards for analytic use.Provide inputs on current approaches and recommend improvements to best achieve goals.Provide data‑related training and technical assistance to program staff.Provide continuous oversight of data collection activities and review entered data for accuracy and completeness.May supervise lower‑level support staff, student interns, and/or temporary contractors as needed.Minimum QualificationsBachelor’s degree in data or computer science, informatics, economics, statistics, mathematics, or a related field plus satisfactory completion of a two‑year traineeship or two years of experience in data visualization, and statistical models and data mining tools.Substitution: A master’s degree in the above fields may substitute for one year of the specialized experience. A Ph.D. may substitute for two years of the specialized experience.Preferred QualificationsExperience in MS Access, SQL, and VBA; statistics, data system development; data collection; and manipulation and analysis of large data files.Moderate experience using SAS, Tableau, or other data mining/statistical packages.Proficiency in Microsoft Office Suite, especially Excel and PowerPoint.Excellent oral and written communication skills.Work Arrangement & TravelFull‑time, permanent, non‑competitive appointment. The position may require travel throughout New York State, including overnight stays in areas not served by public transportation.\n\nBenefitsWe offer a generous benefits package valued at 65% of salary, including:\n\nHoliday & Paid Time OffPublic Service Loan Forgiveness (PSLF)Pension from New York State Employees’ Retirement SystemShift & Geographic pay differentialsAffordable Health Care optionsFamily dental and vision benefits at no additional costNYS Deferred Compensation planAccess to NY 529 and NY ABLE College Savings Programs, and U.S. Savings BondsAdditional InformationThe annual salary equals the hiring rate of the position; promotion salaries are determined by NYS Office of the State Comptroller according to Civil Service Law and negotiated union contracts.",
-    "apply_link": "https://www.jobleads.com/us/job/data-analyst-1-32802--city-of-albany--e9ec7669a4f3d58863e296def19efec10?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "JobLeads",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBsZXZlbCBEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJIaXJpbmdNaXJyb3IiLCJodGlkb2NpZCI6Ik1UYUNFUE42V09LQVZ3Y3NBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVUxdU15MTVVMHMyU21OUWFXeEdlV0ZsZGtob2EweHZTRzFIYld4WU5HUnpaREZRU0haS01EQk9ZVTlZY2xFMmVEaElhRU42WDNKUVYxVklPWEZGYzBwRk9XeFRSRWd0U2xkR2FFUldNMnhwYURac05YRXdSaTFCY0RCTVFsaHFOV2huYkhSVlFXUjZPRkZUWVdwa2QxcHdNMk40YkdjM2VISXdOVXRPWlZwV1RrcDVhbWRmTW5oTmRtUVNGMGswTkhoaGRWOUlUSE0yZFhCMFVWQmZaRzVvYVVGRkdpSkJTa3RNUm0xSlEzcG9Za3hxU2xKVFFteDVSM2RQU1RSNU1YWklVVGR0WlVKUiIsImZjdiI6IjMiLCJmY19pZCI6Ik1UYUNFUE42V09LQVZ3Y3NBQUFBQUE9PSJ9",
+    "title": "Entry level Data Analyst",
+    "company": "HiringMirror",
+    "location": "JOHN F KENNEDY AIRPORT, NY",
+    "description": "Job reason:\n\n\r\n\r\n • Data Analyst for IT Consulting group with expertise in MS Excel and VB scripts.\n\n\r\n\r\n • Your consumer obligations:\n\n\r\n\r\n• Need to work as a crew member in implementation and automation of task thru Macros\n\n\r\n\r\n• Interact and talk with the onsite coordinators.\n\n\r\n\r\n• Completion of assigned obligations on time and everyday popularity reporting to the supervisor/lead.\n\n\r\n\r\n• We are looking for the candidates with the subsequent:\n\n\r\n\r\n • Graduate from a reputed group with a sound enterprise/domain experience and applicable exp. of 2 –8 years. Responsibilities, Qualifications, Certifications – External\n\n\r\n\r\nYou will need to have: Mandatory abilities: \n\n\r\n\r\n• Experience needs to be within the underneath areas –\n\n\r\n\r\n• Need deep expertise in VBA development\n\n\r\n\r\n• Advance degree?understanding in MS Excel (Graph, Chart, Pivot Chart & Table, Logical/Conditional Formulas, Data Analysis, MIS Reports, Dashboard, Summary) for automation thru Macros.\n\n\r\n\r\n• Should have Excellent verbal exchange abilities.",
+    "apply_link": "https://www.hiringmirror.com/jobs/entry-level-data-analyst-11-30-2022-11430-new-york?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "HiringMirror",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "8 days ago",
+    "posted_at": "Unknown",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCAtIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkFERiBNZWRpY2FsIiwiaHRpZG9jaWQiOiJfMXExMUVzdWo0RHg0Szc3QUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VWs1SFdETlpWRWxIWDAxWk5FNVZhbloyVWs5UGMyOW9TelZ2T1hJd1kyOWpOamRUWDJKM1FqQjZUVEp3WDIwNU0xWkpXblpEWVVzNFpXVm5aelIyWkU4eU9UTjJjemszUlhCNlpYZDNWVFJ6U3pKSVR6VTJWVTFuVFZkRWNFdDFXbTFrUzA1MlduRmphbE5CV1VaRldXWmhkbFIzY0hKMmVIaFlVR3RXWVVFM2RGSkViV3dTRnpWNmIzZGhkSGx5VHpaaVEzSjFSVkExYjNsa05GRnJHaUpCU2t0TVJtMU1ZbTlvZFdwaGFuaEhRVzlvZFMxV1QwOW9RVEoxUTJ4V1VrOW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJfMXExMUVzdWo0RHg0Szc3QUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBEYXRhIFNjaWVudGlzdC9BbmFseXN0L0phdmEgZnVsbCBzdGFjayBkZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJTeW5lcmdpc3RpY0lUIiwiaHRpZG9jaWQiOiJ6dHgzTno5SGlYYjFvLXp0QUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VWtSMlUzZEVRMlF0UXpoeVJqWTBlVkZvU3kxSE5sRTBTa1pIV0doVmJGWTBjbFUwVnkxMGFYQlROVk5XTkVScU1HMVRWbmxtYnpaNlFXMWxVSEJ5WVdadFpFRXdSRkp4VmxoQ1JEVkpWbGhXY2pkdWRIQkRTV1Z6Y1hsU2FuSlZaMGMyVkRaMU1GVTFSME0zY21GMWQzcG1ZMGxZU1dsclIwMXhkVUYwTTBobk9XTTFhMDRTRjBrME5IaGhkVjlJVEhNMmRYQjBVVkJmWkc1b2FVRkZHaUpCU2t0TVJtMUtkR3BoVFRKcWIxUlVNM1p1YVdaSlJGVTNUbGhFVVROM09XeFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ6dHgzTno5SGlYYjFvLXp0QUFBQUFBPT0ifQ==",
+    "title": "Entry Level Data Scientist/Analyst/Java full stack developer",
+    "company": "SynergisticIT",
+    "location": "New York, NY",
+    "description": "1000's of Job Applications and No Interviews or Job offers? Let's get you hired.\n\nIf you've been unemployed for over 3-6+ months, you're not alone—and you're not out of options. The tech industry is competitive, and having a career gap can make it harder to get callbacks. But at SynergisticIT, we specialize in helping candidates like you regain momentum, rebuild confidence, and get hired.\n\nWhy You're Being Overlooked—and How We Can Help\n\nMany employers today don't just want a degree—they're looking for job-ready developers with hands-on experience, relevant certifications, and up-to-date skills in today's tech stack. Unfortunately, most CS grads don't get that in college.\n\nSince 2010, we've helped thousands of candidates land full-time jobs at tech leaders like Google, Apple, PayPal, Visa, Western Union, Wells Fargo, Client, Paypal, Banking, Wayfair, Client, Client and hundreds more with Job offers of $95k to $154k. Synergisticit focuses on closing the gap between your tech skills and what employers want now.\n\nCurrently, We are looking for entry-level software programmers, Java Full stack developers, Python/Java developers, Data analysts/Data Engineers/ Data Scientists, Machine Learning engineers for full time positions with clients.\n\nWe Focus on Java /Full stack/Devops and Data Science /Data Engineers/Data analysts/BI Analysts/ Machine learning/AI candidates\n\nIdeal Candidates\n\nRecent grads in CS, Engineering, Math, or Statistics with limited or no job experienceJobseekers who had layoffs due to Downsizing and want to get in demand tech stackProfessionals seeking a career switch to techCandidates with career gaps or lacking real-world experienceIndividuals looking to boost their skill portfolio for better job prospectsComputer Science grads with limited or no job experience Students who recently finished their Bachelor's or Master's programs Those struggling to land interviews despite having experienceCandidates on F1/OPT needing a job for STEM extension or H-1B filing\n\nWe assist in filing for STEM extension and also for H1b and Green card filing to Candidates\n\nPlease Check The Below Links\n\nEvent videos (OCW, JavaOne, Gartner):USA Today feature\n\nIf you're tired of failing interviews and want a structured plan to convert interviews into offers, start here:\n\nContact SynergisticIT: https://www.synergisticit.com/contact-us/\n\nplease read our blogs: \n\nWhy do Tech Companies not Hire recent Computer Science Graduates | SynergisticIT\n\nTechnical Skills or Experience? | Which one is important to get a Job? | SynergisticIT\n\nBackend vs. Full Stack Development: Job Prospects | SynergisticIT\n\nWhat Recruiters Look for in Junior Developers | SynergisticIT\n\nSoftware engineering or Data Science as a career?\n\nIs AI Going to Replace Software Programmers? | SynergisticIT\n\nStop waiting for the phone to ring. \n\nLet's start your tech career—together.\n\nPlease note: Resume databases are shared with clients and interested clients will reach out directly if they find a qualified candidate for their req.\n\nResume submissions may be shared with our JOPP team database also. Please unsubscribe if contacted or if you don't want to be contacted please don't submit your resume.",
+    "apply_link": "https://www.linkedin.com/jobs/view/entry-level-data-scientist-analyst-java-full-stack-developer-at-synergisticit-4420661787?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "LinkedIn",
+    "score": 0,
+    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
+    "posted_at": "19 days ago",
+    "schedule_type": "Contractor"
+  },
+  {
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCAtIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkFERiBNZWRpY2FsIiwiaHRpZG9jaWQiOiJfMXExMUVzdWo0RHg0Szc3QUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VXpndFRITkRTMXBYYVhGak9WRlRURTR6ZG1neFoyUXhVRmg1ZVZSVGFqSkVhRUZwWTJJNU4ybGlibmQ0VEc4NE5YQlZNVkpsVUcxT1QxTnVRMGhKWjJoblgyTk5VbTV4YUY5TmJsUmpRMFZQVTJNeFZ5MXJNMWs1YjNsTFNGVnFjVXRqWkMxR2QyMHpiekJTT0ZOaldrbGtPWFp4VDB0WWNucG5Va2RGWlhSclZtNWFaWGdTRjBrME5IaGhkVjlJVEhNMmRYQjBVVkJmWkc1b2FVRkZHaUpCU2t0TVJtMUphM2hLWHpkcFpteDNUMjV5VTBSV1JIVTRVSEp6UmtGeFFrSjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJfMXExMUVzdWo0RHg0Szc3QUFBQUFBPT0ifQ==",
     "title": "Entry Level - Data Analyst",
     "company": "ADF Medical",
     "location": "New York, NY",
@@ -143,20 +156,20 @@
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJBcHByZW50aWNlIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkV2ZXJncmVlbiBUcmFkaW5nIiwiaHRpZG9jaWQiOiJLWVhwSks3QktrMXdYQjZwQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VXpsbVJIbzNhRUkzWkRRM1pGQlNhV2Q1V2tKcFUzZHJSMkZZYW5oRFYwZ3lUVXBNZVcxeldVVm9TREJZUVRWelpFaHBNbWxJY210MWNuTnRWR1ZwVW14NFZrVjNiRWxGWlZodGRHZEVkVTVQUmxadFlXSklkRUZTY1dsb2RGVjVlVlJZWTBaNmJuQkdTR1IxV0Vsb2JFMVBTVTFuZVhOWlMyNHdhbmxWYlhkMmJGUlhhbklTRnpWNmIzZGhkSGx5VHpaaVEzSjFSVkExYjNsa05GRnJHaUpCU2t0TVJtMUxWekJYTkdsV0xVdHlXRWh6U1c1dVJGQktkV0ZoY21STFV5MW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJLWVhwSks3QktrMXdYQjZwQUFBQUFBPT0ifQ==",
-    "title": "Apprentice Data Analyst",
-    "company": "Evergreen Trading",
+    "id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKEVudHJ5LUxldmVsIC8gSnVuaW9yKSIsImNvbXBhbnlfbmFtZSI6IkNhcmVlcnMgYXQgVU5FU0NPIiwiaHRpZG9jaWQiOiJrakNXbmNETm85cEZmTWlJQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VVVSNGFWTlNkVEp5ZWpWSmQzZHhZMmxIYkZwWk5uRktNMEZ0VEZkVFZGVk9TSGwyVjAxRk1EQmhPR0Z4UW5kQ2RVZHJXVm8wYUVkc1dYTjJYMnhXUTE4MFoxOW9ha2hWV0ZGSVIxbG9jR1phWlZGVGQyUlRVMG8zYWxkNU1FOHhXV3cwZERaRVNUWkVVRVZaY1UxUlp6SlRNakJEY210aGQyRkhPRTB0TlZKRWFqaDJNbFlTRjBwSk5IaGhkVkJSVDFwRVNtdFFTVkEwWkdWek5FRlpHaUpCU2t0TVJtMU1WRzQ0T0hSaFNrczVORGhJU0RsdU1tTmtaVWxUVHpWdWRYaEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJrakNXbmNETm85cEZmTWlJQUFBQUFBPT0ifQ==",
+    "title": "Data Analyst (Entry-Level / Junior)",
+    "company": "Careers at UNESCO",
     "location": "New York, NY",
-    "description": "Evergreen Trading is hiring a Apprentice Data Analyst with 0 - 3 years of experience. Based in United States -  New York, NY and with Hybrid ways of working. \n  \n  Job description and responsibilities: \n\nAre you looking for an opportunity to launch a new career? Are you good with numbers, curious about patterns, and always telling stories with data? Do you have some basic data skills but need the training to reach your potential?\n\n\nThis media trading firm is looking for an individual with the potential to be a great Data Analyst to join the team for a yearlong paid apprenticeship.\n\n\nThe successful candidate will rapidly grow into the role of Data Analyst and learn skills on-the-job to support the Digital Investment team with data reporting needs across their portfolio of clients.\n\n\nWho are you today?\n\n\n\nYou may not have a college degree or a career history in Data Analytics, but you love data, are meticulous, have high attention to detail, and are curious to uncover insights, patterns & trends.\nYou might have some data analytics skills already, but do not have to have all the skills or experience to do this job.\nYou are a good communicator, enjoy working with people, and thrive in a fast-paced environment.\nYou love to solve problems, develop creative solutions, and to collaborate with others to get projects completed.\nYou can adapt to the ever-changing needs of client projects, and have the tenacity, responsibility and commitment to follow through and get things done.\nYou have the right mix of attitude, aptitude, and commitment to take on this opportunity. It will be hard work, and if you are willing to learn, this program will kick-start your career.\n\nDuties & Responsibilities of the role you will be learning on the job:\n\n\n\nWork with the Digital Investment team to support campaigns to meet client needs.\nCommunicate data, trends, and measurement to clients and colleagues.\nDevelop effective reporting and dashboards to communicate information, insights and intelligence to clients and colleagues.\nAnalyze data to generate insights that support performance analysis and optimization.\nClean, prepare, and analyze data to support internal and external client needs.\nCommunicate effectively on projects to manage internal and external expectations.\n\n \n  \n  Requirements and qualifications: Prior Experience, Skills & Abilities: \n\n\n\nHighly detail-oriented, organized, and data-driven.\nAble to communicate effectively and work well with a team.\nLove learning and are ready to develop new technical and professional skills.\nBasic proficiency in MS Office skills including Excel, PowerPoint, Word, and Outlook.\n\nTools & technologies used in this role (prior experience not required):\n\n\n\nPython, Jupyter Notebook\nData analytic tools {NumPy, Pandas, Matplotlib, Sci-kit learn)\nSQL\nTableau",
-    "apply_link": "https://www.dataanalyst.com/job/apprentice-data-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "DataAnalyst.com",
+    "description": "Data Analyst (Entry-Level / Junior)\n\n\n\n\nRole Description\n\nSupport data-driven decision-making by collecting, organizing, analyzing, and interpreting data from various business and operational sources. Develop and maintain reports, dashboards, and data visualizations that provide stakeholders with actionable insights into business performance, trends, and key performance indicators. Perform data validation, cleansing, and quality assurance activities to ensure the accuracy, consistency, and reliability of datasets. Analyze data to identify patterns, opportunities, risks, and areas for improvement, and communicate findings through clear and meaningful reports. Collaborate with cross-functional teams to support forecasting, performance monitoring, process optimization, and strategic initiatives that contribute to organizational growth and operational excellence.\n\n\n\n\nQualifications\n\nBachelor’s degree in Data Analytics, Statistics, Mathematics, Economics, Business Administration, Computer Science, Information Systems, or a related field. Strong analytical, critical-thinking, and problem-solving abilities with exceptional attention to detail. Proficiency in spreadsheets, data analysis tools, reporting platforms, and data visualization software. Familiarity with SQL, database concepts, statistical methodologies, and data management practices is advantageous. Excellent communication and presentation skills with the ability to translate complex data into clear and actionable insights for both technical and non-technical stakeholders. Strong organizational and time-management capabilities with the ability to manage multiple priorities and deadlines effectively. Knowledge of business intelligence, reporting frameworks, data governance, performance measurement, and process improvement principles is a plus.",
+    "apply_link": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-junior-at-careers-at-unesco-4427775163?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "LinkedIn",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "Unknown",
+    "posted_at": "19 hours ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmF0aW9uYWwgU29mdHdhcmUgbWFuYWdlbWVudCIsImh0aWRvY2lkIjoiRTRUdk9OU2lLQVdSdl9Eb0FBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVZHVm5UakkyWWpadGJrTm1Oa2d4UkZwM0xXMVphazVoVVZGNlVtRjJTM0pIWldWclRIWkdlRkpZTFdWaWVuZFBjMmh4YVZZeWVWTm5TVTF0YTFsR05XRkhiM2c1Y2pORGFVeFZkbEJNZWt0cE9XbEdlRGxyTlRsYVZrczBRa3hXZUZocGVXVlVhMEZRVlVZeWFHNW5Na1ZVY1Y5RGVUUlZiR1ZtVjA1WVRXOVpaRjh3WXpnU0Z6aEViM2RoY0hKd1EwMXVkRzFNVVZCNVdsUnJMVkZGR2lKQlNrdE1SbTFNVFRkQlZFTjFWMnBWYUVkQ1pWOHpObWhPVUVsRE9YbE5aVTlSIiwiZmN2IjoiMyIsImZjX2lkIjoiRTRUdk9OU2lLQVdSdl9Eb0FBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmF0aW9uYWwgU29mdHdhcmUgbWFuYWdlbWVudCIsImh0aWRvY2lkIjoiRTRUdk9OU2lLQVdSdl9Eb0FBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVZFNHlURkJzWkd4UVYybFBVekZMZVdOV01FeDBVMnBPWTFKMGMweERPWEJWWkhZMlpEWTJhSGh1YmpGVmNXVkdaWFY2V2poNFZGSlpWWG81WjFGUWVHRm9XbXAxTmtOa1NIRlllVEJCVjBGM2RqSkxaa28yWjNwc2MzbzNlSEV6TjI5c1RrazRNekZSWVVGNmJFZ3dVblpXVVhjeFdFcEZiSEpMUjFJdGRHZEhXV1pYVWxrU0YwcEpOSGhoZFZCUlQxcEVTbXRRU1ZBMFpHVnpORUZaR2lKQlNrdE1SbTFNV2t4M1NGVTJPREJpWkdGdFdGRkJPVzF0V1VoS05rTlhUVXgzIiwiZmN2IjoiMyIsImZjX2lkIjoiRTRUdk9OU2lLQVdSdl9Eb0FBQUFBQT09In0=",
     "title": "Entry Level Business Analyst",
     "company": "National Software management",
     "location": "New York, NY",
@@ -165,11 +178,11 @@
     "via": "Built In NYC",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "18 days ago",
+    "posted_at": "19 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBNYW5hZ2VtZW50IiwiY29tcGFueV9uYW1lIjoiRmlmdGggQXZlbnVlIENvLiIsImh0aWRvY2lkIjoialJzbGVRakRWNnBmMV8zYkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVV5MVdhMHhwVVVSbGVuQjVURkprTFhFNUxUaDRZM1F5VjB3ME1qWlJjR0l6VERsUVVtSlRiRGQxVldsYVVrVllSMDlJVlZCNE1uSkZRMmMzWW1kV2VrbGlaRm96VDJkclpIWlhZMFpoV0ZOaFJFZENVMnBJYkhkalp6TTNlbTlPV0VjNE5EVk5URXB5YUZabGRrMHdZMWw2TkVObk1sRnhNbXh6ZERGSmEwOU9aMUZuU2xnU0Z6aEViM2RoY0hKd1EwMXVkRzFNVVZCNVdsUnJMVkZGR2lKQlNrdE1SbTFNYlhCNFNWbDVTR28zWms5VFYxVnhjVkl6Y0d4UU9WTTJZVnAzIiwiZmN2IjoiMyIsImZjX2lkIjoialJzbGVRakRWNnBmMV8zYkFBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBNYW5hZ2VtZW50IiwiY29tcGFueV9uYW1lIjoiRmlmdGggQXZlbnVlIENvLiIsImh0aWRvY2lkIjoialJzbGVRakRWNnBmMV8zYkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVZERk5NRGRQWXpSM2RHODVOWFpNZDI1WFdYUmtMVE5XYVd4eVZFWnhMVXhqZUhaeGNUWmlkVlpxUW1oNE5HZE1WalpVWDE5UU1UVnRiV1p5VkhCNlZtSnNiVm95U1ZwTlprbEhSMUZhZG5wbVRqbE5SRWswU0daMVUySTVUV0Z5UldkNk1IWmhkMFp0T1dZd2RsZG9Ua0UxT0ROMVdVcDNkM1JQV0hCeWJFbFROMHRmYmswU0YwcEpOSGhoZFZCUlQxcEVTbXRRU1ZBMFpHVnpORUZaR2lKQlNrdE1SbTFKVGtKS1VEbFZORjk1WjJSdVJFbDJkWGxNTUdkYVZUQmlVMWxCIiwiZmN2IjoiMyIsImZjX2lkIjoialJzbGVRakRWNnBmMV8zYkFBQUFBQT09In0=",
     "title": "Entry Level Business Management",
     "company": "Fifth Avenue Co.",
     "location": "New York, NY",
@@ -178,20 +191,7 @@
     "via": "LinkedIn",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "6 days ago",
-    "schedule_type": "Full-time"
-  },
-  {
-    "id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBBbmFseXN0IC0gRW50cnkgTGV2ZWwiLCJjb21wYW55X25hbWUiOiJLR1MgVGVjaG5vbG9neSBHcm91cCwgSW5jLiIsImh0aWRvY2lkIjoiYUUwejdKZUw1T05hX3pxY0FBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVZIRkdSR3hxV2xsUlZqWnhha3czVlVOaWRqVXRlRVozVW1RNVNqUlZSVnBZTms4MlZUZG9ZVlpIZFV0UlRrNUxXVXczWVVSYVRrOUlXV0ZyVDFacWFHcExORTUxWTNORlRtdDRkVlZ0T1RFNGEycGlMVVV4WDNwdU5UQTBhbmxNVjFSSVFXTmpkRk5mZFdsVFJrMUhOVnB3ZVhWVFRFUlNiRUZTVFhscFdEQktORlZ3Tm5jU0Z6aEViM2RoY0hKd1EwMXVkRzFNVVZCNVdsUnJMVkZGR2lKQlNrdE1SbTFMWm5SNVlrUnNjVEZ4YjBFeVFWSlZkWE50U1RKc2VtaG1VbkozIiwiZmN2IjoiMyIsImZjX2lkIjoiYUUwejdKZUw1T05hX3pxY0FBQUFBQT09In0=",
-    "title": "Business Analyst - Entry Level",
-    "company": "KGS Technology Group, Inc.",
-    "location": "New York, NY",
-    "description": "Your main tasks will include performing detailed requirements analysis  documenting processes  and performing some user acceptance testing. To succeed in this role you should have a natural analytical way of thinking and be able to explain difficult concepts to non-technical users. Relevant Technical Skills   - System Development Life Cycle ( SDLC )  Agile Methodology  Scrum Master and Waterfall Model.\n\nResponsibilities and Duties   Evaluating business processes  anticipating requirements  uncovering areas for improvement  and developing and implementing solutions. Leading ongoing reviews of business processes and developing optimization strategies. Staying up-to-date on the latest process and IT advancements to automate and modernize systems. Conducting meetings and presentations to share ideas and findings. Performing requirements analysis. Documenting and communicating the results of your efforts. Effectively communicating your insights and plans to cross-functional team members and management. Gathering critical information from meetings with various stakeholders and producing useful reports. Working closely with clients  technicians  and managerial staff. Providing leadership  training  coaching  and guidance to junior staff. Allocating resources and maintaining cost efficiency. Ensuring solutions meet business needs and requirements. Performing user acceptance testing. Managing projects  developing project plans  and",
-    "apply_link": "https://www.optnation.com/business-analyst-entry-level-job-in-new-york-ny-view-jobid-23558?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "OPTnation",
-    "score": 0,
-    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "Unknown",
+    "posted_at": "7 days ago",
     "schedule_type": "Full-time"
   }
 ]
