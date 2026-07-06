@@ -1,6 +1,6 @@
 [
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRGhhbGl0ZSBJbmMuIiwiaHRpZG9jaWQiOiJTZWwxUzBpR2U3dkc4cFJUQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2psRlgzbHdXVkZGT1hwS1pUY3pTVE5TY2tKSVlsVTNZVlp2WjJwUE9FcFlVVVZyVW01VFYzRTFjVTQwZVdsVmVrUldlR05DVUdwRU1EZDNTR0ZLVVdaa1FWOVFaazF2TmsxdmNFSldWRzV0V21aYU1FVldWMU15TTBveU5UTnBNRUpNUVZSV1gyMVlkRjkwUlV0Nk5FdElRWFZXVGtSSWFuWXhOazVDU0ZWMVYwaHFORU1TRjFsSGJFdGhiek5SUmxCWWRHMU1VVkIwTmkxemNWRk5HaUpCUkhOeU9XWlRlalp2UjJKWVNIVkxTV1pGTVcxT01GWlBNbWRWVG14S1MwWlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJTZWwxUzBpR2U3dkc4cFJUQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRGhhbGl0ZSBJbmMuIiwiaHRpZG9jaWQiOiJTZWwxUzBpR2U3dkc4cFJUQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1hWNGEyZE1VWGRLTkhKNUxVMDNOVVZ3TlRkalpHNXdVRXMzTVMwMGVsRmFVVVIwTVZGa1JWUmtVbXhsUlRsV1duUjJTR2RrY1ZNeWNVVkhPRVpmTFdReVYyMWpkMU53YkU5YVRYQm1Ramx6ZG5GUGNXSmxVMmd6UVd0elMzWmhhWFpYYm5oaFgzRmpiVWRFYjBGb1pVeG5OVmwxUkhaQlYyTnVZa1U1VUhWUk5Yb3pUWElTRnpaMFRreGhjME5NU3pVeWFUSnliMUJ5WDFReWJWRkpHaUpCUkhOeU9XWlNSRmRvY2xkRWVtVkRWRmxvYkRCblZWY3pjMVpGV0c5eVkzRm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJTZWwxUzBpR2U3dkc4cFJUQUFBQUFBPT0ifQ==",
     "title": "Entry-Level Business Analyst",
     "company": "Dhalite Inc.",
     "location": "New York, NY",
@@ -9,11 +9,11 @@
     "via": "Dice",
     "score": 92,
     "reasoning": "The candidate is an excellent match, possessing both Computer Science and Management degrees, alongside a Google Data Analytics Certificate. Their detailed projects clearly demonstrate strong capabilities in SQL, data analysis, visualization, requirement gathering, and ensuring data integrity, directly addressing the core responsibilities of the role. Although prior experience isn't explicitly titled Business Analyst, the candidate's practical application of skills is highly relevant for an entry-level position.",
-    "posted_at": "26 days ago",
+    "posted_at": "27 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXMiLCJjb21wYW55X25hbWUiOiJBU0ggY29uc3VsdGluZyIsImh0aWRvY2lkIjoiUldkTU5jZlVRaEFvSlBTcUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFN6WTVTblpNWlhaMmFGZDViREJTVFdZeGJXNVVkRUYyUzFKSFdWUmFiWEpoV21SUlJVTkRUbm96TFZKU05ETktiRzFmTVRZeE9UbFNWa3BJWDNweWFTMU9NREZKUzFJemVqbHJaMGhKT0hFNGVrRnVibGh2TVUxeGJGVnVOV2RUVnpOTU9HRlJXbGR1WlVGWlNuaFlZbWxOT0U5UlRqSXRNVkZuUmpkUmFGbEhUbk00WWxVU0ZsaFhiRXRoZEdsT1RqUTNRbkoxUlZCMmNWUjRSMEVhSWtGRWMzSTVabFJhZDFkNlJYcHZORUV6YlVsMk5UaE1VRU51VjBoRFVERkJhMUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJSV2RNTmNmVVFoQW9KUFNxQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXMiLCJjb21wYW55X25hbWUiOiJBU0ggY29uc3VsdGluZyIsImh0aWRvY2lkIjoiUldkTU5jZlVRaEFvSlBTcUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVWndlV1kyTXpWWGRVTm5jVGRrVXpSVVkwbGFUWGxFYWswNFkwSkZTM0poVldnNGFuTlFNMkV6WnkxVlZtWktjREZGVTBsRGFsbHpkMU5FTUMxamNWSnhWVUZqTkRSMVJtODVTRlIyZVZVeGJrMWpPVTVmYzFCU1gyZE9SME5uUmxkbmVHRldSSGx1V0hKS1ZUaEZhemRtZEZSbVlYQjJjVjlxU0ZCUmRYbG9SREJxWVVvU0Z6SjBUa3hoZERaclRuRnhXSGRpYTFCeWRTMW1lVUU0R2lKQlJITnlPV1pUTldWVmRFWkpSWGhmU0dWQ00ydEZOV0owU1doS1EzYzNWRUZuIiwiZmN2IjoiMyIsImZjX2lkIjoiUldkTU5jZlVRaEFvSlBTcUFBQUFBQT09In0=",
     "title": "Junior Data Analys",
     "company": "ASH consulting",
     "location": "Anywhere",
@@ -22,11 +22,11 @@
     "via": "LinkedIn",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "17 hours ago",
+    "posted_at": "2 days ago",
     "schedule_type": "Part-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBIdW1hbiBSZXNvdXJjZXMgXHUwMDI2IERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNvY2lhbCBDYXBpdGFsIFJlc291cmNlcyIsImh0aWRvY2lkIjoiWUJHZzRVNmNMemZZY2MyVkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFRDMUliVWQxY1c1WmFuWjVOV3RaTUZaM2VXSkpSMVpQVEZSWWVYQlNNUzEzUjJ0NmFEUXhMVmRsUjBwc2VYTTBTelpzVG5CUlgwaFlUMUpvUWpaeVVGTXhWa1pHYlVGM2MxcExSekV4T1hSM1RuQkRUbUZDVjNjeVVUQldRVVp4TWtwVmQxcEpNWEZHTnpKMVdUUnhTblJETjFOZmJqWmlYMlJFVkRSck9GY3RTRW8xZWtnU0ZsaFhiRXRoZEdsT1RqUTNRbkoxUlZCMmNWUjRSMEVhSWtGRWMzSTVabEV0WjFJNVkzTkNWbFJaV1U5SmJGcGZXbkZCTXpoYWJsRTJXVkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJZQkdnNFU2Y0x6ZlljYzJWQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBIdW1hbiBSZXNvdXJjZXMgXHUwMDI2IERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNvY2lhbCBDYXBpdGFsIFJlc291cmNlcyIsImh0aWRvY2lkIjoiWUJHZzRVNmNMemZZY2MyVkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNrRjRZMDlOUTAxd1gwMHRaVTlUYzBGdWVFbFFlREZ6TVV3elN6TmlSbTA0ZW1GeFdtMTJWMUJwYUhGV1ZrWlZZVVEwU2pWRVl6QmZkMmRqUkhSWWVHOWtiRU5oUW1vNFUzaFRjMEZ5TFRSamJsWXRhbFpEZGs5Q1QxRnViV05oVG1oWE0xcFdia1pFYzFCUk9IQlRjR1ZZZDNGeFEyaFNSWEZVUW1oc1FqVm1WakJyVEVrU0Z6SjBUa3hoZERaclRuRnhXSGRpYTFCeWRTMW1lVUU0R2lKQlJITnlPV1pVV2tGd1F6TjZXSGQyVGtVemRtUnNVa0V6ZEdsa2RVRkZTVEZuIiwiZmN2IjoiMyIsImZjX2lkIjoiWUJHZzRVNmNMemZZY2MyVkFBQUFBQT09In0=",
     "title": "Entry Level Human Resources & Data Analyst",
     "company": "Social Capital Resources",
     "location": "New York, NY",
@@ -35,24 +35,11 @@
     "via": "LinkedIn",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "3 days ago",
+    "posted_at": "4 days ago",
     "schedule_type": "Contractor"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJIeWJyaWQgRGF0YSBPcGVyYXRpb25zIEFuYWx5c3QgKEVudHJ5IExldmVsKSIsImNvbXBhbnlfbmFtZSI6IldvbGZlIFJlc2VhcmNoLCBMTEMiLCJodGlkb2NpZCI6Im93cTVvUDlUUld1MjdrUW9BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTbHBtUm5SV01FeGxOa1psTW5sSmFHVnNXVFl5TUhSaU5ETjBjMFowYm5GR2RuaFZYM3B6YUhneWJ6TnJTVlo0Um5KdFNYZERWSGhOYnkxNlNrNUVUbE5ZZUhKUE5HUnNjMnhrY1dwSk1XTktOMk4zZVU4M2Fua3hMVjlmYUhGclpqSjFPV3czTkZrd2MyWjFNWHA1WlVkSFVHMWphVFk1YWtaMmNrODFhbWRJTUZFd2RISVNGbGhYYkV0aGRHbE9UalEzUW5KMVJWQjJjVlI0UjBFYUlrRkVjM0k1WmxOU1JVWnBibEV3TTJGb2QwOTBabEJSWWsxalpIRlZXbGxzVTBFIiwiZmN2IjoiMyIsImZjX2lkIjoib3dxNW9QOVRSV3UyN2tRb0FBQUFBQT09In0=",
-    "title": "Hybrid Data Operations Analyst (Entry Level)",
-    "company": "Wolfe Research, LLC",
-    "location": "New York, NY",
-    "description": "Wolfe Research, LLC based in New York is looking for a motivated entry-level Assistant to join their Operations team. The role focuses on data management, reporting, and automation across departments. The candidate will handle data administration, contribute to systems integrations, and support machine learning initiatives.\n\nThe position features a hybrid work arrangement of three days onsite and offers a competitive base salary in the range of $90,000-$115,000, along with comprehensive benefits.",
-    "apply_link": "https://www.jobleads.com/us/job/hybrid-data-operations-analyst-entry-level--new-york--e35e4d064b520039cd147e83cb3cc77c4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "JobLeads",
-    "score": 0,
-    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "7 days ago",
-    "schedule_type": "Full-time"
-  },
-  {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiVkFDTyIsImh0aWRvY2lkIjoiU2xVaFo3TWlWYmxXbGRtVUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFNtY3RUbDgwTldSbWJtSmFXbGQ0VEV4b1VsQklZMXBoV1Vkb05FUkVRekZoUVZSNlgyMUNXbkkyVlZsMFV6QnVTemM0V1VnM1FWZ3RabU52UjBkMVVreFhlVWxCTmpsTmJXUnBjRmd4ZEZNMk16RXdVRGRKYUhkV1dUZEhOWE50VmtsUFUwdFViVE5XVEhaeGEzcFpaRlYyU0dwRFJXeG1TREZpZVVOWk5WSTBZV1paTmxFU0ZsaFhiRXRoZEdsT1RqUTNRbkoxUlZCMmNWUjRSMEVhSWtGRWMzSTVabE01TlVaTFZVRk1WSHBFYjNWME1FZHRiSE5qZHpGaFozcElTWGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJTbFVoWjdNaVZibFdsZG1VQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiVkFDTyIsImh0aWRvY2lkIjoiU2xVaFo3TWlWYmxXbGRtVUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRGRTNkM2RQTjI5TGFGbGxka3BOYmtZNVZsODNibXN3UVRkS1RraFNha1ZyYXkxWk5WWmpXbUpyWjFWMGVXOTROemhZZFd4ak4wc3pSeko0TjFSZmJWRk5iakEzUW5WNlZrSnVORlp0TjI1V2JVbEVRMVpqUkZsaFdGaEtha0pFZGxrMU5HTTVhMFUzZEhsNlQzYzBlVWRtTnpST04wTlNSRkU0VUMwNFZVZE9UVmRNT1MwU0Z6SjBUa3hoZERaclRuRnhXSGRpYTFCeWRTMW1lVUU0R2lKQlJITnlPV1pTUnpORFN6Wk5ha0pXUWxndFV6Sm1ZM1ZKVERoeU1EZGxVRmxCIiwiZmN2IjoiMyIsImZjX2lkIjoiU2xVaFo3TWlWYmxXbGRtVUFBQUFBQT09In0=",
     "title": "Entry-Level Analyst",
     "company": "VACO",
     "location": "New York, NY",
@@ -61,11 +48,11 @@
     "via": "SaluteMyJob",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "16 hours ago",
+    "posted_at": "2 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBSZW1vdGUgRGF0YSBBbmFseXN0IGF0IGNld2l0IE5ldyBZb3JrLCBOWSIsImNvbXBhbnlfbmFtZSI6ImNld2l0IiwiaHRpZG9jaWQiOiJqMGZRVDd4d3RJNlBEcnJLQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwUzJ0RGNIWnpVMXBQWkc0eVdqa3hNa2hYVERoWWJGQkJVbFpmWXpkdlNHNDNiRGwzZFZOQ1UySmpZbTFtVG5Wa2EwdE5WMWxqVlMwM1QyMUhhV0ZSUWtNd1ZIcERWbVZITUhFMVlXSlFRVzlaVWsxTVIzZGtkMlpvZWkxbFlWWkpaRWhLYUZwdWVFRlZYMlJvYTBsdlpEbHJjSGhoVDFvellscHVZVlZ2VVZnM1pqSXRaWGdTRmxoWGJFdGhkR2xPVGpRM1FuSjFSVkIyY1ZSNFIwRWFJa0ZFYzNJNVpsRjZiWFIzV2tneFdrSjFkRUZHUjAweldsbE5OMHRDY0haQmNGRSIsImZjdiI6IjMiLCJmY19pZCI6ImowZlFUN3h3dEk2UERycktBQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBSZW1vdGUgRGF0YSBBbmFseXN0IGF0IGNld2l0IE5ldyBZb3JrLCBOWSIsImNvbXBhbnlfbmFtZSI6ImNld2l0IiwiaHRpZG9jaWQiOiJqMGZRVDd4d3RJNlBEcnJLQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25jdGIyZG9VbXRRWlVwdk0zTllVVUZwWmxCVGVIQjJaVmRuTW1oelpsa3pUamRvT1MxVVRuRk5Rbkl6VmxCdE9EZ3dla0pwYzBaeU1tZGhNRXgwYjNWeFYwaERkV3BZWjJnM1NrdFFWRUZFVkhjM1NGZFdhR05yVDNseFgwOUJVM2h4VXpaVFMwWm1halI0WjBoeFRHZEdaM0ZvZG5GaVduWTRiVVo0WXpSYVRFSndPVFFTRnpKMFRreGhkRFpyVG5GeFdIZGlhMUJ5ZFMxbWVVRTRHaUpCUkhOeU9XWlNSRko0WTBJeFUwbFNNVU10VmsxVlpuWkJUMFZhWWxnNFlUbFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJqMGZRVDd4d3RJNlBEcnJLQUFBQUFBPT0ifQ==",
     "title": "Entry-Level Remote Data Analyst at cewit New York, NY",
     "company": "cewit",
     "location": "New York, NY",
@@ -74,24 +61,24 @@
     "via": "Digitalhire",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
+    "posted_at": "16 hours ago",
+    "schedule_type": "Full-time"
+  },
+  {
+    "id": "eyJqb2JfdGl0bGUiOiJIeWJyaWQgRGF0YSBPcGVyYXRpb25zIEFuYWx5c3QgKEVudHJ5IExldmVsKSIsImNvbXBhbnlfbmFtZSI6IldvbGZlIFJlc2VhcmNoLCBMTEMiLCJodGlkb2NpZCI6Im93cTVvUDlUUld1MjdrUW9BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURWRtUlRsRldqUTNUR0oxVHpCbmNWaEZaSEpWV2psbE9GTndibGRSTFRCdU9GUkhhbkp6WlZkQlRtbHVNRjl4U0ZWT05WY3pTbUZNVlV4MGREZFZZbFl5Wm1GNE0xSmtTMVJHVTBGdlZtRm5ZblV0YkRKT2RGOWZVSFZ1V1VKdk1HWlRibTVEY1V4clpYVlpMVkl6WlcxR2FYY3lRMjFwZG1jNVNWaFNaV2hGWkhWMU4zZ1NGekowVGt4aGREWnJUbkZ4V0hkaWExQnlkUzFtZVVFNEdpSkJSSE55T1daVFZrTmhkbDlCVG05S1luTm9YMWhaYTJwRFRIRm5aMm90Y2poQiIsImZjdiI6IjMiLCJmY19pZCI6Im93cTVvUDlUUld1MjdrUW9BQUFBQUE9PSJ9",
+    "title": "Hybrid Data Operations Analyst (Entry Level)",
+    "company": "Wolfe Research, LLC",
+    "location": "New York, NY",
+    "description": "Wolfe Research, LLC based in New York is looking for a motivated entry-level Assistant to join their Operations team. The role focuses on data management, reporting, and automation across departments. The candidate will handle data administration, contribute to systems integrations, and support machine learning initiatives.\n\nThe position features a hybrid work arrangement of three days onsite and offers a competitive base salary in the range of $90,000-$115,000, along with comprehensive benefits.",
+    "apply_link": "https://www.jobleads.com/us/job/hybrid-data-operations-analyst-entry-level--new-york--e35e4d064b520039cd147e83cb3cc77c4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "JobLeads",
+    "score": 0,
+    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
     "posted_at": "8 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJPcGVyYXRpb25zIERhdGEgQW5hbHlzdDogRW50cnkgTGV2ZWwgSW5zaWdodHMiLCJjb21wYW55X25hbWUiOiJGb3J0cmF5IEdsb2JhbCBTZXJ2aWNlIExpbWl0ZWQiLCJodGlkb2NpZCI6ImNRMVVPeVV2UkVmM2ZMeE1BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTa2d5WjB0WlltMVhWa3ByWDJoWFptNDVUa3hEVDAxNVRFVk1ZVjlaVTFab1FreHpTbk5NVG1GSFlUVnNSV0UzVW0xM1ZVSm1WMmxGWm04d2VVRkhNME4wV0MwMlVucENiWEJsUjNoWFRGRm5ka1pJUVhCRFduaGhkRlZ3TjJkVWJqQlJXVWhDTkhOWldFdFNjRzl2VFhCcGFqUkhSeTEyUjFSS01rOXpiVzB4VGpCNFltOFNGbGhYYkV0aGRHbE9UalEzUW5KMVJWQjJjVlI0UjBFYUlrRkVjM0k1WmxScFozbFJSalp0VjFWamFXeFpiM3BpWlZnMWVHUnpPR3hhWTNjIiwiZmN2IjoiMyIsImZjX2lkIjoiY1ExVU95VXZSRWYzZkx4TUFBQUFBQT09In0=",
-    "title": "Operations Data Analyst: Entry Level Insights",
-    "company": "Fortray Global Service Limited",
-    "location": "New York, NY",
-    "description": "Fortray Global Service Limited in New York is looking for an Entry-Level Operations Data Analyst to deliver data-driven insights that support business operations. The successful candidate will collect and analyze data, generate reports, and help identify trends to aid decision-making and enhance efficiency.\n\n\nThis role is suitable for recent graduates or career changers with foundational knowledge in data analysis.\n\n\nKey skills include proficiency in Microsoft Excel, SQL, Power BI, and Tableau. The position offers opportunities for growth in data analytics within a supportive environment.",
-    "apply_link": "https://bebee.com/us/jobs/operations-data-analyst-entry-level-insights-fortray-global-service-limited-new-york--lensa-7428_36a9594164343b2b049148467ce70b3d332de8e502373af7f49e864ed4b9cd82?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "BeBee",
-    "score": 0,
-    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "7 days ago",
-    "schedule_type": "Full-time"
-  },
-  {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbC9ObyBFeHBlcmllbmNlIERhdGEgRW50cnkiLCJjb21wYW55X25hbWUiOiJBcGV4IEZvY3VzIEdyb3VwIiwiaHRpZG9jaWQiOiJiRHB0SHpNMElaYlZBbXdUQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwU25OeVJXOWtSRTVOUkVkT1kxaFdTbTVXWVVsVVEzSnZPR0p3Y0ZWT2FqVjVSMHRPUjJWV1R6UjVSbkZ6Ym0xSmRFOWxORzh0ZVROV04wSm9hbkJJTFZCcFpVdHdTbFZHYVV0SlZUVjRjWGRyV1hwcE4xSlhZa1pEWmxaeWJXTkJORzlPYW10cE1qTjVOMHRUUzJFdFdrNVNZak5MU1dac1pUUmtNbWxOZVdoeGRrVmpUbFlTRmxoWGJFdGhkR2xPVGpRM1FuSjFSVkIyY1ZSNFIwRWFJa0ZFYzNJNVpsSkZUM1ZpZEZscWRrNTViR0p0UW5WNU9IZDZTbUV0VUdsRWNtYyIsImZjdiI6IjMiLCJmY19pZCI6ImJEcHRIek0wSVpiVkFtd1RBQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbC9ObyBFeHBlcmllbmNlIERhdGEgRW50cnkiLCJjb21wYW55X25hbWUiOiJBcGV4IEZvY3VzIEdyb3VwIiwiaHRpZG9jaWQiOiJiRHB0SHpNMElaYlZBbXdUQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNCcFdUTnJiREEwTkZkbmRGaG1aeTF3WW1SRmMwcHpjMnRIUmkxalprZzBZMlV5V21SUlYxcERTeTB6U1dab1dIWmxZeTAwTUhVdE5YbHlRbEoxU1c5UVNVcHFOM0I1VG5aSGRUa3dOa2RuV1V0UU9YQk9abk0xWm5JNWIyOU1SbHBYTkZaV0xVdFZRV3RaUlhCbGJHSnlYelp3TW1aSFRXSmpVRXgxY1VGWFMwVkhOazhTRnpKMFRreGhkRFpyVG5GeFdIZGlhMUJ5ZFMxbWVVRTRHaUpCUkhOeU9XWlNUMVZ4V1RWTlpteG1UblYzWldWc05UTndaa015VFRWUFdYTm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJiRHB0SHpNMElaYlZBbXdUQUFBQUFBPT0ifQ==",
     "title": "Entry Level/No Experience Data Entry",
     "company": "Apex Focus Group",
     "location": "New York, NY",
@@ -100,11 +87,11 @@
     "via": "Apex Focus Group",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "11 days ago",
+    "posted_at": "12 days ago",
     "schedule_type": "Part-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJGdWxseSBSZW1vdGUsIEVudHJ5LUxldmVsIERhdGEgRW50cnkgSm9iIiwiY29tcGFueV9uYW1lIjoiU21hcnQgSGlyZSBBZ2VuY3kiLCJodGlkb2NpZCI6InNuUTh1VS1kUmFxOXRwRE9BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTMHhKYkVvNFFtSkplVUp6UzAxbGRsQXlSVXQyYVhoc1UyUXRNVWhaTVRoV1NGTlhaV2xsYUhSRVRVYzNTazh4WjFFNFZYbGFiVVpMZDJaWFIxUmpiMWx5UVhVNWVrTlFaMVp5ZVdSTWJHdFZPVlZCU1hsc01HUkpXRmRUT0doalIyNUhRMGhUV21Oa05tNURNMVYzWDFKbWFqVmtkSEl4U1RnMVYxVnhjRmhVWjI4M1NFRVNGbGhYYkV0aGRHbE9UalEzUW5KMVJWQjJjVlI0UjBFYUlrRkVjM0k1WmxGRFRHTm9ObmxDTkMxUWJqZGhTMWxJYkRaVFJsRlFNVk5yVWxFIiwiZmN2IjoiMyIsImZjX2lkIjoic25ROHVVLWRSYXE5dHBET0FBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJGdWxseSBSZW1vdGUsIEVudHJ5LUxldmVsIERhdGEgRW50cnkgSm9iIiwiY29tcGFueV9uYW1lIjoiU21hcnQgSGlyZSBBZ2VuY3kiLCJodGlkb2NpZCI6InNuUTh1VS1kUmFxOXRwRE9BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM0ZZVXpoVWRXdEVTa280YmtwUVFWVk9jVWhKWHpodFJFWjFSa0YzYlMxMVFtUkpYM1pRVEVrMFFqRTRXbmROZUhGb1Z5MW9PSFEzZGt4U1VFTXhlSGRvZEVKSVVWSlJZVEpFVlVjeGRUY3lZVzFPYW1WV2JWRmxaRk5mYmxCbFZrZ3haekZqVWxoWFJtUmtPV0ZQT1ZOV09IUnhTbTl2VkRGMGFsRkRTMHRFZFc1NWFYa1NGekowVGt4aGREWnJUbkZ4V0hkaWExQnlkUzFtZVVFNEdpSkJSSE55T1daVGEyUnZiM05uVlhodGQxUXdWVzl1TVd4bVVXSjBPV0ZHV2psUiIsImZjdiI6IjMiLCJmY19pZCI6InNuUTh1VS1kUmFxOXRwRE9BQUFBQUE9PSJ9",
     "title": "Fully Remote, Entry-Level Data Entry Job",
     "company": "Smart Hire Agency",
     "location": "New York, NY",
@@ -117,7 +104,20 @@
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBEYXRhIEFuYWx5c3Q6IFZpc3VhbGl6YXRpb24iLCJjb21wYW55X25hbWUiOiJNYXppQ1Rvb2xzIiwiaHRpZG9jaWQiOiJod3NURkdfeEpfN2w1dlhRQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwU2tGVmNXVmpkVEpzVUd0T1FpMHhSeTEwTlRsVk0zaHdVMDVVVkRneE9WTkhkVzVhYldOcFdtdGpaR0Z0ZWs1elZHNTNZVGxCY3poWVJIbEpXbGRxU2swdE9HbHJWM2RtUW1sU1dHdDVSM3BuWkZwWVZEVTRaM0pMWkVsRWVFNUdTRVJmY0RodllqY3pSM1pmUzJ4aFgyazFRWEpEV2xOTE1ETmtRVmRpWVRFMGIyMWliRTRTRmxoWGJFdGhkR2xPVGpRM1FuSjFSVkIyY1ZSNFIwRWFJa0ZFYzNJNVpsRnVNa2hDVjNCNVpUQlRiMDl1VlhaWVFtUjNhWEUxT0hReFMzYyIsImZjdiI6IjMiLCJmY19pZCI6Imh3c1RGR194Sl83bDV2WFFBQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJPcGVyYXRpb25zIERhdGEgQW5hbHlzdDogRW50cnkgTGV2ZWwgSW5zaWdodHMiLCJjb21wYW55X25hbWUiOiJGb3J0cmF5IEdsb2JhbCBTZXJ2aWNlIExpbWl0ZWQiLCJodGlkb2NpZCI6ImNRMVVPeVV2UkVmM2ZMeE1BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTalJEVTBNME1uRkNRVVV3Y0UxWGQyRm9Sa3h2ZDBWdE4zZG5SMVExWjNOR2NIVXpWelJqVTFGdmVVNUVRMk5wWnpkQ1VWRnVjVEJ3TWtWd1ZqWXhaRkZLWTFwNVVrUk9SelZVZG05eFlVYzFNRmhxUVdoRWNtSkpUVWhLYmtWclZWbGxiVWRaVjB0eWFHdzBkVUpVYTA1b09GaFFURVJYYmpGcVNGWnNOMngwWm1oeVduZ1NGekowVGt4aGREWnJUbkZ4V0hkaWExQnlkUzFtZVVFNEdpSkJSSE55T1daVVJXaHZiRjlPTjFoSFVHZEllSE5IZEhsT1ZWQkNWMGx3VTBaUiIsImZjdiI6IjMiLCJmY19pZCI6ImNRMVVPeVV2UkVmM2ZMeE1BQUFBQUE9PSJ9",
+    "title": "Operations Data Analyst: Entry Level Insights",
+    "company": "Fortray Global Service Limited",
+    "location": "New York, NY",
+    "description": "Fortray Global Service Limited in New York is looking for an Entry-Level Operations Data Analyst to deliver data-driven insights that support business operations. The successful candidate will collect and analyze data, generate reports, and help identify trends to aid decision-making and enhance efficiency. This role is suitable for recent graduates or career changers with foundational knowledge in data analysis. Key skills include proficiency in Microsoft Excel, SQL, Power BI, and Tableau. The position offers opportunities for growth in data analytics within a supportive environment.  #J-18808-Ljbffr",
+    "apply_link": "https://www.whatjobs.com/jobs/operations-data-analyst-entry-level/new-york?id=2845685365&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "WhatJobs",
+    "score": 0,
+    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
+    "posted_at": "8 days ago",
+    "schedule_type": "Full-time"
+  },
+  {
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBEYXRhIEFuYWx5c3Q6IFZpc3VhbGl6YXRpb24iLCJjb21wYW55X25hbWUiOiJNYXppQ1Rvb2xzIiwiaHRpZG9jaWQiOiJod3NURkdfeEpfN2w1dlhRQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZack9GbEpjV3cwZDBoeVpYbGliV05WVDBJNU5YZGFNRVZKVGtoQ1lURmpTRjlKZW1sbmJUQnFSVlE1T0VKaE9XOWZkRk53TTJSbk0yTjRSWEJyYkZaRU5FOVZibFIxTlhwMlZqWm5ka2hEWldwU1NYbHRSVVpqUkVseFp6UlVTVjlRZG1nM1RVVnpSeTB5Y0ZrM2NWZE1NekZFUlU5QlFuUXlkMGhzU1hkYWEzTTFSalFTRnpKMFRreGhkRFpyVG5GeFdIZGlhMUJ5ZFMxbWVVRTRHaUpCUkhOeU9XWlNSblZSVDNCNE5GVmlRamRWVlhFeVJtZElXR3hOYmxsSFNISm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJod3NURkdfeEpfN2w1dlhRQUFBQUFBPT0ifQ==",
     "title": "Entry-Level Data Analyst: Visualization",
     "company": "MaziCTools",
     "location": "New York, NY",
@@ -126,11 +126,11 @@
     "via": "Trabajo.org",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "5 days ago",
+    "posted_at": "6 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBsZXZlbCBEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJIaXJpbmdNaXJyb3IiLCJodGlkb2NpZCI6Ik1UYUNFUE42V09LQVZ3Y3NBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTazFKZGpCU1pIWjNTMnd0WlhoQlgxZ3dSRzF3YzBsRlgzSm1abmRPWkMxRFpUaEZWVnBqT1c5dVkxUTFSR000YkdWeWVIY3hiVUZPUmtWa1lVRmhWbUpUTUVKSFdHVldVMlZhY1hoc09FdFFUbnBxVDBkVFRqZFNYMHBLVEhZNE5qTmZjVEUzV1VGUE0zVm1iMlpzUkhBMWFGTkVhbGxLWVRKdU5tcDBiRXBhUzBRd1pGVVNGbGhYYkV0aGRHbE9UalEzUW5KMVJWQjJjVlI0UjBFYUlrRkVjM0k1WmxKV05IVlRiRkF4YUVzek5FNWphVFJSY0hCeWJWbFpUM0JYVTBFIiwiZmN2IjoiMyIsImZjX2lkIjoiTVRhQ0VQTjZXT0tBVndjc0FBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBsZXZlbCBEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJIaXJpbmdNaXJyb3IiLCJodGlkb2NpZCI6Ik1UYUNFUE42V09LQVZ3Y3NBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbUpuVUdSV1ZITkxWbG80ZFdWdFNFd3haVEU0TjFoTlozQk9PRmh1VlZwWFZIbDZUR3ROUjFWNWEweFBjbEZ4WjBsMmJ5MUtPV3BFWlVrd1NVcHNSV2xwY2kxb1VERTNTMUpZTUdacVJuZE1OMGRGVEhwTmNXVkhWa2gyUkdsTVZXSlJPRFpNVlRWWVduWnJTa3c0ZVdjelNETTVabUZTVXpSRVdWQnpUbkZDTTNKemVIRVNGekowVGt4aGREWnJUbkZ4V0hkaWExQnlkUzFtZVVFNEdpSkJSSE55T1daUlpqWTFhQzFST0hkWFZVWkpTMk5SZEhVdFJraFRMV3BsUzE5QiIsImZjdiI6IjMiLCJmY19pZCI6Ik1UYUNFUE42V09LQVZ3Y3NBQUFBQUE9PSJ9",
     "title": "Entry level Data Analyst",
     "company": "HiringMirror",
     "location": "JOHN F KENNEDY AIRPORT, NY",
@@ -143,20 +143,7 @@
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmF0aW9uYWwgU29mdHdhcmUgbWFuYWdlbWVudCIsImh0aWRvY2lkIjoiRTRUdk9OU2lLQVdSdl9Eb0FBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFdG9ORVZtTFZGSlpEQkNWVFJDV25WU2EzUm9VWE5QU2xWRmFIbGhlWEEwVUdSUU1FdGpjbXh1Y1V4R1RVdzVNRTh6WTNBMlVteHpNbGxVYWxWUGJ6azVkV2hCYlZabFlqVnZRVkZEVW5oTFNqazBSMVJSU0Y4MVdqVmFWVFV4YVRKRE9GWkVhM0J1VTJ4R1ExZHpUMGhoVm1SaVZFa3hXWEZoVms5TWVtRnFUV3hVYUd3U0YxbEhiRXRoYnpOUlJsQllkRzFNVVZCME5pMXpjVkZOR2lKQlJITnlPV1pUYUZaR2JDMUlkRmhzWTI4eE5qUTVSbWR1TFZGMFJrc3RSVmRSIiwiZmN2IjoiMyIsImZjX2lkIjoiRTRUdk9OU2lLQVdSdl9Eb0FBQUFBQT09In0=",
-    "title": "Entry Level Business Analyst",
-    "company": "National Software management",
-    "location": "New York, NY",
-    "description": "Company Description\n\nNational Software Management is recruiting qualified individuals for full time opportunities we have currently in our organization for our growing client needs.\n\n\n\nJob Description\n\nWe are looking for Entry Level Business Analyst. This Position will work with gathering and analysis and will assist with software evaluation, strategic planning, asset investment planning and system implementations\nResponsibilities :\n\nDocument application functions, data and process flows using prescribed template, or appropriate fit-for-purpose format Participate in integration design process and provide detailed documentation and requirements as appropriate. Document reports required by system stakeholders. Oversees the acquisition, analysis, strategy and dissemination of subject matter knowledge. Conducts high level business analysis involving complex business requirements and process\n\nQualifications\n\nBachelors or Master’s Degree0-1 year of experienceStrong Communication & Technical skillsResponsible, dependable, quick learnerDemonstrated ability to adapt to new technology\n\nAdditional Information\n\nAll your information will be kept confidential according to EEO guidelines.",
-    "apply_link": "https://www.builtinnyc.com/job/entry-level-business-analyst/6193767?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "Built In NYC",
-    "score": 0,
-    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "12 days ago",
-    "schedule_type": "Full-time"
-  },
-  {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IOKAlCBOZXcgWW9yaywgTlkiLCJjb21wYW55X25hbWUiOiJNYXRyaWNzdGVrIEluYy4iLCJodGlkb2NpZCI6InVFQW1BV1lXYmJ6OHpJTlJBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURmh2WlhKWlUwTk9kbTQxUWw5YVYyaHVhM2QzU1VGSE1VUkhaRzR4VURoYWVEVllPSFZLTjNjNVJuUjFlbUZoUzFvemNXOVpNa1pmUlVGSllWVnJSbW95YUhvdFJqVjJNa2hoWWxNNWVIaHFWa0pZV0ZJeFNIaHFVRmQ0UnpsU1EyaDJia3hCU3pCc04wY3hVWGRIZFVKdU9XZ3lXV1ZoYkhBdGVEQlJXbVpzUnpOQkxXd1NGMWxIYkV0aGJ6TlJSbEJZZEcxTVVWQjBOaTF6Y1ZGTkdpSkJSSE55T1daU1dYQTJia05GUVRGTmRWVTVlbUZIVlhab1IzRkRaMjk0VVhaQiIsImZjdiI6IjMiLCJmY19pZCI6InVFQW1BV1lXYmJ6OHpJTlJBQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IOKAlCBOZXcgWW9yaywgTlkiLCJjb21wYW55X25hbWUiOiJNYXRyaWNzdGVrIEluYy4iLCJodGlkb2NpZCI6InVFQW1BV1lXYmJ6OHpJTlJBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTak5HT1ROcmNFVmhabGQyWkVOdGFITnhiRzV2VmkxcU1XUXdTbU5qWkhCclNrTk5WbWx5V0dKaWJEaFRkemRpTWpScE9FOVpSMmsyTmpSa1prcE9TR3hVYTJsb2JHWXdTMFV0WW5JMlJGVmZNazVKVG0weFV6TjNUSGd5Y2paMVdrOUdhMDQ1ZGpkS1pXcHNiVWhtVEhoM2RGQXlTSGRDVDJaclQycEJWSFJ1YkROUk5YY1NGelowVGt4aGMwTk1TelV5YVRKeWIxQnlYMVF5YlZGSkdpSkJSSE55T1daU01uaEJkMGcyVFdWVVVqUmFaRXByT1hKRGNFaEpVbmxvZURWbiIsImZjdiI6IjMiLCJmY19pZCI6InVFQW1BV1lXYmJ6OHpJTlJBQUFBQUE9PSJ9",
     "title": "Entry Level Business Analyst — New York, NY",
     "company": "Matricstek Inc.",
     "location": "Anywhere",
@@ -165,24 +152,24 @@
     "via": "Matricstek Inc.",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "8 days ago",
+    "posted_at": "9 days ago",
     "schedule_type": "Full-time and Contractor"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXMiLCJjb21wYW55X25hbWUiOiJBU0ggY29uc3VsdGluZyIsImh0aWRvY2lkIjoiUldkTU5jZlVRaEFvSlBTcUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVYzNlRUUzZW5WRExUQktaMWQwTURKM1pYaG5UakJtVUdSeFgyeE9RbVJ2WmpWdGRHTnZkbE0yUmxwTk9WWXdTR3d4V0VzMmVIbzRSRTloYWt0TVQzUnRUMDR0Ym04MlUzTXpORVptYUhnNGNuWk1UV3gyU1d0bmNHVkZNSHBQV0dScU9IRlphMnhuYTJaMk0zSlhSSFV4YWxwSmVWTXpiRFIyVjJGd0xYUmlOV3BKYld3U0YxbEhiRXRoYnpOUlJsQllkRzFNVVZCME5pMXpjVkZOR2lKQlJITnlPV1pSTUU1U1RFeEpPSHBsYWtVMVJXOURaME5IUW0xWFpVWnZURGRCIiwiZmN2IjoiMyIsImZjX2lkIjoiUldkTU5jZlVRaEFvSlBTcUFBQUFBQT09In0=",
-    "title": "Junior Data Analys",
-    "company": "ASH consulting",
-    "location": "Anywhere",
-    "description": "📌 Junior Analyst (Remote / Entry-Level)\n\nWe are hiring Junior Analysts for simple remote tasks. No experience or qualifications required, as training will be provided.\n\nResponsibilities:\n\nBasic data entry and simple online tasksUpdate information and reportsFollow instructions from the teamRequirements:\n\nBeginner-friendlyBasic computer or mobile phone skillsResponsible attitudeAble to communicate in EnglishWhat We Offer:\n\nFully remote workFlexible hoursTraining and support providedFull-time or part-time available",
-    "apply_link": "https://www.linkedin.com/jobs/view/junior-data-analys-at-ash-consulting-4433746954?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "LinkedIn",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmF0aW9uYWwgU29mdHdhcmUgbWFuYWdlbWVudCIsImh0aWRvY2lkIjoiRTRUdk9OU2lLQVdSdl9Eb0FBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFREZDVOVW8xVTJOalMyOTJPV2gxYTFsMVZYWm5aMWh2TjJGd1kwdHBYMmd0UjBoSmNVTm9ObFZIVTNKQ1RrbHFUMUkzV2w5QmJYQkZZbWhsYkhRM1gybG9NaTAyTUZsTFMweEZPRE40TjB4ekxXWTNOREZRT1hkMFFVTjRNWFZxV25sVlRteFFWRGRoYTJNMGNXWmlaR3BmUm5KMmN6bEtWazl0ZUVkcmIzVnZNa05ITWpjU0Z6WjBUa3hoYzBOTVN6VXlhVEp5YjFCeVgxUXliVkZKR2lKQlJITnlPV1pUZW5ST1kwMWZMWFZPYkZwbmJtTk9VRGxOZUdkbk9XRmhZVE5uIiwiZmN2IjoiMyIsImZjX2lkIjoiRTRUdk9OU2lLQVdSdl9Eb0FBQUFBQT09In0=",
+    "title": "Entry Level Business Analyst",
+    "company": "National Software management",
+    "location": "New York, NY",
+    "description": "Company Description\n\nNational Software Management is recruiting qualified individuals for full time opportunities we have currently in our organization for our growing client needs.\n\n\n\nJob Description\n\nWe are looking for Entry Level Business Analyst. This Position will work with gathering and analysis and will assist with software evaluation, strategic planning, asset investment planning and system implementations\nResponsibilities :\n\nDocument application functions, data and process flows using prescribed template, or appropriate fit-for-purpose format Participate in integration design process and provide detailed documentation and requirements as appropriate. Document reports required by system stakeholders. Oversees the acquisition, analysis, strategy and dissemination of subject matter knowledge. Conducts high level business analysis involving complex business requirements and process\n\nQualifications\n\nBachelors or Master’s Degree0-1 year of experienceStrong Communication & Technical skillsResponsible, dependable, quick learnerDemonstrated ability to adapt to new technology\n\nAdditional Information\n\nAll your information will be kept confidential according to EEO guidelines.",
+    "apply_link": "https://www.builtinnyc.com/job/entry-level-business-analyst/6193767?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "Built In NYC",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "17 hours ago",
-    "schedule_type": "Part-time"
+    "posted_at": "13 days ago",
+    "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiVkFDTyIsImh0aWRvY2lkIjoiU2xVaFo3TWlWYmxXbGRtVUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzQkNjMGRLVjA5bU1rWXRZMGd6VDJabWIwTXdiMDVYVTNkeGVtSjNjV1ZNYTNadVJsWTNZMXBCWlU1RlpWcHdVRXhuVWswMWVGaHpMVEZZT0ZOTFRHSkVXa3RJU2pkeldtTk1jelZKTUMwNFMzSlFkRUZqUjFnMlpXcE5hRkpIYmxwdldsUnVWVVJ0TmxoemNrOVRZMFJTUW5WeFVUVTRUbUo2Y1dOdk1tSkJkbDl3WkdrU0YxbEhiRXRoYnpOUlJsQllkRzFNVVZCME5pMXpjVkZOR2lKQlJITnlPV1pSUTBWVGVXaDNOa1J6U25sV1JWRnZibEY0UTNSeFUyRk9RV3hSIiwiZmN2IjoiMyIsImZjX2lkIjoiU2xVaFo3TWlWYmxXbGRtVUFBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiVkFDTyIsImh0aWRvY2lkIjoiU2xVaFo3TWlWYmxXbGRtVUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNUZFpTVVYwWjFsSmFITTVTMjV6VEVGblpqZEtVR3h1VERCcFJtSXpjRW96YjFKUVdHbEtPSHBwVEVoSlRrTnZlV2RUYlhOTVkxaHFSRjl2TjFsdFkwOUhRV053UTBSSFJIRkJObDk2Vms0d1VHMHlTM0UyZEVwMWEwNWpaVTFrTUZKeGFESlhXVlpDYjAxSWMxQllibEoyYW1waVgxVnpaVWxMTW5ReFdIWklNMUpJV1UwU0Z6WjBUa3hoYzBOTVN6VXlhVEp5YjFCeVgxUXliVkZKR2lKQlJITnlPV1pVZFZWaU5XVXpXWEYyUkZReFZHUTJaM2RNUzNsNk9VOU5XRTFuIiwiZmN2IjoiMyIsImZjX2lkIjoiU2xVaFo3TWlWYmxXbGRtVUFBQUFBQT09In0=",
     "title": "Entry-Level Analyst",
     "company": "VACO",
     "location": "New York, NY",
@@ -191,7 +178,20 @@
     "via": "SaluteMyJob",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "16 hours ago",
+    "posted_at": "2 days ago",
     "schedule_type": "Full-time"
+  },
+  {
+    "id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXMiLCJjb21wYW55X25hbWUiOiJBU0ggY29uc3VsdGluZyIsImh0aWRvY2lkIjoiUldkTU5jZlVRaEFvSlBTcUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWSkVaRjlTZDFaRVRqTk5TWGRvYVVKNWVGTmhVbnBMWVhGMVRFNVJhSE5HVVd3elNtVXRRM2hrYjBaUFdGRmpVeloxYzNOMGMxSnZVbmhZVGtwa2IyTTRVa3BRTUdzdFVsOHdUQzB4VFMxRVFVeGFhRWxYU0ZObFpUbG5hbDlRT0ZwWVVuUnVUVWxGTVdWbWNtOWhWVTQxUjFGTWRUVmFYMmxLVW14NGVFc3lNWFpRUjFnU0Z6WjBUa3hoYzBOTVN6VXlhVEp5YjFCeVgxUXliVkZKR2lKQlJITnlPV1pTY3kweFkyRlJla016TUVWeFNGWm1WMlY2U1ZnMVlVTnVhMjlCIiwiZmN2IjoiMyIsImZjX2lkIjoiUldkTU5jZlVRaEFvSlBTcUFBQUFBQT09In0=",
+    "title": "Junior Data Analys",
+    "company": "ASH consulting",
+    "location": "Anywhere",
+    "description": "📌 Junior Analyst (Remote / Entry-Level)\n\nWe are hiring Junior Analysts for simple remote tasks. No experience or qualifications required, as training will be provided.\n\nResponsibilities:\n\nBasic data entry and simple online tasksUpdate information and reportsFollow instructions from the teamRequirements:\n\nBeginner-friendlyBasic computer or mobile phone skillsResponsible attitudeAble to communicate in EnglishWhat We Offer:\n\nFully remote workFlexible hoursTraining and support providedFull-time or part-time available",
+    "apply_link": "https://www.linkedin.com/jobs/view/junior-data-analys-at-ash-consulting-4433746954?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "LinkedIn",
+    "score": 0,
+    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
+    "posted_at": "2 days ago",
+    "schedule_type": "Part-time"
   }
 ]
