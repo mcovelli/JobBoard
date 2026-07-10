@@ -1,19 +1,6 @@
 [
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRGhhbGl0ZSBJbmMuIiwiaHRpZG9jaWQiOiJTZWwxUzBpR2U3dkc4cFJUQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdSblJUUnBiRk5EYVd0RlEyNDBWWFpTWTI1SVdFTnZhamRaY2poSmJtUkxhM00zTFdzM2JtczJjRFJKUXpJMFMzSnROR2wwVldzNFZFZGlabWM1YTBwU1gzaFRlbGhFWVdGclUyczNUblV0VFd4VE1tOXJObFJaZDJneFRFWnFWVlJwYzJzMWIwaDVaelZMVUZreFRGbHRlR3MxVmpnMU9HRjRSbWwwYzFCU1NtbEtTVmdTRnpSTlRsQmhiME5rUkRoSFIzRjBjMUJwY2xkaWNWRnZHaUpCUkhOeU9XWlVVelZXZUdsdmVUQlliM1ozV1ZwT05VZHpSMmd0YzBaYU5FTm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJTZWwxUzBpR2U3dkc4cFJUQUFBQUFBPT0ifQ==",
-    "title": "Entry-Level Business Analyst",
-    "company": "Dhalite Inc.",
-    "location": "New York, NY",
-    "description": "Note: Applicants must be currently authorized to work in the United States without the need for visa sponsorship now or in the future.Job BriefWe are looking for a Business Analyst who will act as the key link between our business objectives and IT capabilities. The candidate will support the successful completion of analysis, development, testing, and deployment of software product features while ensuring business requirements are clearly defined and implemented.\n\nResponsibilities\n\nDefine business analysis requirements and configuration specifications.Perform quality assurance and assist in testing activities.Define reporting and alerting requirements for business processes.Build and maintain relationships with partners and stakeholders to enhance system integrations.Help design, document, and maintain system processes and workflows.Identify common technical issues and provide recommendations to the product team.Communicate key insights, findings, and data-driven recommendations to stakeholders.Continuously identify opportunities to improve system monitoring and customer value.Requirements and Skills\n\nBachelor s degree in Business, Information Systems, Computer Science, or related field.Previous experience in Business Analysis, Systems Analysis, or Quality Assurance is preferred.Proven ability in requirement gathering, analysis, and testing.Experience analyzing data and creating business insights using data visualization tools.Basic knowledge of SQL for data analysisBasic experience in process documentation and system documentation.",
-    "apply_link": "https://www.dice.com/job-detail/6a53558b-0f09-4573-a93f-e638929eaeb4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "Dice",
-    "score": 92,
-    "reasoning": "The candidate is an excellent match, possessing both Computer Science and Management degrees, alongside a Google Data Analytics Certificate. Their detailed projects clearly demonstrate strong capabilities in SQL, data analysis, visualization, requirement gathering, and ensuring data integrity, directly addressing the core responsibilities of the role. Although prior experience isn't explicitly titled Business Analyst, the candidate's practical application of skills is highly relevant for an entry-level position.",
-    "posted_at": "30 days ago",
-    "schedule_type": "Full-time"
-  },
-  {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBIdW1hbiBSZXNvdXJjZXMgXHUwMDI2IERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNvY2lhbCBDYXBpdGFsIFJlc291cmNlcyIsImh0aWRvY2lkIjoiWUJHZzRVNmNMemZZY2MyVkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNYQm1VR1ZMZDBwVk0yc3pURE5MZW5vM1MzVnpSMXBmV0VjM2RDMTZOemxFVDBSWk5XSlNaVmRXYldSQ1NGOTNla0kwVWpoUldXSlFYMUJuU1habWIweFVla2N5WkRsMU4xa3pOak5tU1hveWNtcHpUbE5CTTFSYVRrMU9OMnhmWkRkRk0wZ3dNVEJEWmtkdmNUaEVhSGhMTFUxdlVWTkpUMUpCWDJ0aVlsSkplbFI0VGtzU0Z6Rk5UbEJoYzFOYVJFa3laSEIwVVZCc2NtazBMVkZ6R2lKQlJITnlPV1pSYUZab1JUSnhSRlkwU2xoWFQwaHdRV3RITVcxUWRFbFpWazFuIiwiZmN2IjoiMyIsImZjX2lkIjoiWUJHZzRVNmNMemZZY2MyVkFBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBIdW1hbiBSZXNvdXJjZXMgXHUwMDI2IERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNvY2lhbCBDYXBpdGFsIFJlc291cmNlcyIsImh0aWRvY2lkIjoiWUJHZzRVNmNMemZZY2MyVkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFRHeHVOamxXZEU5TlVsOHlWMnAxVkY5SWJIRm5PVlZoWkc0MVVHVjVjekJ4ZDBoMllUaHZNbFJQV1hoWmVFTXlZamRwUzAwM1drUkpkMHd5ZWxsNFgxZFBUV1pEWVRsR2REVjROREo1T1hjdFYybDBPVTk2U1hweFR6TjZPVkIzY0daSmNYcGllVGxuV2tWTldqZDFia05FVFhscE9FRm1UazVFUkUxWFlVbFRZbUpFYTFJU0ZrcFJPVkpoZGpSRU5VNTFkVFJSWDFWb1dtSmFRM2NhSWtGRWMzSTVabE50VlZOYVdWQlBjVTVvTlhNeE1WSjBXV1JZYUVsU2RGSktkSGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJZQkdnNFU2Y0x6ZlljYzJWQUFBQUFBPT0ifQ==",
     "title": "Entry Level Human Resources & Data Analyst",
     "company": "Social Capital Resources",
     "location": "New York, NY",
@@ -22,11 +9,11 @@
     "via": "LinkedIn",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "2 days ago",
+    "posted_at": "3 days ago",
     "schedule_type": "Contractor"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXMiLCJjb21wYW55X25hbWUiOiJBU0ggY29uc3VsdGluZyIsImh0aWRvY2lkIjoiUldkTU5jZlVRaEFvSlBTcUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXY3RUWGt3Y2pONWVXVTVZM2g1TmxKTFQzWkNUMjAzWmtaSU4xOVlVa1ZtTVRKMFQwZE1XVkE1YlRsNk5tNU1OV014ZEVGWFNUSlZPVWRUVHpsNVoyYzNNMjV6TFdob2NUZERURFJTTkRKRk5YUm9TMnh4Um1wa2RuZE1TVmsyWjNGak16UnVUM1J3ZEVSU2FGWnFkamhNWHpaeFRUTkxiM1J3TWxaeWRXRTJaa1JPVkdFU0Z6Rk5UbEJoYzFOYVJFa3laSEIwVVZCc2NtazBMVkZ6R2lKQlJITnlPV1pUVTI1eVlVSlZiV0Z4VDE5R2FXc3pSVGhyUkRWelprcDJVMnBSIiwiZmN2IjoiMyIsImZjX2lkIjoiUldkTU5jZlVRaEFvSlBTcUFBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXMiLCJjb21wYW55X25hbWUiOiJBU0ggY29uc3VsdGluZyIsImh0aWRvY2lkIjoiUldkTU5jZlVRaEFvSlBTcUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFNsSTRibU54TjFneGNHaE1PVlpCTFRFemFXVXhNbXQzVURKelNrMTNRV0UzTWxGQ05sUjJSWE15ZFZGdlJXVm9RbWhrYmtZelFVeG1Ua1ZEWVhWRFIwMUhUWFpNTXkxWWJGcEJWM0pPY0hZNUxYb3dXazAyY1VGZllXVkVUV0k0UjI5NE4xOWhValpvWTAwdE9GcFdZMjk2ZUVwcmJUQlBZbUl4ZVVOMWVVbGFjR2hGZWpVU0ZrcFJPVkpoZGpSRU5VNTFkVFJSWDFWb1dtSmFRM2NhSWtGRWMzSTVabFJvUWxOek0wSmZTRVIyWkVaZlMxZ3lUMmxQZDNoSlNITk9SRkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJSV2RNTmNmVVFoQW9KUFNxQUFBQUFBPT0ifQ==",
     "title": "Junior Data Analys",
     "company": "ASH consulting",
     "location": "Anywhere",
@@ -35,11 +22,11 @@
     "via": "LinkedIn",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "5 days ago",
+    "posted_at": "6 days ago",
     "schedule_type": "Part-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBSZW1vdGUgRGF0YSBBbmFseXN0IGF0IGNld2l0IE5ldyBZb3JrLCBOWSIsImNvbXBhbnlfbmFtZSI6ImNld2l0IiwiaHRpZG9jaWQiOiJqMGZRVDd4d3RJNlBEcnJLQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEMxTmEzcE5TRE56ZDBrM2RuRmlPR1JCWjFONVNVaFNlazV4VUY4dFNWQnZWbFZFWTIwNVZqRlRTVE5mYjJ4R1FrbHZNMmR1U2tGRmRGcFZMVlExT0U5WVgxRlNZWHBwUmpjNE9WUlRSVkY2VlVwWlZITnhNVzl5Y1VoeFYxbEdhemRNWTFSUVpWQktSVGRZTWtFMFpWazFjV3BJTFVSdmJsOTZla00yU1RkYVRtMU1aa3dTRnpGTlRsQmhjMU5hUkVreVpIQjBVVkJzY21rMExWRnpHaUpCUkhOeU9XWlVjVGN3VFZkSmJVVTJWMFF4YTFCSVdWazJZelJoVWpsTFdFOW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJqMGZRVDd4d3RJNlBEcnJLQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBSZW1vdGUgRGF0YSBBbmFseXN0IGF0IGNld2l0IE5ldyBZb3JrLCBOWSIsImNvbXBhbnlfbmFtZSI6ImNld2l0IiwiaHRpZG9jaWQiOiJqMGZRVDd4d3RJNlBEcnJLQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwU1c5c2VWZElZVTlMV1ZWNlYzRjRSR3BmZDJVd05FUlFSa0pUVkcxTGQwNVpSbEpWVURsT04wNU1hbU5NTVV0YWEwSmFRbGw1VkZKa2NraGhkRGxVZUV4RWIweFphM1pRUXpZMU0yZ3pWbTFKU2toeGNFUm9jMkozVGtzNFEwdzBVbWMyUm10WVZHOU1SR00xZFdoU2VVcFJhbU10U1dSSVRsSklibTVUY0d0VFYzaGZZbkVTRmtwUk9WSmhkalJFTlU1MWRUUlJYMVZvV21KYVEzY2FJa0ZFYzNJNVpsUTRkMnh1Y1c5NU9XdGhjV3RZZVhrMWJIazJZbWxsWW1nNWFsRSIsImZjdiI6IjMiLCJmY19pZCI6ImowZlFUN3h3dEk2UERycktBQUFBQUE9PSJ9",
     "title": "Entry-Level Remote Data Analyst at cewit New York, NY",
     "company": "cewit",
     "location": "New York, NY",
@@ -48,24 +35,11 @@
     "via": "Digitalhire",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "4 days ago",
+    "posted_at": "5 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbC9ObyBFeHBlcmllbmNlIERhdGEgRW50cnkiLCJjb21wYW55X25hbWUiOiJBcGV4IEZvY3VzIEdyb3VwIiwiaHRpZG9jaWQiOiJiRHB0SHpNMElaYlZBbXdUQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25VMFpFdGZURTluYmxaNU5HZ3phbFZzWmtzeldYQkJWMmRJT1Rsa1VrbzRka2h3VkY5c2VGSmxhMVI1Vkd0bVgwMXRNV2N5WVhKbGRrVjZkM2xFWTA5b1EyZFVObG8wVUZKU05FTnllVzFtTlhaT1VFbDVWa2N5ZFdKR2JWVklXWGRDVFZsQlRrNUVTbmd0WVY5TmVVMVpkVW8wZHpaWGRXSm9SWFpaWVc5YVFVZzVOWEFTRnpGTlRsQmhjMU5hUkVreVpIQjBVVkJzY21rMExWRnpHaUpCUkhOeU9XWlVabUpsWWsxSlZISjZSV3BNWWxGU1J6YzRSVGRmUjJSUFVuWkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJiRHB0SHpNMElaYlZBbXdUQUFBQUFBPT0ifQ==",
-    "title": "Entry Level/No Experience Data Entry",
-    "company": "Apex Focus Group",
-    "location": "New York, NY",
-    "description": "Turn your feedback into real impact and rewards. Participate in online or in-person focus groups, surveys, and product testing sessions to help brands improve their products and services. Flexible scheduling allows you to earn income on your own terms from home or in-person.\n\n Role and Responsibilities:\n\n  Take part in paid research studies, including focus groups and surveys. Provide honest, thoughtful feedback through written or verbal responses. Test products or services when required and share your experiences accurately. Follow project guidelines and contribute meaningfully to each study.  Required Skills and Experience:\n\n  Must be a U.S. resident aged 18 or older. Access to a reliable device with a camera (computer, tablet, or smartphone) and internet. Ability to understand and follow both written and verbal instructions. No prior research or data entry experience required.  Preferred Qualifications:\n\n  Interest in consumer products, market research, and providing feedback. Reliability and consistency in completing assigned research tasks. Comfortable expressing opinions clearly in both individual and group settings.  Compensation and Earnings:\n\n  Earn between $75 and $750 per assignment depending on study length and complexity. Flexible schedule-participate full-time, part-time, or occasionally. Opportunities to test and review new products before public release. Payments made via PayPal, direct bank transfer, or gift cards.  About Apex Focus Group:\n\n Apex Focus Group connects participants with safe, legitimate research opportunities across the U.S. It’s a flexible platform for individuals to share opinions, influence products, and earn extra income from home or in-person.",
-    "apply_link": "https://gfj.apexfocusgroup.com/hiring/entry-level-no-experience-data-entry-new-york-ny-690f0f183d2797099205d6c3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "Apex Focus Group",
-    "score": 0,
-    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "15 days ago",
-    "schedule_type": "Part-time"
-  },
-  {
-    "id": "eyJqb2JfdGl0bGUiOiJIeWJyaWQgRGF0YSBPcGVyYXRpb25zIEFuYWx5c3QgKEVudHJ5IExldmVsKSIsImNvbXBhbnlfbmFtZSI6IldvbGZlIFJlc2VhcmNoLCBMTEMiLCJodGlkb2NpZCI6Im93cTVvUDlUUld1MjdrUW9BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUSGxHZWpjeGJrdG1NbWRPUVRORE1GbGlTWEZIWm5sTFJIWjJTRUZKWm5KcE9YVm5PVkZETTFsMVVVZG5jSGxCVjNwYVUzaGxWMGxLTkd4bGJVZzBORGRrY21OMUxURnJSR0V0Y21Sb2MwTkVMVkJTUkRoTWFVSjBUVVkyZGpWdGRWbDBhMVl6WDB0elMxWldjR0ZZWTNOT1NUTXdUVWMxVlRaVE5sSmpWazVKYnpWQmFGVVNGekZOVGxCaGMxTmFSRWt5WkhCMFVWQnNjbWswTFZGekdpSkJSSE55T1daVWQyZERkMEZIY25weU1FRkRhalZ5WjI1VGFUSklTRzFHWVdObiIsImZjdiI6IjMiLCJmY19pZCI6Im93cTVvUDlUUld1MjdrUW9BQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJIeWJyaWQgRGF0YSBPcGVyYXRpb25zIEFuYWx5c3QgKEVudHJ5IExldmVsKSIsImNvbXBhbnlfbmFtZSI6IldvbGZlIFJlc2VhcmNoLCBMTEMiLCJodGlkb2NpZCI6Im93cTVvUDlUUld1MjdrUW9BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTekZRWldoM2IydEJaakpETkRCMWEyOVZOMGx0TFZOSFNrMUdZMUoyZFhCVmVuaG5RWGRrU0c5d1gyeHlXVXQ1U25OWVdTMVhXbFpUUzJoRmNVUkNaVWxNWVZoRFpVdG1jWE5PZFRKV1JVMVFOV2szV0hwU09XbGhSSFo2VnpoaGNqUkVTakoxVTNaeFZrMTZZalV5V2pGRU1rRnhNMll4UlRCTFlYVldiaTFtZUZvMFNDMFNGa3BST1ZKaGRqUkVOVTUxZFRSUlgxVm9XbUphUTNjYUlrRkVjM0k1WmxJM1pFMUxNRlpoWlVkVFpEUXdhRll0U0hwbVNVRnBNME5HYjNjIiwiZmN2IjoiMyIsImZjX2lkIjoib3dxNW9QOVRSV3UyN2tRb0FBQUFBQT09In0=",
     "title": "Hybrid Data Operations Analyst (Entry Level)",
     "company": "Wolfe Research, LLC",
     "location": "New York, NY",
@@ -74,11 +48,24 @@
     "via": "JobLeads",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "4 days ago",
+    "posted_at": "5 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJGdWxseSBSZW1vdGUsIEVudHJ5LUxldmVsIERhdGEgRW50cnkgSm9iIiwiY29tcGFueV9uYW1lIjoiU21hcnQgSGlyZSBBZ2VuY3kiLCJodGlkb2NpZCI6InNuUTh1VS1kUmFxOXRwRE9BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbkJUTWpSMU55MW1OVXBHUTFaWldIQlhOa2xFWTBWZmRFVndUMnhtT1VZd2RuZExRWFZzV21Rek5HNHdWeTFoTXpSb1lqSmlURWhDVms1eVJXeFpUbVJJTUVkNVJrMTBWV0ZFU0hSZlIyMUljamhDWTI0MFgwaE9XV3BCWVZoRmFGaFNVWGc0ZDNnMFowWnhTbUU1TWtFeE5XZG5jbkUzTjFSYWRVSjVhM2d3UkZKaFdta1NGekZOVGxCaGMxTmFSRWt5WkhCMFVWQnNjbWswTFZGekdpSkJSSE55T1daU2RHVjJUM1JyVTJwVlNVVnlVRlF0VDJaSmQwcHFjbEp0YW5sMyIsImZjdiI6IjMiLCJmY19pZCI6InNuUTh1VS1kUmFxOXRwRE9BQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbC9ObyBFeHBlcmllbmNlIERhdGEgRW50cnkiLCJjb21wYW55X25hbWUiOiJBcGV4IEZvY3VzIEdyb3VwIiwiaHRpZG9jaWQiOiJiRHB0SHpNMElaYlZBbXdUQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwU210eWFFNXJZMjA0ZWkxVWVscG9SbnBYU1ZOYWVUTmlWbXhxVEV4TGJXTm1MVTlWU25WUE1sVjVkbEpaZHkxaFJHa3hhVkJTVFdWb1RtZzFlR3R4TXpZeFdFeGtZWGhSVVdWcU5YbDRRMEpZVGpkNVNqWlhWR1pOWkVaVk5ISmpjekp5UzA1MVUxTnVXSFYwZGtSR1V6bHBVelpIUlZOcFN5MW5kMFJtVVZWaE56ZEhVVkVTRmtwUk9WSmhkalJFTlU1MWRUUlJYMVZvV21KYVEzY2FJa0ZFYzNJNVpsUXpNRTAwVlhWb1NHczNVa2RtZDNCVVR6aDVRMUZtZFhkTGVsRSIsImZjdiI6IjMiLCJmY19pZCI6ImJEcHRIek0wSVpiVkFtd1RBQUFBQUE9PSJ9",
+    "title": "Entry Level/No Experience Data Entry",
+    "company": "Apex Focus Group",
+    "location": "New York, NY",
+    "description": "Turn your feedback into real impact and rewards. Participate in online or in-person focus groups, surveys, and product testing sessions to help brands improve their products and services. Flexible scheduling allows you to earn income on your own terms from home or in-person.\n\n Role and Responsibilities:\n\n  Take part in paid research studies, including focus groups and surveys. Provide honest, thoughtful feedback through written or verbal responses. Test products or services when required and share your experiences accurately. Follow project guidelines and contribute meaningfully to each study.  Required Skills and Experience:\n\n  Must be a U.S. resident aged 18 or older. Access to a reliable device with a camera (computer, tablet, or smartphone) and internet. Ability to understand and follow both written and verbal instructions. No prior research or data entry experience required.  Preferred Qualifications:\n\n  Interest in consumer products, market research, and providing feedback. Reliability and consistency in completing assigned research tasks. Comfortable expressing opinions clearly in both individual and group settings.  Compensation and Earnings:\n\n  Earn between $75 and $750 per assignment depending on study length and complexity. Flexible schedule-participate full-time, part-time, or occasionally. Opportunities to test and review new products before public release. Payments made via PayPal, direct bank transfer, or gift cards.  About Apex Focus Group:\n\n Apex Focus Group connects participants with safe, legitimate research opportunities across the U.S. It’s a flexible platform for individuals to share opinions, influence products, and earn extra income from home or in-person.",
+    "apply_link": "https://gfj.apexfocusgroup.com/hiring/entry-level-no-experience-data-entry-new-york-ny-690f0f183d2797099205d6c3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "Apex Focus Group",
+    "score": 0,
+    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
+    "posted_at": "2 days ago",
+    "schedule_type": "Part-time"
+  },
+  {
+    "id": "eyJqb2JfdGl0bGUiOiJGdWxseSBSZW1vdGUsIEVudHJ5LUxldmVsIERhdGEgRW50cnkgSm9iIiwiY29tcGFueV9uYW1lIjoiU21hcnQgSGlyZSBBZ2VuY3kiLCJodGlkb2NpZCI6InNuUTh1VS1kUmFxOXRwRE9BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTbXR0YkZwT2VGTjRlWEJZTFVKRVpHTm1UVkp0VW1VMGJXdExSelkwVUhSclpERTVUMk5PVjJkTU1qaGpXVk4xYTBOcE16bEVabmxGYTFoblZsQkRaRXBsTFZOeFpFNVBTRXBPVWxwaFVrbFVla1JHTVU5MVFrSk1VbFJLU1VOUmVrWjRiRE5wZVRGcFQwNWZhVU01UzNKM2NFNDNURUpPUWxCR2EyOVpSMjVEU0ZWWFVsZ1NGa3BST1ZKaGRqUkVOVTUxZFRSUlgxVm9XbUphUTNjYUlrRkVjM0k1WmxOVlZYUlZOR2M0U25wWk0xRm1XVzU2ZWpKNlkwUTFablJZWmxFIiwiZmN2IjoiMyIsImZjX2lkIjoic25ROHVVLWRSYXE5dHBET0FBQUFBQT09In0=",
     "title": "Fully Remote, Entry-Level Data Entry Job",
     "company": "Smart Hire Agency",
     "location": "New York, NY",
@@ -91,7 +78,7 @@
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBIZWFsdGhjYXJlIERhdGEgQW5hbHlzdCDigJQgTmV3IFlvcmssIE5ZIiwiY29tcGFueV9uYW1lIjoiTWF0cmljc3RlayBJbmMuIiwiaHRpZG9jaWQiOiJlQ09XcWVvSEJ1b2l3blJHQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEVOek1HZGlVamhvU0ZWelVGcEtWbFEwU1U5WGJubE5SMUJDWDB4Nk5rWTFXSGhXVWxOUVl6SjVOM0U1ZUhOYVQwbDNVVTVyWkV3d1Vtd3pNemhYVVUxM1RVOUtXV1JzYVVNNVpVMVJaVEJzUzNGdFRFY3pXbkIyVUdweGJqSkVVMVZpWDNsNGJGQXRaWFl6YWpkSVpXSTBXRUZOVXpCQk0yMUVkMGx0WjBsc1gyNW9iMndTRnpGTlRsQmhjMU5hUkVreVpIQjBVVkJzY21rMExWRnpHaUpCUkhOeU9XWlNhMUIwVTBoNU4wVklZVzE2ZUdSM1kzaElPVFV4TmtzMWJrZDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJlQ09XcWVvSEJ1b2l3blJHQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBIZWFsdGhjYXJlIERhdGEgQW5hbHlzdCDigJQgTmV3IFlvcmssIE5ZIiwiY29tcGFueV9uYW1lIjoiTWF0cmljc3RlayBJbmMuIiwiaHRpZG9jaWQiOiJlQ09XcWVvSEJ1b2l3blJHQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwVERaVk9ITk9UblpQY1dSSE5ucElla05HY1hOaFQzbFdWRmd3WmpKcFdXMUhNMEV0U2xKNGRIWmlSVFpWZUV0d1ZHOWljWE55TFcxYVJVeHJOelZOT0ZKV1Qwc3RSa0o0TkRaS2FuWjJhbkpFT1ZOUFVrSnZVazQ1UWpBeFJWSkRORXgzVG1ka2RIVnNkRTV4ZUVsVGNVUlBaRzU2YjI1MlFsZEpORXAzY1VGcVNVTjJhRmNTRmtwUk9WSmhkalJFTlU1MWRUUlJYMVZvV21KYVEzY2FJa0ZFYzNJNVpsSkhNMnN4WWpaU09VNDBTMkpDY25sUWNYbEpUaTFUWTBKWlQwRSIsImZjdiI6IjMiLCJmY19pZCI6ImVDT1dxZW9IQnVvaXduUkdBQUFBQUE9PSJ9",
     "title": "Entry Level Healthcare Data Analyst — New York, NY",
     "company": "Matricstek Inc.",
     "location": "Anywhere",
@@ -100,11 +87,11 @@
     "via": "Matricstek Inc.",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "12 days ago",
+    "posted_at": "13 days ago",
     "schedule_type": "Full-time and Contractor"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJPcGVyYXRpb25zIERhdGEgQW5hbHlzdDogRW50cnkgTGV2ZWwgSW5zaWdodHMiLCJjb21wYW55X25hbWUiOiJGb3J0cmF5IEdsb2JhbCBTZXJ2aWNlIExpbWl0ZWQiLCJodGlkb2NpZCI6ImNRMVVPeVV2UkVmM2ZMeE1BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbTg0T1RFMlZFZE9aRlUyUkV4aE5XUTNORmRmYzJ4Q1drUXRVWFYwUW5oaGMwMXVRbkZ0YTJJM2ExZzFXa2RNTjJKeVJIUlVkR3B4VTBjM1kxaE5jbUUxWTNKVVJVdFRaemhLWlhrMVJVTnZaa0p4YW10RWRWWmtRVUpETTFsS1RVOXFaSFZFYTI0MVoxSnNhV1JuWjBoWU55MW9SSGMxTkd4eFp6SnVjR05NY0hSdmExUVNGekZOVGxCaGMxTmFSRWt5WkhCMFVWQnNjbWswTFZGekdpSkJSSE55T1daUmEwSk5SbFpOTm1GTGNXVmtSV0pQVjJwbWFETlNhQzFYV0dSMyIsImZjdiI6IjMiLCJmY19pZCI6ImNRMVVPeVV2UkVmM2ZMeE1BQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJPcGVyYXRpb25zIERhdGEgQW5hbHlzdDogRW50cnkgTGV2ZWwgSW5zaWdodHMiLCJjb21wYW55X25hbWUiOiJGb3J0cmF5IEdsb2JhbCBTZXJ2aWNlIExpbWl0ZWQiLCJodGlkb2NpZCI6ImNRMVVPeVV2UkVmM2ZMeE1BQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTelZRZFU5d2JGUlhXWFo1ZG1FMmRtOW9jMHRMTnpOdlIxWTVjWFZ0V1ZKU1dtSldUbVZ5TFRRNVYxOXhNWEZWV2s1T2RrODNXbGRwZGxOSWEzQlJOM3BEVUV4MVJraDBWMEZYYlc5dFNXUlFiamRsTjBaVGRDMVBielpoWDFrNWVGSlBjbUphUjI5WlJFeFRhRTlNZDA1SWRFSjJjVlY0YmpGWVEzcExiV2d4VVUxT1JuQVNGa3BST1ZKaGRqUkVOVTUxZFRSUlgxVm9XbUphUTNjYUlrRkVjM0k1WmxSNFV5MTFORVZvWTBobmNYcE9ZbXhQTFd0RmFrbGxia1ZrWm1jIiwiZmN2IjoiMyIsImZjX2lkIjoiY1ExVU95VXZSRWYzZkx4TUFBQUFBQT09In0=",
     "title": "Operations Data Analyst: Entry Level Insights",
     "company": "Fortray Global Service Limited",
     "location": "New York, NY",
@@ -113,29 +100,29 @@
     "via": "WhatJobs",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "7 days ago",
+    "posted_at": "8 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBsZXZlbCBEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJIaXJpbmdNaXJyb3IiLCJodGlkb2NpZCI6Ik1UYUNFUE42V09LQVZ3Y3NBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVWRoWTFNeFkxVjNhSE50VHkxNE5XeFlZVnBDYjFvd00zaHpSMkZ1V2tnNGFERktaMDFSZWtwbVpsYzVhVWROV25SeGVubFZkVVI1VUdWMVpHdzBTM1JTVFZaTFJrNUJTRTVhYkhObWNrZDZTM0ZZTW5WeU4wVkZkM1JrVlRSRWFsQXRkbk5GVjJZMWIwVkROMVJHUlhKSGVqQk5MVmR5ZEdOSGRrRnVNRmcwUmpWb1RXMFNGekZOVGxCaGMxTmFSRWt5WkhCMFVWQnNjbWswTFZGekdpSkJSSE55T1daUmFEbEdXbkpuYUVONlJVUjNhMUJYTTFZM1NrMHdOMEpCUVZoUiIsImZjdiI6IjMiLCJmY19pZCI6Ik1UYUNFUE42V09LQVZ3Y3NBQUFBQUE9PSJ9",
-    "title": "Entry level Data Analyst",
-    "company": "HiringMirror",
-    "location": "JOHN F KENNEDY AIRPORT, NY",
-    "description": "Job reason:\n\n\r\n\r\n • Data Analyst for IT Consulting group with expertise in MS Excel and VB scripts.\n\n\r\n\r\n • Your consumer obligations:\n\n\r\n\r\n• Need to work as a crew member in implementation and automation of task thru Macros\n\n\r\n\r\n• Interact and talk with the onsite coordinators.\n\n\r\n\r\n• Completion of assigned obligations on time and everyday popularity reporting to the supervisor/lead.\n\n\r\n\r\n• We are looking for the candidates with the subsequent:\n\n\r\n\r\n • Graduate from a reputed group with a sound enterprise/domain experience and applicable exp. of 2 –8 years. Responsibilities, Qualifications, Certifications – External\n\n\r\n\r\nYou will need to have: Mandatory abilities: \n\n\r\n\r\n• Experience needs to be within the underneath areas –\n\n\r\n\r\n• Need deep expertise in VBA development\n\n\r\n\r\n• Advance degree?understanding in MS Excel (Graph, Chart, Pivot Chart & Table, Logical/Conditional Formulas, Data Analysis, MIS Reports, Dashboard, Summary) for automation thru Macros.\n\n\r\n\r\n• Should have Excellent verbal exchange abilities.",
-    "apply_link": "https://www.hiringmirror.com/jobs/entry-level-data-analyst-11-30-2022-11430-new-york?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "HiringMirror",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiVkFDTyIsImh0aWRvY2lkIjoiU2xVaFo3TWlWYmxXbGRtVUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVXBwVkRSMFMyUldVbkF5V1dob2NVeE9OekJ6VlRsM1gwVlRkWEYxV2tvMlFXOVNiVnBRY1UxWlRISTRWa0UyU2kxTVpGcHFWa05LZFdkTE9IVk9iWGRaYmxkMWJYbHpNVGgxTmtWWFFqbEdSMEY2Y3pGSGFpMXFkemhuUlROU1kybFBObmhFY1Y5VWJIcFNja3R3VlRkTGVVRlplWEJtTkRNd1JHSldXakpTUkZWSlprMXdjakZEYW5NU0ZrcFJPVkpoZGpSRU5VNTFkVFJSWDFWb1dtSmFRM2NhSWtGRWMzSTVabEZoVEdwMVJHeDBNSGhTV1hGT01GaHVUSFozUzJZM05HcHdXWGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJTbFVoWjdNaVZibFdsZG1VQUFBQUFBPT0ifQ==",
+    "title": "Entry-Level Analyst",
+    "company": "VACO",
+    "location": "New York, NY",
+    "description": "Job Title: Entry-Level Analyst Position Overview: Our client, a leading firm in the financial services industry , is seeking a detail-oriented and motivated Entry-Level Analyst to join their growing team. This role is a great fit for someone early in their career who is looking to build a strong foundation in data analysis, financial reporting, and business insights within a fast-paced, collaborative environment. Key Responsibilities: Support senior analysts and team leads in gathering, analyzing, and interpreting financial data Prepare reports, dashboards, and presentations based on key business metrics Assist with research related to market trends, client portfolios, and internal performance Reconcile and validate data from multiple sources to ensure accuracy and consistency Participate in the development and improvement of internal reporting processes and workflows Communicate findings clearly and effectively to internal stakeholders and management Maintain databases and documentation related to analysis and reporting functions Qualifications: Bachelor's degree in Finance, Economics, Business, Accounting, or a related field Strong analytical and problem-solving skills with attention to detail Proficiency in Microsoft Excel (pivot tables, lookups, data analysis tools); familiarity with PowerPoint Excellent verbal and written communication skills Eagerness to learn, take initiative, and contribute to a collaborative team environment Ability to manage time effectively and work under tight deadlines Preferred but Not Required: Internship or academic project experience in financial analysis, research, or data interpretation Familiarity with financial statements or industry-specific software (e.g., Bloomberg, SQL, Power BI) Seniority level Entry level Employment type Full-time Job function Analyst #J-18808-Ljbffr",
+    "apply_link": "https://salutemyjob.com/jobs/entry-level-analyst-new-york/2858667315-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "SaluteMyJob",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "Unknown",
+    "posted_at": "6 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJBcHByZW50aWNlIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkV2ZXJncmVlbiBUcmFkaW5nIiwiaHRpZG9jaWQiOiJLWVhwSks3QktrMXdYQjZwQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1d4Q1EwTmZWMEZKYm5oTlYxZGllSFZ6WnpSUGJqWkpRWGxUTWpaNFgxTmljRTFoZDBOb01FUnhiRU15U2xwTWJHcG5UMXBJYkZGQ2FGVmhOVEpXVlV0UU1WWmpUbEJRVGtoRFMwNURTMnB3VmtGd2FXNUlVMkpUZGxacWIycEZVRFJJYkZKMU5HRlNTM2wwTmpOWVQxQjVZMFpzYUUxemMyVnFPVlptVTNCbFRWQlRaVklTRnpGTlRsQmhjMU5hUkVreVpIQjBVVkJzY21rMExWRnpHaUpCUkhOeU9XWlVWM2hMVG1ob1VuZEtiVlp5WlRoNE9XZEVaVk5HVWpsVGVUWm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJLWVhwSks3QktrMXdYQjZwQUFBQUFBPT0ifQ==",
-    "title": "Apprentice Data Analyst",
-    "company": "Evergreen Trading",
+    "id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QsIEJ1c2luZXNzIFN5c3RlbXMiLCJjb21wYW55X25hbWUiOiJBbWVyaWNhbiBFeHByZXNzIiwiaHRpZG9jaWQiOiJnRVdwMUtkT3pieUVhWGhRQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwU1RKcFZXVXRhVlpzV1U5R1dGUXpiRmxXTUVKbmJVWjBWV3RIY1hWU1psODRVVVZXTVZWZlNXeENRbXB2VVRRNFoycHZUazQxUm1aSVMzZDNNVFpOU1dKRVgyOVdaak5rZUdaNFdFNHhTbk5yYjB4UGFWOXpVV3RLV1dkSU5XZEtWR1JuT1d4Q2FHaHdWSHBPU1hKNk5FeEtMWFJ5YjE5dGJrRXdialF0UTBsbU4wdFBhRTBTRmtwUk9WSmhkalJFTlU1MWRUUlJYMVZvV21KYVEzY2FJa0ZFYzNJNVpsSmFVbUZPTlV0VFoxZDBjR056Wmt4MlJHTndNa1pZWWxka2QxRSIsImZjdiI6IjMiLCJmY19pZCI6ImdFV3AxS2RPemJ5RWFYaFFBQUFBQUE9PSJ9",
+    "title": "Data Analyst, Business Systems",
+    "company": "American Express",
     "location": "New York, NY",
-    "description": "Evergreen Trading is hiring a Apprentice Data Analyst with 0 - 3 years of experience. Based in United States -  New York, NY and with Hybrid ways of working. \n  \n  Job description and responsibilities: \n\nAre you looking for an opportunity to launch a new career? Are you good with numbers, curious about patterns, and always telling stories with data? Do you have some basic data skills but need the training to reach your potential?\n\n\nThis media trading firm is looking for an individual with the potential to be a great Data Analyst to join the team for a yearlong paid apprenticeship.\n\n\nThe successful candidate will rapidly grow into the role of Data Analyst and learn skills on-the-job to support the Digital Investment team with data reporting needs across their portfolio of clients.\n\n\nWho are you today?\n\n\n\nYou may not have a college degree or a career history in Data Analytics, but you love data, are meticulous, have high attention to detail, and are curious to uncover insights, patterns & trends.\nYou might have some data analytics skills already, but do not have to have all the skills or experience to do this job.\nYou are a good communicator, enjoy working with people, and thrive in a fast-paced environment.\nYou love to solve problems, develop creative solutions, and to collaborate with others to get projects completed.\nYou can adapt to the ever-changing needs of client projects, and have the tenacity, responsibility and commitment to follow through and get things done.\nYou have the right mix of attitude, aptitude, and commitment to take on this opportunity. It will be hard work, and if you are willing to learn, this program will kick-start your career.\n\nDuties & Responsibilities of the role you will be learning on the job:\n\n\n\nWork with the Digital Investment team to support campaigns to meet client needs.\nCommunicate data, trends, and measurement to clients and colleagues.\nDevelop effective reporting and dashboards to communicate information, insights and intelligence to clients and colleagues.\nAnalyze data to generate insights that support performance analysis and optimization.\nClean, prepare, and analyze data to support internal and external client needs.\nCommunicate effectively on projects to manage internal and external expectations.\n\n \n  \n  Requirements and qualifications: Prior Experience, Skills & Abilities: \n\n\n\nHighly detail-oriented, organized, and data-driven.\nAble to communicate effectively and work well with a team.\nLove learning and are ready to develop new technical and professional skills.\nBasic proficiency in MS Office skills including Excel, PowerPoint, Word, and Outlook.\n\nTools & technologies used in this role (prior experience not required):\n\n\n\nPython, Jupyter Notebook\nData analytic tools {NumPy, Pandas, Matplotlib, Sci-kit learn)\nSQL\nTableau",
-    "apply_link": "https://www.dataanalyst.com/job/apprentice-data-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "description": "American Express is hiring a  Data Analyst, Business Systems with 0 - 3 years of experience. Based in United States - New York, NY and with Hybrid ways of working. \n  \n  Job description and responsibilities: \n\nThe Business Data Analyst role will be responsible for providing analytical support in the delivery of breakthrough innovation and transformational initiatives for the MIS & Analytics organization. The key focus of this role is to leverage data to improve the economics and efficiency of the Travel and Lifestyle Services operational inbound contact center processes and digital servicing channels.\n\n\nFind your place in MIS and Analytics on #TeamAmex.\n\n\nResponsibilities but not limited to: \n\n\nQuery and analyze large sets of data to draw conclusions and make recommendations to the business using statistical models and data mining techniques combined with business and operational knowledge.\nConducting various analyses and providing thought leadership to identify new ideas that lead to improved efficiency and customer experience in our Inbound Contact Center.\nSupport the business with the identification of process improvements opportunities, feasibility studies, demand management efforts, and defect eliminations for the purposes of generating cost-savings and improving customer satisfaction.\nWork closely with Operations leaders and Project Managers to further develop existing ideas, prioritize them, and implement them.\n\n\n \n  \n  Requirements and qualifications: Minimum Qualifications:\n\n\nBachelor’s Degree in Analytics, Industrial Engineering, Process Improvement or Computer Science related is required.\nQuery performance tuning skills using SQL.\nExperience in using advanced data analytics tools to perform analysis and uncover the insights.\nA creative and innovative professional with strong analytical background.\nSelf-starter and naturally curious about finding transformational and customer experience improvement opportunities.\nCritical skills include proficiency with analytical and process improvement tools and techniques, strategic thought leadership and execution skills, strong negotiation skills and data mining skills to generate rich insights.\nExcellent written/verbal communication skills and the ability to thrive in a dynamic and fast-paced environment are required.\nAbility to create professional presentations that are simple, easy to follow and powerful enough to influence stakeholders on business decisions.\nPreferred Qualifications:\n\n\nAt least 2-3 years of working experience in Analytics or Process Improvement.\nIndustry Experience as Project/Data Analyst with a track record of pulling, manipulating, processing, and developing meaningful insights from large datasets.\nProficiency in Tableau or PowerBI.\nUnderstanding or experience with Data Mining and Machine Learning Algorithms.\nExperience with using Big Data Technology including Hadoop and Hive.",
+    "apply_link": "https://www.dataanalyst.com/job/data-analyst-business-systems?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "via": "DataAnalyst.com",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
@@ -143,7 +130,7 @@
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmF0aW9uYWwgU29mdHdhcmUgbWFuYWdlbWVudCIsImh0aWRvY2lkIjoiRTRUdk9OU2lLQVdSdl9Eb0FBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVeG1iMFZuUlhoelFUUjZNRWs1VW10TFdIRTNVV0V6UlZaU1QyNUhNVmhETUVsWFMyOW5TVk5qZG1wUk9XczNZMGhHVVd0ZlV6VndNbGRDVDNwb1dYRkdVR0ZHVlZWaVQwVXpMVTR5UkZOcU5VNXJRbmxHVDFWVVVreFNTV1JKV0Rsb1UzZDVSMUJ0WkMxeWVHeFhlRVYwYjI5cU0wOUZhRE0zYW5Wb2VDMXBhamgyWHpnU0Z6Uk5UbEJoYjBOa1JEaEhSM0YwYzFCcGNsZGljVkZ2R2lKQlJITnlPV1pTVGtnemIzSmlOMXBSU0ZwUVMwTjNVR2xPVW5oQmVuTnFTRlIzIiwiZmN2IjoiMyIsImZjX2lkIjoiRTRUdk9OU2lLQVdSdl9Eb0FBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmF0aW9uYWwgU29mdHdhcmUgbWFuYWdlbWVudCIsImh0aWRvY2lkIjoiRTRUdk9OU2lLQVdSdl9Eb0FBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWTjVaamc1V1doMlNFdENPWEpRVFRRMFJrTkZTSFZpUzB0VlFtZFVVelEzYUVaRVFXUjJZVGh3VTFSM1NtUnZNbVJFYTBsSldHNVpPRzVqZFVoVFNGUTNVekJHWW14WFEzcFRUVXhyU0dscVNHOXdXbWh4ZWt4V1R6azNXbTVNUTFGbVZuSmZPWFkxZUdzeVVXMVpWM0ppVnkxS0xXTmpSMEY0Ym5CNFptaEtWVGhxWVd3U0YwcG5PVkpoYnpJNVEzUkxZWGRpYTFCM0xVdFJjVUV3R2lKQlJITnlPV1pTZWs5dWNVVnllVTAwY0hoamFWQnRSekF0Y25aaWFsTkdlRXAzIiwiZmN2IjoiMyIsImZjX2lkIjoiRTRUdk9OU2lLQVdSdl9Eb0FBQUFBQT09In0=",
     "title": "Entry Level Business Analyst",
     "company": "National Software management",
     "location": "New York, NY",
@@ -152,11 +139,11 @@
     "via": "Built In NYC",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "16 days ago",
+    "posted_at": "17 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IOKAlCBOZXcgWW9yaywgTlkiLCJjb21wYW55X25hbWUiOiJNYXRyaWNzdGVrIEluYy4iLCJodGlkb2NpZCI6InVFQW1BV1lXYmJ6OHpJTlJBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURFZQUkhwMFNVVTBPRmQwTkhWSFNqbGlMVTA1UlRoMlExbHNTR1ZHUm1KbU4yMXplRE5QVkhKTVdqUkRkaTF1U0ZSQk9WZHhNa05RU0dFeFYwRjNXbVUxYVV0Zk1WcERNMkZKVmxCZldrVlhRalI0UnpWbmVGRnJOVEpqVjNsd2QyMW1PREF3YmtsSmFsOVZVVkZyY1hvMmJqSndlbk5yWlZoNmRXZDVNbHBTWjFwa05rNFNGelJOVGxCaGIwTmtSRGhIUjNGMGMxQnBjbGRpY1ZGdkdpSkJSSE55T1daVFdITjNhR3RLVVhNeFZIRnBMV2h5TFVkVFpIcHRNbEJxWWxoUiIsImZjdiI6IjMiLCJmY19pZCI6InVFQW1BV1lXYmJ6OHpJTlJBQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IOKAlCBOZXcgWW9yaywgTlkiLCJjb21wYW55X25hbWUiOiJNYXRyaWNzdGVrIEluYy4iLCJodGlkb2NpZCI6InVFQW1BV1lXYmJ6OHpJTlJBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTa2hTVGpaVGFsZ3RiekExYVVsbE5GSmllVVJIYkVFelkyeHBZMFl6YjJ4RFFtNUlSVVZ3YW1KWGJVRkpYM2xLWm1WaWF6SlROV1pKZEVONk1XaDZhRlpmVEhSNVVuRXpTa2xSZUVKeWFqVjVaMVZVVW5wR2NUTnVabVF3YW0wd01qUlhZbFJ1T0U1NU5rTlhRMlJNVFZGcGNtMDFhMnBxY2pCQk5ISkVZWEJ1VDA1dVdVd1NGMHBuT1ZKaGJ6STVRM1JMWVhkaWExQjNMVXRSY1VFd0dpSkJSSE55T1daVVZEVTJYMEZ0YkhJNFJ6ZFNRa3BXUm1JeU1YaGhhekZvV2s1biIsImZjdiI6IjMiLCJmY19pZCI6InVFQW1BV1lXYmJ6OHpJTlJBQUFBQUE9PSJ9",
     "title": "Entry Level Business Analyst — New York, NY",
     "company": "Matricstek Inc.",
     "location": "Anywhere",
@@ -165,24 +152,11 @@
     "via": "Matricstek Inc.",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "12 days ago",
+    "posted_at": "13 days ago",
     "schedule_type": "Full-time and Contractor"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBNYW5hZ2VtZW50IiwiY29tcGFueV9uYW1lIjoiRmlmdGggQXZlbnVlIENvLiIsImh0aWRvY2lkIjoialJzbGVRakRWNnBmMV8zYkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzTklPV3hpY0cxME5tRnBOVUZ4VFZjNVZIbG5SR3hKT1RSdmMySjJPVWRCY25oMFRXazRUM1kzVTBJMmRURmpSV1JqWnpoamJqRXhRelZpWm1OUFZ6ZDBUazVQYlY5b1NrUnBWREUzVW1WSU0xZGFabkZzZWkwelVrWTFha2xmVVcxek1sZFlZMnB1WjBKaFpEYzRaRnBCZUc1c2FWcFhhM0ZOTUMxM00zbDZVbWszZFVzU0Z6Uk5UbEJoYjBOa1JEaEhSM0YwYzFCcGNsZGljVkZ2R2lKQlJITnlPV1pUZWpoU2Fsb3lVRmxEUzJveFdVaE9WVXRRWlRGeGVXMTFabEZCIiwiZmN2IjoiMyIsImZjX2lkIjoialJzbGVRakRWNnBmMV8zYkFBQUFBQT09In0=",
-    "title": "Entry Level Business Management",
-    "company": "Fifth Avenue Co.",
-    "location": "New York, NY",
-    "description": "Entry Level Business Management\n\n\n\n\nWe are looking to train an entry level sales manager from the ground up to act as the first point of contact with new customers, answer their queries and increase client satisfaction.\n\n\n\n\nIf you enjoy coming up with effective solutions and working toward achieving goals, this job is right for you. You will use your communication skills to identify and address clients’ needs while representing our company in a positive way. Previous sales experience will be an advantage.\n\n\n\n\nUltimately, you will contribute to building profitable, long-term relationships with our clients to reach our business objectives.\n\n\n\n\nResponsibilities\n\nGather information on assigned clientsContact clients to understand their needsProvide after-sales support to retain customersEnsure prompt and accurate answers to clients’ queriesBuild strong client relationships, through regular communicationReport on the status of accountsSuggest company products/services that maximize client satisfactionCommunicate product and pricing details clearlyPromote new products/services to existing customers\n\n\nRequirements and skills\n\nStrong (verbal and written) communication skills with an ability to build relationshipsEffective presentation and negotiation skillsHigh degree of professionalismGood time-management skills with a problem-solving attitudeMust be authorized to work in the USABachelor's Degree preferredCurrently in NYC area and ready to work immediately\n\n\nThank you for your interest!",
-    "apply_link": "https://www.linkedin.com/jobs/view/entry-level-business-management-at-fifth-avenue-co-4436252309?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "LinkedIn",
-    "score": 0,
-    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "3 days ago",
-    "schedule_type": "Full-time"
-  },
-  {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBIdW1hbiBSZXNvdXJjZXMgXHUwMDI2IERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNvY2lhbCBDYXBpdGFsIFJlc291cmNlcyIsImh0aWRvY2lkIjoiWUJHZzRVNmNMemZZY2MyVkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMySkdja0pGTW5OUlVWZFNWMGt3ZEhGc05IcFRSRXBMVldNd1JYbDVlRTgzWVZSQlJrVnFVMVJ3YkZKUlgxVkRiR2hNUW5seFVGRkpTVXRsUm5oT1prdzJNRWhaVm01VmJtdDZSRFZXUzNOWGFETndlbTlyWm5CTWFHWlliek5LYVZWWFltOVpiVTFPV0V4RVpEVnRjVVZMUTBGdGNGWlRRbXRYUTA4eFJHdG5iRWREUmkwU0Z6Uk5UbEJoYjBOa1JEaEhSM0YwYzFCcGNsZGljVkZ2R2lKQlJITnlPV1pTWTA1cFUwbzRaV294VUY5RGNHMUlUMnBDTURGUFNtdHpZVmgzIiwiZmN2IjoiMyIsImZjX2lkIjoiWUJHZzRVNmNMemZZY2MyVkFBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBIdW1hbiBSZXNvdXJjZXMgXHUwMDI2IERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlNvY2lhbCBDYXBpdGFsIFJlc291cmNlcyIsImh0aWRvY2lkIjoiWUJHZzRVNmNMemZZY2MyVkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMxUTBRbU5tUkMxMFJXMXNkMnhHUld0Mk9WWm9NRkp1UjBJd04wOU9Zakp5U1dsNGIyZE1WMFZsY21KRk5EaDJhalY2ZUhkS1QzbENiVmhWWTIxM2RWRnlZakYyVFVGalVWZDFVMmxCVFRoQ1pWODJTMlJCTlVkUFIwZElOMU55VkdwbVZtZFdiM0JRYTNZMWFFOWpWekZmWVZObUxWSkhiRlowT1hVNWNIbFJUR1ExVm5BU0YwcG5PVkpoYnpJNVEzUkxZWGRpYTFCM0xVdFJjVUV3R2lKQlJITnlPV1pVU25neVJ6VnBXV1pIZEZGVFQyWXdaMkk0TUhCV05YZDRiaTFSIiwiZmN2IjoiMyIsImZjX2lkIjoiWUJHZzRVNmNMemZZY2MyVkFBQUFBQT09In0=",
     "title": "Entry Level Human Resources & Data Analyst",
     "company": "Social Capital Resources",
     "location": "New York, NY",
@@ -191,7 +165,33 @@
     "via": "LinkedIn",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "2 days ago",
+    "posted_at": "3 days ago",
     "schedule_type": "Contractor"
+  },
+  {
+    "id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgQnVzaW5lc3MgQW5hbHlzdCAtIEZ1bGx5IFJlbW90ZSIsImNvbXBhbnlfbmFtZSI6IlN1Ymx1bmFyeSIsImh0aWRvY2lkIjoiSVdYSTc2a1BQOHFrY1phOUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMxbHhhSGxGY1hBM2MyUkdPV3htYjFKdFEzaHFVMmxqTkY5bU9URmhMVjlYVkMxTVVuaEtlVWhMWlhSM05XUmxPRk0xVTNab1RGRXlTV3gzWTNCMlVuTlZPVzh0VEhSVVRrRXhkbmM0Ym5SZlNqTk5jbnBDUW1acWFWcFlUbmhEVldJM1luTjBkRXRzUTIxaFJVOU5OSFJJYzJrM2NpMUpYMTg1VWkxMVdWQTJTa3BuZVdZU0YwcG5PVkpoYnpJNVEzUkxZWGRpYTFCM0xVdFJjVUV3R2lKQlJITnlPV1pUTUZsa0xXNVBRVTFWVlY5Sk4yNUZORnBrTFhGMWJuTnhTVWxuIiwiZmN2IjoiMyIsImZjX2lkIjoiSVdYSTc2a1BQOHFrY1phOUFBQUFBQT09In0=",
+    "title": "Junior Business Analyst - Fully Remote",
+    "company": "Sublunary",
+    "location": "New York, NY",
+    "description": "We’re a global software consultancy that loves solving complex problems with technology. We bridge the gap between strategy and execution, helping our clients strengthen their core tech, scale flexibly, and create seamless digital experiences.\n \n\n \n\n With our extensive experience in software development, we've pioneered open-source products that help development teams build better software. We work closely with our clients to continuously evolve their tech and adopt an adaptive mindset to achieve their business goals.\n \n\n \n\n We’re expanding and adding exciting new services for our clients. We're looking for talented individuals to join us and make a difference. Come be part of a team where your ideas and skills will drive innovation and growth.\n \n\n \n\n About the role\n \n\n \n\n We are seeking a dynamic Junior Business Analyst to join our team. As a Junior Business Analyst, you will play a crucial role in analyzing business processes, identifying opportunities for improvement, and providing actionable insights to drive strategic decision-making. This role offers an exciting opportunity to gain exposure to various aspects of business operations and contribute to the growth and success of our organization.\n \n\n \n\n \n\n Day-to-day responsibilities\n \n\n \n\n - Gathering and documenting business requirements from stakeholders.\n \n\n - Analyzing data to identify trends, patterns, and key performance indicators.\n \n\n - Conducting research and market analysis to support business planning and strategy development.\n \n\n - Assisting in the preparation of reports, presentations, and business cases.\n \n\n - Collaborating with cross-functional teams to implement process improvements and solutions.\n \n\n - Participating in meetings and workshops to facilitate communication and alignment on business objectives.\n \n\n - Supporting the evaluation of project initiatives and their impact on business outcomes.\n \n\n \n\n \n\n \n\n About you\n \n\n \n\n - Bachelor's degree in Business Administration, Finance, Economics, or related field.\n \n\n - Strong analytical skills with the ability to interpret and synthesize complex data.\n \n\n - Proficiency in Microsoft Excel, PowerPoint, and other analytical tools.\n \n\n - Excellent communication and interpersonal skills with the ability to effectively engage with stakeholders at all levels.\n \n\n - Detail-oriented with a focus on accuracy and quality in analysis and documentation.\n \n\n - Ability to work independently and manage multiple tasks simultaneously in a fast-paced environment.\n \n\n - Prior experience in business analysis, consulting, or related internships is a plus.\n \n\n \n\n \n\n Our benefits\n \n\n \n\n - 401k Retirement Plan: Secure your future with our comprehensive 401k retirement plan.\n \n\n - Insurance Coverage: Enjoy peace of mind with our comprehensive health, dental, and vision insurance plans.\n \n\n - Remote-First Environment: Embrace flexibility with our remote-first policy, allowing you to work from anywhere.\n \n\n - Extra Days Off: Recharge and rejuvenate with additional days off to pursue your passions and spend time with loved ones.\n \n\n - Parental Leave: Support your growing family with generous parental leave options.\n \n\n - Gym and Yoga Membership Reimbursement: Prioritize your well-being with reimbursement for gym and yoga memberships.\n \n\n - Semi-Annual Company Retreat: Connect with colleagues and recharge at our exciting semi-annual company retreats, fostering team spirit and innovation. \n \n\n \n\n We are committed to fostering an inclusive and diverse workplace. If you believe you would be a good fit for this role, we encourage you to apply. We look forward to hearing from you and discovering how your unique talents and perspectives can contribute to our team's success.",
+    "apply_link": "https://www.ziprecruiter.com/c/Sublunary/Job/Junior-Business-Analyst-Fully-Remote/-in-New-York,NY?jid=5a76cd34b4ed8b1f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "ZipRecruiter",
+    "score": 0,
+    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
+    "posted_at": "Unknown",
+    "schedule_type": "Full-time"
+  },
+  {
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBNYW5hZ2VtZW50IiwiY29tcGFueV9uYW1lIjoiRmlmdGggQXZlbnVlIENvLiIsImh0aWRvY2lkIjoialJzbGVRakRWNnBmMV8zYkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNtTndjR1kyZGtWcGRUZDBOMVpWTTNreVYweDVhM0k1UVZaTk9GcG5WVE5XWXkxdVdYWndORVJ5ZDBsME5IRjFSVkJYV2s4MFZuUTJabVY1YkdKVFlYZDZYM0pKYjBFeFpXNDJSMDExTmxGSGNWOURPSG90YzAxNVJscERNMU42U1hadlFrTlhZell4V1dkNk4xUkNWbkJ6TVVWbldsTnpXV2xaWkUwelkweHJWVEpUWm1zU0YwcG5PVkpoYnpJNVEzUkxZWGRpYTFCM0xVdFJjVUV3R2lKQlJITnlPV1pTTmpoR1ZGbGxNRzE2ZFVaS1ZrVjBRME5UV0ROd2VsVkRVM0JSIiwiZmN2IjoiMyIsImZjX2lkIjoialJzbGVRakRWNnBmMV8zYkFBQUFBQT09In0=",
+    "title": "Entry Level Business Management",
+    "company": "Fifth Avenue Co.",
+    "location": "New York, NY",
+    "description": "Entry Level Business Management\n\n\n\n\nWe are looking to train an entry level sales manager from the ground up to act as the first point of contact with new customers, answer their queries and increase client satisfaction.\n\n\n\n\nIf you enjoy coming up with effective solutions and working toward achieving goals, this job is right for you. You will use your communication skills to identify and address clients’ needs while representing our company in a positive way. Previous sales experience will be an advantage.\n\n\n\n\nUltimately, you will contribute to building profitable, long-term relationships with our clients to reach our business objectives.\n\n\n\n\nResponsibilities\n\nGather information on assigned clientsContact clients to understand their needsProvide after-sales support to retain customersEnsure prompt and accurate answers to clients’ queriesBuild strong client relationships, through regular communicationReport on the status of accountsSuggest company products/services that maximize client satisfactionCommunicate product and pricing details clearlyPromote new products/services to existing customers\n\n\nRequirements and skills\n\nStrong (verbal and written) communication skills with an ability to build relationshipsEffective presentation and negotiation skillsHigh degree of professionalismGood time-management skills with a problem-solving attitudeMust be authorized to work in the USABachelor's Degree preferredCurrently in NYC area and ready to work immediately\n\n\nThank you for your interest!",
+    "apply_link": "https://www.linkedin.com/jobs/view/entry-level-business-management-at-fifth-avenue-co-4436252309?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "LinkedIn",
+    "score": 0,
+    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
+    "posted_at": "4 days ago",
+    "schedule_type": "Full-time"
   }
 ]
