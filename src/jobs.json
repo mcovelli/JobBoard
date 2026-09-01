@@ -1,6 +1,6 @@
 [
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCAtIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkFERiBNZWRpY2FsIiwiaHRpZG9jaWQiOiJfMXExMUVzdWo0RHg0Szc3QUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERkVVFqUk1TRXBDWlhSQ1RVSTNTbXd5UW5ZM2RuQkRVa0oyT0ROb1EwUnlPVjlsYzJGVU9FMXJiVGRwUjB3ME5FbHpaSEF4VFhWbWRFaGFlV05OY1hodVJWaFRaRkp0WjJsUVdGVmFUbFpxVUVVeU9GZHhXRkl4VkZscWIyTlVOR2Q2Ym1WNFdGaEZiVFpzTm1OaFFVMWhkaTFwYmtSSE1tTlZka0U0VW5OTlZHa3RVbWNTRjJoa1QxWmhkRVJHU1dGUFdqQlFSVkJvY2kxS2FWRkZHaUpCUkhOeU9XWlJZa05sZEdSSGVFcFRjWFExZEU5dloxVjBXbXhXYnpCRVRFNTMiLCJmY3YiOiIzIiwiZmNfaWQiOiJfMXExMUVzdWo0RHg0Szc3QUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCAtIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkFERiBNZWRpY2FsIiwiaHRpZG9jaWQiOiJfMXExMUVzdWo0RHg0Szc3QUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNoR1RXeG9Vek5LTjFWQ2JuZHVjVWRJVXpKVE16VXhZVkJRYlZOYVQyWk9jVmhHTFVWbGQwUm1kMTlUUm1KV1oydzNhR3h4UWtWUk4wNWtVbTVZZVdkRmFIVTFWekIwY2paRFZHRlpURmh3TkVkVFVGbDBNREJHTjFWWk0yWnBlVms0Y1dnMWIzTnpRVTl2V1VScFJqWlNkbFk1WVZkRGExSXhUemhOUTBGZk5rRllWM29TRjJOQlYxaGhiMFIyVDBsNU1YQTRORkIyT1dKak5rRXdHaUpCUkhOeU9XWlRRbFpIWlZOcFkyd3RkVGxWYTJGS1MyTldSMDVDWTI5UlJ6aG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJfMXExMUVzdWo0RHg0Szc3QUFBQUFBPT0ifQ==",
     "title": "Entry Level - Data Analyst",
     "company": "ADF Medical",
     "location": "New York, NY",
@@ -9,24 +9,11 @@
     "via": "Career.com",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "7 days ago",
+    "posted_at": "8 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKEVudHJ5IExldmVsKSIsImNvbXBhbnlfbmFtZSI6IkdldCBIaXJlIFRlY2hub2xvZ2llcyBJbmMiLCJodGlkb2NpZCI6ImRXZExRY0ZpMzJXY2Ytc1hBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbHBLVjE5cmRFVmZNMjlUYkRKTWFYSmpiVzVqVVdSVVNGVTRUREZmZEVobVZYWXRibkpvZDJaYVIyeERSMTg1ZWxadWVVa3hSRkowZFhkelZ6ZzFVVWR1TW1WbFZrcHhiMTlCWm5wM1ZUUlRhSEowVTNWV2JGVm5UbDlQUjNNNWMwNU9ibFpLUlRKeFVXWlVha3BqYzNSR1pFSk5Xbk41VDJoTGQzTlBRVU01Y20xNmRrOFNGMmhrVDFaaGRFUkdTV0ZQV2pCUVJWQm9jaTFLYVZGRkdpSkJSSE55T1daVWFGcG9lamhNTmxWWmVtZHVWVU16Wm1kT2NucFNaM2huY3pGUiIsImZjdiI6IjMiLCJmY19pZCI6ImRXZExRY0ZpMzJXY2Ytc1hBQUFBQUE9PSJ9",
-    "title": "Data Analyst (Entry Level)",
-    "company": "Get Hire Technologies Inc",
-    "location": "Nyack, NY",
-    "description": "About the job\n\nThe process of cleaning, analyzing, interpreting, and displaying data using different approaches and business intelligence tools is known as data analysis. Data analysis tools assist you in uncovering key insights that lead to better informed and successful decision-making. It is concerned with the transformation of raw data into meaningful statistics, information, and explanations.\nResponsibilities\n\n\nWorking with management to prioritize information needs.\nCollecting and interpreting data about specific topics of importance to the business.\nAnalyzing results and reporting the findings back to the business.\nIdentifying and interpreting trends or patterns in complex data sets.\nDeveloping strategies to optimize the quality of statistical results.\nMaintaining databases.\nDevising new data collection and analysis processes.\nQualifications\nBachelor s or Master s degree in IT or Computer Science or other quantitative field is preferred. Requires 1-2 years related analytical experience.\nOrganization\nGet Hire Technologies Inc.\nIndustry\nInformation Technology\nBenefits\nIncrement would be at least a minimum of 10% every six months.\n\nRelocation charges will be provided to you during your project\n\nMedicinal, Dental and Vision benefits following 60 days of business.\n\nMedical coverage qualified following 60 days of business.\n\nPresent moment and long haul handicap following 60 days of work.\n\n401k retirement benefits plan qualified following half a year of work.\n\nOnly For International Candidates On OPT/CPT\n\nEmployer s Confirmation Letter/CPT Letter/Offer Letter will be provided, which you need to submit to your university within 90 days of the start of your OPT.\n\nOPT Extension Letter will be provided to those candidates who are qualified for STEM extension.\n\nH1B Sponsorship will be provided to OPT and CPT candidates only once they join our client s project.\n\nOther Benefits\nUpskilling & Resume Preparation\nMock sessions before interviews\nMultiple interview rounds with different clients.\nVisa Sponsorship\nNote:\nLooking for F1 (OPT,CPT,STEM), GC, H4EAD, L2, TN visa holders\nSalary: Negotiable (As per the market)\n--",
-    "apply_link": "https://www.techfetch.com/job-description/data-analyst-job-post-entry-level-ashburn-va-j3633675?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "Techfetch",
-    "score": 0,
-    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "7 days ago",
-    "schedule_type": "Full-time"
-  },
-  {
-    "id": "eyJqb2JfdGl0bGUiOiJKci4gRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRUNMQVJPIiwiaHRpZG9jaWQiOiJxSC1sMnZuM1hnanpTRk12QUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNwbGVqVnpaV2xsVUhRd1pFZG9kUzFuZGtaWk4xUnlXVUZWWW10ZlYwUm1hRmRPYTBaVVMxVTVZamhEUWxCTE1IbEZhekZSVTFSaU1WUlhhSEJzVEZnMFZIZFdOeTF4TUVWNlF6UkNSMlZPYTBscFQzbENOMWcxU0VveVZXRjRNekZSYlRWNFluZzRSalZQYUZSVmRsRm5YMHR1TjFWb1lYWkNlRnAxVTNWT016QlRTMjBTRjJoa1QxWmhkRVJHU1dGUFdqQlFSVkJvY2kxS2FWRkZHaUpCUkhOeU9XWlJRM2RFWTJGMU1XcG1VVmxOWjJaclZFNXJZMVpPZVVnNGEwZDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJxSC1sMnZuM1hnanpTRk12QUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJKci4gRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRUNMQVJPIiwiaHRpZG9jaWQiOiJxSC1sMnZuM1hnanpTRk12QUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1d4R2FXUnZZalZWWTJGdFoweE1jRTF3Y201b1dHUndUM0YyVUZkaVprOXFUa05pTUhOb0xWRjBkbGhQTVdoTVZGbHFjRWRGTFRSa1VEUnhPSEI2TVVSeGRVUjZOamRSTlV0U04wTk9VME5TYmtkc0xVeENVVE5FVUZaaE56TllkRE5LVDJ4blJuSnVZMmhzWWtoNWJEUTBWa1UwVVZKWlR6bHlkRmRNVGxneWVrdGZjRXdTRjJOQlYxaGhiMFIyVDBsNU1YQTRORkIyT1dKak5rRXdHaUpCUkhOeU9XWlVWRnBQU1U1c09VZ3hZVVJ2YTA1ZmRHeHJiblZqTjJjek1uQkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJxSC1sMnZuM1hnanpTRk12QUFBQUFBPT0ifQ==",
     "title": "Jr. Data Analyst",
     "company": "ECLARO",
     "location": "New York, NY",
@@ -35,11 +22,11 @@
     "via": "LinkedIn",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "17 days ago",
+    "posted_at": "18 days ago",
     "schedule_type": "Contractor"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgRGF0YSBBbmFseXN0IC0gRW50cnkgTGV2ZWwgXHUwMDI2IEdyb3d0aCBPcHBvcnR1bml0aWVzIiwiY29tcGFueV9uYW1lIjoiTWF6aUNUb29scyIsImh0aWRvY2lkIjoiU05kWDlQR01scVZJS0VNYkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIaHVOMFZFVDJOUkxXbE5ZbTFNWlc5VGExUllOMlk1TFdWeWJWb3dSM0ZyUlhwTlJtNUZjRzVCU2pOb1ZFOWFUMmRDYVdaTGRWcEdZVkJDZHpSdmRtaElZMWM1Y3pGblpVTnZjWFZSVEdaa1VuTjVVREZqU0ZwWVZEbG1TVW81UjJoNGF5MDBkMk14Y1hkR2IycE9PVEk0Y1dGaVZsUTVia3BaZGtOUmVXaFRRMDVHWkhRU0YyaGtUMVpoZEVSR1NXRlBXakJRUlZCb2NpMUthVkZGR2lKQlJITnlPV1pSZVRCUVJGTkhYM05tVms5dFExUmxhVVpzUkc1UFZHNTZkREJCIiwiZmN2IjoiMyIsImZjX2lkIjoiU05kWDlQR01scVZJS0VNYkFBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgRGF0YSBBbmFseXN0IC0gRW50cnkgTGV2ZWwgXHUwMDI2IEdyb3d0aCBPcHBvcnR1bml0aWVzIiwiY29tcGFueV9uYW1lIjoiTWF6aUNUb29scyIsImh0aWRvY2lkIjoiU05kWDlQR01scVZJS0VNYkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNqbFFTRk5tUVRoVFpVMTJibVpwZVZkb1RUWlZkRFpvTVdsek5tWTBMWEp2VmxKaVQyVTFaV2M0VEZkbVZ5MXBURlJCU1hKcFNIcDFXVnBPY1VWRWNHaFZYMFExWjJObGRHcG5PR00zYVZOUWVGTmFRVTFrTXpSeU0yZzFORWRZUkRSU1UzVndNazUyVW5ONFFVYzFPSGhpYlcxTmJWUk9ZVjk1ZDIxVFdFcEVjMUEyY1VnU0YyTkJWMWhoYjBSMlQwbDVNWEE0TkZCMk9XSmpOa0V3R2lKQlJITnlPV1pTZWtKMVRWRkRaRGd6YjFjelMyODFiM0ZvYkZsNFdrSmliMGQzIiwiZmN2IjoiMyIsImZjX2lkIjoiU05kWDlQR01scVZJS0VNYkFBQUFBQT09In0=",
     "title": "Remote Data Analyst - Entry Level & Growth Opportunities",
     "company": "MaziCTools",
     "location": "New York, NY",
@@ -48,11 +35,24 @@
     "via": "BeBee",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
+    "posted_at": "9 days ago",
+    "schedule_type": "Full-time"
+  },
+  {
+    "id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKEVudHJ5IExldmVsKSIsImNvbXBhbnlfbmFtZSI6IkdldCBIaXJlIFRlY2hub2xvZ2llcyBJbmMiLCJodGlkb2NpZCI6ImRXZExRY0ZpMzJXY2Ytc1hBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM0IxV0RrMWVEVlFUa0ZMVTFoSFJ6ZGFOV2xMTnkxeFkzUlNUa1JHZWpSZk5VNTRTMDFzTTNOR1pXaHhVa3RGTmpseVVHaFdja1JvUjJkaU5EaFdkMFpQWnpkcFJtRjZSWEJKZWxBd1JYSjNkbXRqVVRGTmJUazFaVVF4WWkxT1gwUmFjRkY2TkZVNWJWUktSMjFvZDFsUlZXdGZXbm80WkcweFNtWkJVWEZFTURoVk5sY1NGMk5CVjFoaGIwUjJUMGw1TVhBNE5GQjJPV0pqTmtFd0dpSkJSSE55T1daVFRrVlpPVEpSWVc4NWVEZHZZV2xvWjBsNVRXdG9VMnA2Y3pWMyIsImZjdiI6IjMiLCJmY19pZCI6ImRXZExRY0ZpMzJXY2Ytc1hBQUFBQUE9PSJ9",
+    "title": "Data Analyst (Entry Level)",
+    "company": "Get Hire Technologies Inc",
+    "location": "Nyack, NY",
+    "description": "About the job\n\nThe process of cleaning, analyzing, interpreting, and displaying data using different approaches and business intelligence tools is known as data analysis. Data analysis tools assist you in uncovering key insights that lead to better informed and successful decision-making. It is concerned with the transformation of raw data into meaningful statistics, information, and explanations.\nResponsibilities\n\n\nWorking with management to prioritize information needs.\nCollecting and interpreting data about specific topics of importance to the business.\nAnalyzing results and reporting the findings back to the business.\nIdentifying and interpreting trends or patterns in complex data sets.\nDeveloping strategies to optimize the quality of statistical results.\nMaintaining databases.\nDevising new data collection and analysis processes.\nQualifications\nBachelor s or Master s degree in IT or Computer Science or other quantitative field is preferred. Requires 1-2 years related analytical experience.\nOrganization\nGet Hire Technologies Inc.\nIndustry\nInformation Technology\nBenefits\nIncrement would be at least a minimum of 10% every six months.\n\nRelocation charges will be provided to you during your project\n\nMedicinal, Dental and Vision benefits following 60 days of business.\n\nMedical coverage qualified following 60 days of business.\n\nPresent moment and long haul handicap following 60 days of work.\n\n401k retirement benefits plan qualified following half a year of work.\n\nOnly For International Candidates On OPT/CPT\n\nEmployer s Confirmation Letter/CPT Letter/Offer Letter will be provided, which you need to submit to your university within 90 days of the start of your OPT.\n\nOPT Extension Letter will be provided to those candidates who are qualified for STEM extension.\n\nH1B Sponsorship will be provided to OPT and CPT candidates only once they join our client s project.\n\nOther Benefits\nUpskilling & Resume Preparation\nMock sessions before interviews\nMultiple interview rounds with different clients.\nVisa Sponsorship\nNote:\nLooking for F1 (OPT,CPT,STEM), GC, H4EAD, L2, TN visa holders\nSalary: Negotiable (As per the market)\n--",
+    "apply_link": "https://www.techfetch.com/job-description/data-analyst-job-post-entry-level-ashburn-va-j3633675?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "Techfetch",
+    "score": 0,
+    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
     "posted_at": "8 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJGdWxseSBSZW1vdGUsIEVudHJ5LUxldmVsIERhdGEgRW50cnkgSm9iIiwiY29tcGFueV9uYW1lIjoiU21hcnQgSGlyZSBBZ2VuY3kiLCJodGlkb2NpZCI6Ii1EMHdZdHN0NE1HN2VmV3FBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTWEZtZDNkZlgzZ3lTRnBHY0dsbFQxTlJYemhFVmtKdVNuUlBhamRaWTNSYVVHdGFhVzVQU2xCTVJIZFdRWGcyTFhGUFNUaFhWbWh5T1RjeGJFVTJhMVpKUXpKNVZUQTNUbFJyVmpCRWREWnhkMFZDYjBGU2REWklkamt3Ukc0dFNIRkhkVE0wWVdsT1F6bExUV3h2U1ZCblJsbFdlbU0zYmpJM1dXMUpNSEZHV2xaVWJFUVNGMmhrVDFaaGRFUkdTV0ZQV2pCUVJWQm9jaTFLYVZGRkdpSkJSSE55T1daVVlqSjJhRlJ4V25WUWR6TnJlbUpyTWtwWFpHZFpRbXc1Wm10MyIsImZjdiI6IjMiLCJmY19pZCI6Ii1EMHdZdHN0NE1HN2VmV3FBQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJGdWxseSBSZW1vdGUsIEVudHJ5LUxldmVsIERhdGEgRW50cnkgSm9iIiwiY29tcGFueV9uYW1lIjoiU21hcnQgSGlyZSBBZ2VuY3kiLCJodGlkb2NpZCI6Ii1EMHdZdHN0NE1HN2VmV3FBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURU5NTFdRNWVFMVBSRTFtWHpSQmVEZFViMmh1UVVkTmEwbEtkVTk0V1hCQmJXWmtSMEZuZGxkT1dsQTNUbkpIY0haeGVtaEZRMFF6YUVabGFXSkJOM2h5Vm1oTU1teENibFJXVW5WbE0yRkhNVVpPYmkweFRHMW1SMDVCZUdOemVsaE5RVU5uUzB0aFdrRnZaMkpQV0c5Q2EzaHdha2hVVDNkNVRVNHhSVzB3ZG5SaFpqUVNGMk5CVjFoaGIwUjJUMGw1TVhBNE5GQjJPV0pqTmtFd0dpSkJSSE55T1daVFUzWnlZbWRGUm1OM1MyRk1jR0ZETVhaeU1WRTJiVmhZUlhOMyIsImZjdiI6IjMiLCJmY19pZCI6Ii1EMHdZdHN0NE1HN2VmV3FBQUFBQUE9PSJ9",
     "title": "Fully Remote, Entry-Level Data Entry Job",
     "company": "Smart Hire Agency",
     "location": "Anywhere",
@@ -65,7 +65,7 @@
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJBcHByZW50aWNlIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkV2ZXJncmVlbiBUcmFkaW5nIiwiaHRpZG9jaWQiOiJLWVhwSks3QktrMXdYQjZwQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzFVMFdsbGhRa2RxYVc5elgzQnpSelV3VlV4RldFTnpVR2hYYkRGaFNTMHRlRU0wV1ZoS2MwTktNa2RoV1ZkQ1VGcGpTR1JhYkcxd1dVMXNNMmh4YlRsWVZXSkVTRGR5Vkd3eFltaGpSMnh2YjNSWE1rTkVUMU42VW5OVVNYcHlNV1Y0WW0xelgwWk1iVk5vZEVSTVlVVldSM2xWYUhCU2VtaFdVa1ZYUzNWRk9GQjJjbGNTRjJoa1QxWmhkRVJHU1dGUFdqQlFSVkJvY2kxS2FWRkZHaUpCUkhOeU9XWlRRV0YyY0RWWVNHVXhTVTVhTVRFeE1UVllialJyZVhWck4zQjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJLWVhwSks3QktrMXdYQjZwQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJBcHByZW50aWNlIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkV2ZXJncmVlbiBUcmFkaW5nIiwiaHRpZG9jaWQiOiJLWVhwSks3QktrMXdYQjZwQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzB4UGJIUndjRWMzY0d4U2J6SmlWbGw1TkhwQmVHaHdPSFJPYTFOUlpHUXlSVlpyV1dRdFRsZGFjR2QwWWpKTWQxWndTbEZVT0Y5a1RWWTVRMmxpT0ZoRmVWWXhRbmQ2WDJ4ak5IbFBXVWw2TW05NmF6UkNlRXR5T0c1NU9XMDNRVjl2YmxkdWNqbFNablJVWDNsVk9VRXpVMHhhYkZCb1RXVnNZWE13WjFSaVQybFNNMW9TRjJOQlYxaGhiMFIyVDBsNU1YQTRORkIyT1dKak5rRXdHaUpCUkhOeU9XWlJZamxVWkZoc1VGcG1hRGd6ZUhGSlpYRnlhVGxCVGw5Q01XUm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJLWVhwSks3QktrMXdYQjZwQUFBQUFBPT0ifQ==",
     "title": "Apprentice Data Analyst",
     "company": "Evergreen Trading",
     "location": "New York, NY",
@@ -78,7 +78,7 @@
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJRdWFudGl0YXRpdmUgUG9ydGZvbGlvIEFuYWx5c3Qg4oCTIDIwMjYgR3JhZCIsImNvbXBhbnlfbmFtZSI6IlBvaW50NzIiLCJodGlkb2NpZCI6IlRUZWE2RG5YV2RqX1R0NHhBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMnRaVDAxM1ZWUlhNV2x1UVMwNGRraExSRFpXUkVjd1lUSXlTek5YVjFweVVuUnpVWEZFV0RSNk5IaFVWRTh5Tm1WMlIyUlFkRTFGY2w5YU5WcElkVkJpTjJwR2JXNUVSVk5ZVFVKS05GSnJkbTFuV1RsTk9IVkRiM1JMZGxSRGVHdG5lVEpuVFhWRFgwVkJlbXN5YzNaRVlYbFNjbFJmU25wQlFrZHliMjFmZVRaM2FFWVNGMmhrVDFaaGRFUkdTV0ZQV2pCUVJWQm9jaTFLYVZGRkdpSkJSSE55T1daUldXOVZibmg0Y0Zwa2FtVTBOM2R2T0RGSkxYcFpZa3Q2TW10MyIsImZjdiI6IjMiLCJmY19pZCI6IlRUZWE2RG5YV2RqX1R0NHhBQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJRdWFudGl0YXRpdmUgUG9ydGZvbGlvIEFuYWx5c3Qg4oCTIDIwMjYgR3JhZCIsImNvbXBhbnlfbmFtZSI6IlBvaW50NzIiLCJodGlkb2NpZCI6IlRUZWE2RG5YV2RqX1R0NHhBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbGxKWVhWbVVtcEpiM0JxYTNab1NucHhUMnh6Y0VoUlEyUkhaRTQxVmpoMldtd3pURzVyU25OcWVIVjNURkJYZFRGcVVVVklXSFZUVTFGNVUwNHhORm94VW5GVFRuRkNOMkZVWTNjMlVEQlNaak56YUhodFgxQjNRbmhrZW5WVVJsVkJjRk55UmtoeFMxRlJUbmhFUTFGaFJISTJZMmR1ZFZOcE5EWmFXbUpTYURsSE4wRVNGMk5CVjFoaGIwUjJUMGw1TVhBNE5GQjJPV0pqTmtFd0dpSkJSSE55T1daU1VVNU5WbFpmY0RGdmIzSnlUVTUxVG5FMGJUWkVRbWhHVDA5MyIsImZjdiI6IjMiLCJmY19pZCI6IlRUZWE2RG5YV2RqX1R0NHhBQUFBQUE9PSJ9",
     "title": "Quantitative Portfolio Analyst – 2026 Grad",
     "company": "Point72",
     "location": "New York, NY",
@@ -87,11 +87,11 @@
     "via": "Point72 Careers",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "12 days ago",
+    "posted_at": "13 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmF0aW9uYWwgU29mdHdhcmUgTWFuYWdlbWVudCIsImh0aWRvY2lkIjoiUmNIRmpUWjZtSDZUV3ZnWUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNuWnJRUzFwV0haQllWUkVORTFRVURCMFVIQnJVM1JPU1ZGWVUyczVTVUZPWkVWUGVtZFpTamhHZDJ0QlZrUjNUalpFYkZkRVluaEhWV0ZrY3pOM1JsOVhTRTVPUW1JelQyb3RVREJyTlRneVpGSmpPWFZhVEZKalQyaFBkRFpLVWxKeVYxODRhamhQYm1kRVdXOXBiMmRITVRscWNIZGZNMU4yU0hGMlNXRnBOR0pTYzFNU0YyaGtUMVpoZEVSR1NXRlBXakJRUlZCb2NpMUthVkZGR2lKQlJITnlPV1pVVjFKMlRHSkxlRTVhY2w5alkzVnJka0V5Y0dOcVowNHlaV1pCIiwiZmN2IjoiMyIsImZjX2lkIjoiUmNIRmpUWjZtSDZUV3ZnWUFBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmF0aW9uYWwgU29mdHdhcmUgTWFuYWdlbWVudCIsImh0aWRvY2lkIjoiUmNIRmpUWjZtSDZUV3ZnWUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWSjVYMUJ3UldNdFNpMW5TVXRUZWtScWQxOVNhMDlpZDFCR1IwNWhNbFpDV0ROdVRtZDNhV3QwWjFoUExWQjBhRVJoT0ZsR1h6aFRkbmxpYUdWUVdrRmlXRFZsTFU1alduWmxjVXBoVEZwQllqSjVkMVJTZFhBM1dGSnlZMWg1U2twUlV6TkZiMlpCWlV0c1pqVnJTMEphY205dWVFWm1RMEU1TTJSSmMzaFVVMnhNVjJVU0YyTkJWMWhoYjBSMlQwbDVNWEE0TkZCMk9XSmpOa0V3R2lKQlJITnlPV1pUYW5CdlJFSXRiakEzT0dsaU1FczNUMDFIWjNaemMxRXlaalJCIiwiZmN2IjoiMyIsImZjX2lkIjoiUmNIRmpUWjZtSDZUV3ZnWUFBQUFBQT09In0=",
     "title": "Entry Level Business Analyst",
     "company": "National Software Management",
     "location": "Anywhere",
@@ -100,11 +100,24 @@
     "via": "ZipRecruiter",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "11 days ago",
+    "posted_at": "12 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKHdpdGggTGVhcm5pbmcgTWF0ZXJpYWwpIiwiY29tcGFueV9uYW1lIjoiS2l0ZSBQaW5nIiwiaHRpZG9jaWQiOiJhUTJtQ0dldnZPLXM0ZkNzQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNjemRuRXRWMTlUTmpSWVpHZFhTV0p4ZDBjMVdYazFhamxqYTI5S1gwcDVUMk5zTlUwM1lqZ3pTRk5xVVZBM2VrWTJXVUZyZFZWRVdtZEpRVXByYkdwb01sQm1TVFU0WjJaZlVqZG9hRGQ2TkVOWFExbDNOVmxQWVhwSk9HcFFlV0ZCYkd4RWNVbzJhbGRWU0RWSFRWTm5VRmt6ZDB0M1kyTlBiSFU1UXpJM1VFNHdZVU1TRjJoa1QxWmhkRVJHU1dGUFdqQlFSVkJvY2kxS2FWRkZHaUpCUkhOeU9XWlRXbXc1WmpsT09YaEJWV2t4Wkd0VlRFeHBkMTl5YVhocE5IUm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJhUTJtQ0dldnZPLXM0ZkNzQUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBIUiBBbmFseXN0OiBEYXRhLURyaXZlbiBcdTAwMjYgQmVuZWZpdHMgRm9jdXMiLCJjb21wYW55X25hbWUiOiJTb2NpYWwgQ2FwaXRhbCBSZXNvdXJjZXMiLCJodGlkb2NpZCI6IjBSaXJERlZ3U19QMmUwRUZBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURUkzV0RsbU0wSkpabEF6Y3pRd2FIWmpkSGt5VWpGUFJGb3lUMDlTZUdwRmIydzFXRVJDVDAxdmRFSjZPRXhhTkZCeWIyMUViRFJHU1U0emVucFVMWGRSUmxWcU1rbzFTM1pEWjNGRk56WTVUVXc0YjBNeFNsVlRlVm80YUc5R01rVlJZME5XTVd0amRtaEZNRFpWYlVkblVsbE9SbXR1UWxodFFWRmxUeTAwZVZacFpIY1NGMk5CVjFoaGIwUjJUMGw1TVhBNE5GQjJPV0pqTmtFd0dpSkJSSE55T1daUmRGZDNNa1JaWkZWcmVIQjFUbHBpTlZBNVV6QnRhVlJzZVU1MyIsImZjdiI6IjMiLCJmY19pZCI6IjBSaXJERlZ3U19QMmUwRUZBQUFBQUE9PSJ9",
+    "title": "Entry-Level HR Analyst: Data-Driven & Benefits Focus",
+    "company": "Social Capital Resources",
+    "location": "New York, NY",
+    "description": "A top-tier bank in Midtown, Manhattan is looking for an Entry-Level Human Resources Analyst. In this temporary-to-permanent position, you will be responsible for benefits research, managing background checks, and drafting offer letters. A Bachelor's Degree and strong data skills are essential, while fluency in Mandarin or Cantonese is a plus. This role offers a great opportunity to start your career in HR in a dynamic and supportive environment.\n#J-18808-Ljbffr  Social Capital Resources",
+    "apply_link": "https://jooble.org/jdp/6405032933592298109?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "Jooble",
+    "score": 0,
+    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
+    "posted_at": "10 days ago",
+    "schedule_type": "Full-time"
+  },
+  {
+    "id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKHdpdGggTGVhcm5pbmcgTWF0ZXJpYWwpIiwiY29tcGFueV9uYW1lIjoiS2l0ZSBQaW5nIiwiaHRpZG9jaWQiOiJhUTJtQ0dldnZPLXM0ZkNzQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZOaWMyVXdaMkpDTlRBM0xYSklNbTFuTW1Sd1JIWmxaRWRCUkVwTllsaHNjbXRIUm5RMVJ6WkJkMEZpUkhkT1gyTlNjelF5YUdWdFNFaFRTVzFIYzNaTU5uVkNVa2xyVDJaUlpHMWhVR0o1VWxGV1UyRlZibmR5ZUMxM1ptVkRNbWN4UmpWWlJYSlNTMmg0YjBaa1YwSlVVSEF3ZWtaQ1dFaEVPWGs1Y2xsS1RXNU1WVE1TRjJOQlYxaGhiMFIyVDBsNU1YQTRORkIyT1dKak5rRXdHaUpCUkhOeU9XWlJWMDVYVlRaS1NVNW5lVkIyYmpGWk4xbFphM05aYkZocE4xQm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJhUTJtQ0dldnZPLXM0ZkNzQUFBQUFBPT0ifQ==",
     "title": "Data Analyst (with Learning Material)",
     "company": "Kite Ping",
     "location": "New York, NY",
@@ -117,20 +130,7 @@
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBIUiBBbmFseXN0OiBEYXRhLURyaXZlbiBcdTAwMjYgQmVuZWZpdHMgRm9jdXMiLCJjb21wYW55X25hbWUiOiJTb2NpYWwgQ2FwaXRhbCBSZXNvdXJjZXMiLCJodGlkb2NpZCI6IjBSaXJERlZ3U19QMmUwRUZBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbUZYTkd4U2MybFpTMWRDWmxNelpVazJha3hhV1ZSWWVWWlFOemxPVjJweU9WcFBMV2xHUzNKMmFrNUVTMFpyWTBKcWJGZExUR2RvUkhGS00wbzJWRkJsZDNCcmNVSnJUVmhXYjJoTlZUSmFUM0ZTZEhJMlpXWlBSR2xyYzFWbU9XRXROVUpKU0VKTlJFOWZiR1ZaYjIxeU4zazJiSFZHUjI5R2VsQkVaRWsyTTFZeFRFd1NGMmhrVDFaaGRFUkdTV0ZQV2pCUVJWQm9jaTFLYVZGRkdpSkJSSE55T1daVWRFUnVURmxVV1ZCeVRuWk5SMkZqT1ZCdVExSjRRbU53U0dSUiIsImZjdiI6IjMiLCJmY19pZCI6IjBSaXJERlZ3U19QMmUwRUZBQUFBQUE9PSJ9",
-    "title": "Entry-Level HR Analyst: Data-Driven & Benefits Focus",
-    "company": "Social Capital Resources",
-    "location": "New York, NY",
-    "description": "A top-tier bank in Midtown, Manhattan is looking for an Entry-Level Human Resources Analyst. In this temporary-to-permanent position, you will be responsible for benefits research, managing background checks, and drafting offer letters. A Bachelor's Degree and strong data skills are essential, while fluency in Mandarin or Cantonese is a plus. This role offers a great opportunity to start your career in HR in a dynamic and supportive environment.\n#J-18808-Ljbffr  Social Capital Resources",
-    "apply_link": "https://jooble.org/jdp/6405032933592298109?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "Jooble",
-    "score": 0,
-    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "9 days ago",
-    "schedule_type": "Full-time"
-  },
-  {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmF0aW9uYWwgU29mdHdhcmUgTWFuYWdlbWVudCIsImh0aWRvY2lkIjoiUmNIRmpUWjZtSDZUV3ZnWUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMxZEZNa2ROZERoUmNVRmxSMkpOWlRsS1dsVldaM2hDZG1NNWVteFpPRnA1YldKSU5EVmFSMWxITkc1R2RXeHFZbXhZV0haQmMyd3dRVlk0U1hWWU5qVnVaWFUyT1V0bFZtcEdZV2xuUjI5WGNuZG9XakkwYnpWaWNERXRVVTUzZGs5eloxQkpWa014UjNKRVZFNTJibXh5WVRWamJsUjBXbXBqWlhwak9XZEJiRlIyYkRrU0YyazVUMVpoYzJWUFJEVTJkSFZ5T0ZCZlMyRk5iVkU0R2lKQlJITnlPV1pTYTNSWE0wWXljV1l6WjBKTE9XOXFZMUZaY1ZSb0xXMXpjeTFSIiwiZmN2IjoiMyIsImZjX2lkIjoiUmNIRmpUWjZtSDZUV3ZnWUFBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmF0aW9uYWwgU29mdHdhcmUgTWFuYWdlbWVudCIsImh0aWRvY2lkIjoiUmNIRmpUWjZtSDZUV3ZnWUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRIVTNNekY0VDNwZkxXTXhiR0ZzWTNkc1JXTnhkSFZKU0V0blVIcE1jMWxmTTFoZk1rMHhSMHhEVjIwME5IUklkMFp1Y1hSUGNXMHdPSFJSWmxkcFNWQTRkMlZ4Y0RCaE9GWXlhQzFhUzJkWmVHUktSMngzTjE4d1FVNXNTVkJ5ZURBdFoxOTJWa3BQZUMxMWJIUjFiRTgzVVVrd1YySlZXRnBIU0VZM1YwSnBVVWRPWWpNU0YyVlJWMWhoYjB4cVRuWXRUWFp5TUZCMWRrY3ljVUZWR2lKQlJITnlPV1pTWkZscVRERjVUM293U1c5TGVtSkxjVjlqUmtkSU0zUnVjMWhCIiwiZmN2IjoiMyIsImZjX2lkIjoiUmNIRmpUWjZtSDZUV3ZnWUFBQUFBQT09In0=",
     "title": "Entry Level Business Analyst",
     "company": "National Software Management",
     "location": "Anywhere",
@@ -139,11 +139,11 @@
     "via": "ZipRecruiter",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "11 days ago",
+    "posted_at": "12 days ago",
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IOKAlCBOZXcgWW9yaywgTlkiLCJjb21wYW55X25hbWUiOiJNYXRyaWNzdGVrIEluYy4iLCJodGlkb2NpZCI6ImF5cDdULWJYcHRnVE9GdzhBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMjlIUVcxM2N6aDJaVTFQY0RKMFVDMTBMVUY1UlZKWFJqaG9ZVXg1ZVUwMVUzQlhXbnB6YlhkeVFsSnFRVWxZT1ZWVWVqTm9TbE5CYzNWeFRFeDJZV1p3YmxZMmNYWnlPRUpRTUU5VlYwZzRkMGhEWkdKWE5GSmpOMU51VTJaMWIwUkJWRlYxTWpCWVZHMWxVR0pSU1VOMVZsOWpkbk5CVVRJMk1YRjFPWFl5YWxWdmRGOFNGMms1VDFaaGMyVlBSRFUyZEhWeU9GQmZTMkZOYlZFNEdpSkJSSE55T1daVU5rdDRjemxLTVhCQ1VIZHZZMGc1UWxBdGRDMXZUMDF4Y1hGbiIsImZjdiI6IjMiLCJmY19pZCI6ImF5cDdULWJYcHRnVE9GdzhBQUFBQUE9PSJ9",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IOKAlCBOZXcgWW9yaywgTlkiLCJjb21wYW55X25hbWUiOiJNYXRyaWNzdGVrIEluYy4iLCJodGlkb2NpZCI6ImF5cDdULWJYcHRnVE9GdzhBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVzg0ZERWMGIzZGFWbkF5T1RGRlUyRlpRakZOUzJ3NVJESndNMHB4UmxwVGJqUlJPR3N6YUV0WldIRm1jRGhvTFVaemVUbEJURVJHWDNOQlJHaFZOVlIyV25Ob1JGbEpUV0V6UWxoVlNXZGFVSGR0YjJSdlNHOXZiUzFPT1c4elNuZHhkak16UlVSVVRIZGlUREozTUd3MFFsUjNXbWxNV1ZOUVZqWjNWa0ZqVWxrd1NtY1NGMlZSVjFoaGIweHFUbll0VFhaeU1GQjFka2N5Y1VGVkdpSkJSSE55T1daU0xVVnBZa2hNZFVGS1pWbDZNMjVsVjNob05sZFhPREpwWmtkMyIsImZjdiI6IjMiLCJmY19pZCI6ImF5cDdULWJYcHRnVE9GdzhBQUFBQUE9PSJ9",
     "title": "Entry Level Business Analyst — New York, NY",
     "company": "Matricstek Inc.",
     "location": "Anywhere",
@@ -156,7 +156,7 @@
     "schedule_type": "Full-time and Contractor"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmF0aW9uYWwgU29mdHdhcmUgTWFuYWdlbWVudCIsImh0aWRvY2lkIjoiU2VsMVMwaUdlN3ZHOHBSVEFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwMUpjVGhHT0VrMllVVjJVMkZhUkVFdE5sVmtYMnA0UW0xb1VXczNYMjVOVUdFM2JEazFhRmxTY0hKdFMzaDRiR04yWXpsQlZFaHlielIyTVdkMWNsRlhRbFl4WVUxT1RUUndlbFJ1Y1ZOUFVEUjViWEppYWxkdFRuZHpYMWd0VDNZd1pteFlUMkpaYkcxeFJscDZRa2MxUWxKMU9YVTNkazVpZEU5bFZuQkVWM0Z3TUhRU0YyazVUMVpoYzJWUFJEVTJkSFZ5T0ZCZlMyRk5iVkU0R2lKQlJITnlPV1pTUlV0cWNEaHlVbkpFV1VWTGNGcFlNMTl6Y2paTE5HcFpkalpuIiwiZmN2IjoiMyIsImZjX2lkIjoiU2VsMVMwaUdlN3ZHOHBSVEFBQUFBQT09In0=",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeS1MZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTmF0aW9uYWwgU29mdHdhcmUgTWFuYWdlbWVudCIsImh0aWRvY2lkIjoiU2VsMVMwaUdlN3ZHOHBSVEFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNsUTBUMEY1TW5nM2EzUmtaekJ2TUUxelZHeHdjM1IxU0ZsRU5IRnlNRXhXUjNGRVgwbHZhWGN4VHpkQ2IwMWFWRWxpYVhWcWVrRkdUMXAwUkVZeU1EVnlNVGd4TUdSVlJ6QllTMlJsYzFNdFNGYzJTa1ZUU0VWbGN6RXdRVXgzZDJkUmJrVlRPR0pKVVVkTGEwOTNha0o2YkZoMmJ6WkdhM2g0WDNsdldsZFRMVXBCWHkwU0YyVlJWMWhoYjB4cVRuWXRUWFp5TUZCMWRrY3ljVUZWR2lKQlJITnlPV1pTZFVGUU5tcEJTR1kxUWxRM01rUXlTelJ0Wm1wdU4weHBSRXAzIiwiZmN2IjoiMyIsImZjX2lkIjoiU2VsMVMwaUdlN3ZHOHBSVEFBQUFBQT09In0=",
     "title": "Entry-Level Business Analyst",
     "company": "National Software Management",
     "location": "New York, NY",
@@ -169,26 +169,26 @@
     "schedule_type": "Full-time"
   },
   {
-    "id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBBbmFseXN0LCBFbnRyeSBMZXZlbCAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6ImpvYnJpZ2h0LmNvbSIsImh0aWRvY2lkIjoiZzd3UEFic1l5Sno0ZHQ5ZkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNuUlJhVmRCUld0aFFVdExlVlJwV1ZkbVRXc3djMW8zVFc1ek9XTmlRMnd3YW1RMk5XTlpSMnBaV1dnM1FXaHNVWGRyVlZBMFZVMXBWV0Y0VkhacFozUkdTMHM1V2xaUmVHeFlaV0ZXU21SNFdsUjFNR05ETURZMmQxOTBVRlpZV0dsSlZFaHFNVXhCY0dGTU5VTlhZamw0T0hWWk5WSm5XSEpzVmpaNVJVVTBPSEY1Y1VVU0YyazVUMVpoYzJWUFJEVTJkSFZ5T0ZCZlMyRk5iVkU0R2lKQlJITnlPV1pSZFcxdVozbGFSRlE1TkRWck4waHBRbVZ0WVhKdlRucDVNWFpuIiwiZmN2IjoiMyIsImZjX2lkIjoiZzd3UEFic1l5Sno0ZHQ5ZkFBQUFBQT09In0=",
-    "title": "Business Analyst, Entry Level (Remote)",
-    "company": "jobright.com",
-    "location": "New York, NY",
-    "description": "Join to apply for the Business Analyst, Entry Level (Remote) role at Jobright.ai\nJoin to apply for the Business Analyst, Entry Level (Remote) role at Jobright.ai\nGet AI-powered advice on this job and more exclusive features.\nJobright is an AI-powered career platform that helps job seekers discover the top opportunities in the US. We are NOT a staffing agency. Jobright does not hire directly for these positions. We connect you with verified openings from employers you can trust.\nJob Summary:\nOhio Mutual Insurance Group is seeking a Business Analyst who will act as a bridge between business requirements and IT solutions. The role involves collaborating with users to define software requirements, conducting business process analysis, and managing projects to ensure effective solutions are implemented.\nResponsibilities:\n• Collaborates with business users and programmers to define and document software requirements.\n• Conducts analysis of business processes to identify needs and develop effective solutions. Prepares comprehensive business requirements, specifications, and process documentation.\n• Accurately develops and implements test plans, coordinates issue resolutions and retesting in collaboration with business stakeholders and technical teams and thoroughly documents all test outcomes.\n• Initiates, directs, and monitors projects using project management methodologies.\n• Designs basic technical solutions, provides recommendations for improving business processes, and assesses external software solutions.\n• Controls the project schedule, scope, and costs and deals with project problems and project change management.\n• Evaluates project participants and results, reports progress on the project team and manager(s) and closes projects by getting sign-off.\n• Coordinates monthly software releases by managing reports, issues, maintenance requests, schedules, deployments, and compliance with change management.\n• Ensures that relevant business departments are engaged or kept informed regarding projects impacting their processes, and delivers ongoing support and training as needed.\n• Assists with testing of new software.\n• Proactively carries out project support and administrative functions.\n• Establishes responsible deadlines and personal work plans and manages time effectively.\n• Assists with or develops well-organized presentations.\n• Participates in team or business partner meetings.\n• Facilitates change and assists others in adjusting to changes.\n• Performs other duties as assigned.\nQualifications:\nRequired:\n• Basic knowledge of the various programs used within the company.\n• Excellent communication skills both verbal and written.\n• Strong analytical and organizational skills; use of logic and problem-solving skills.\n• Strong leadership and conflict management skills.\n• Skilled with basic business analytical tools and possesses an understanding of applications programming, database, and system design.\n• Proven ability to provide high service levels; understands and implements methods to support customer experience expectations and initiatives.\n• Possesses strong insurance business knowledge.\n• Associates degree or equivalent work experience.\n• Two (2) or more years of similar or related work experience.\nCompany:\nOhio Mutual Insurance Group, founded in 1901 and based in Bucyrus, OH, partners with nearly 400 independent agencies to distribute quality property and casualty insurance products throughout Connecticut, Indiana, Maine, New Hampshire, Ohio, Rhode Island, and Vermont. Founded in 1901, headquartered in Bucyrus, Ohio, USA, team size 201-500 employees, currently Growth Stage.\nSeniority level Seniority level Entry level\nEmployment type Employment type Full-time\nJob function Industries Software Development\nReferrals increase your chances of interviewing at Jobright.ai by 2x\nInferred from the description for this job Medical insurance\nVision insurance\n401(k)\nGet notified about new Business Analyst jobs in United States .\nUnited States $65,000.00-$75,000.00 4 days ago\nNew York, NY $90,000.00-$110,000.00 4 days ago\nNew York, United States $85,000.00-$95,000.00 3 weeks ago\nUnited States $62,000.00-$85,000.00 1 week ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nIndiana, United States $47.00-$53.00 2 weeks ago\nUnited States $170,000.00-$200,000.00 4 days ago\nWe’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.\n\n#J-18808-Ljbffr",
-    "apply_link": "https://us.thebigjobsite.com/details/99B0C5C42A746C8CB08CDC9FB355CD21/business-analyst--entry-level--remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "via": "The BIG Jobsite",
-    "score": 0,
-    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
-    "posted_at": "Unknown",
-    "schedule_type": "Full-time"
-  },
-  {
-    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiQkEgU3lzdGVtIFNvbHV0aW9uIiwiaHRpZG9jaWQiOiJWLTNXdFM5VnFMMnBuaVA3QUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1U5WFp5MVZYMUprVFdGRGFWTkdjSGR4VnpSdVV6RXRYMlpIWkhwbVRERXRSMlJvZURGdWEzWnRaRGxXY0RadFpuazVjVE5yUkdaSlIwUXhTR2t3TkdkVGVsZE5aWHBhY1RkcVNtVkRNbHBKVEdOM2VXSkJXV3RvYzBVeFIzRXdWRE5FYm1aeGEza3lXRkpMZEZKMU0wZGlSV1YzWkhRNU5sSnRkRVZHVDBsNFdDMXZSbmNTRjJrNVQxWmhjMlZQUkRVMmRIVnlPRkJmUzJGTmJWRTRHaUpCUkhOeU9XWlNSbVZFUWxoVU16VmFWa1JOVmxSVlFtdHNkbFZXV0RJeE0zTlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJWLTNXdFM5VnFMMnBuaVA3QUFBQUFBPT0ifQ==",
+    "id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBCdXNpbmVzcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiQkEgU3lzdGVtIFNvbHV0aW9uIiwiaHRpZG9jaWQiOiJWLTNXdFM5VnFMMnBuaVA3QUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2tSbk5XMVVSRmMyVlY5TmVsOXJSWGxTU2pSeFoyWnFWRFZKVEROR1ZGZEhTVkZaUkdGaFJrazNaWFZ3TTBwaVpVSnVSR2Q0V0V0YVVFMW1kVEpETTNFMFQzQXpjMGxoTURKdGFrOXFVWEk0VjFCWlFuWlJiREpOUVZoUldYUmZkRUUyT1hGb1EyRlJhMU5QUmtzd1JXZzRXSHA0T1RrMWQwVXhOMGxGYkVoNFVEZzNaRXNTRjJWUlYxaGhiMHhxVG5ZdFRYWnlNRkIxZGtjeWNVRlZHaUpCUkhOeU9XWlRMV2c1WjJaeU0xUm1iSEJKVG0xRmQzQnhiR1Y2V25WMGVVTkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJWLTNXdFM5VnFMMnBuaVA3QUFBQUFBPT0ifQ==",
     "title": "Entry Level Business Analyst",
     "company": "BA System Solution",
     "location": "Bronx, NY",
     "description": "Company Description       Welcome To BA System Solutions, We Are A Leading Technology Service Provider And Software Development Company Delivering Comprehensive Solutions In Customized Software Development, Application Development, Mobile Apps Development, Software Testing And Application, Mobile Apps Re-Engineering Services. Our Team Of Qualified Professionals Assure You Of 100% Success With Solutions That Are Tailor-Made To Your Needs. Partner With Us TODAY To Envision And Shape Your Goals.\n\n         \n\n   Job Description       The Business Analyst role will focus on defining/refining business requirements for a project. The role requires to meet with business and technology teams and acts as a bridge between them to assimilate and dispense information in easily understood terms\n\n   Responsibilities:\n\n       Help communicate initiatives and priorities to field facing support staff via email and phone conversations    Review and escalate Advisory account breaches and variances    Maintain reporting around current daily tasks and initiatives    Analyze large sets of data and report findings to the team    Review, update, and maintain policies and procedures            \n\n   Qualifications           Bachelors/Masters Degree    Excellent written and Oral communication skills    Detail Oriented and Organized    Skilled in influencing and negotiations at all levels to accomplish goals    Work Independently and proactively to take initiatives in problem solving    Skilled to work among multi-facet teams and stakeholders            \n\n   Additional Information       All your information will be kept confidential according to EEO guidelines.",
     "apply_link": "https://www.ziprecruiter.com/c/BA-System-Solution/Job/Entry-Level-Business-Analyst/-in-New-York,NY?jid=130cd3cd76420651&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "via": "ZipRecruiter",
+    "score": 0,
+    "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
+    "posted_at": "Unknown",
+    "schedule_type": "Full-time"
+  },
+  {
+    "id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBBbmFseXN0LCBFbnRyeSBMZXZlbCAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6ImpvYnJpZ2h0LmNvbSIsImh0aWRvY2lkIjoiZzd3UEFic1l5Sno0ZHQ5ZkFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFN6TjBiV0ZPTm01MVREWjFTa3RXWkRKMVMwZE1SRGhVVEdack1uZFVZa1UxWTBzdFRGVlVZbXhVZW5WUmQyaHZlRmRQWlRONlJ6TktWVE5FTVhoelFUQXdSRTFrWTNCdFNXaG9RbVF3V2tKTFVtZHhibFIzWm1aek1YTjRZUzE0YUdOUExXZGpjbU5RVldoSlEwZEdWWEkyUVdKQ1gweHdja2MxYlRGTFMzVnBNalZRZDFZU0YyVlJWMWhoYjB4cVRuWXRUWFp5TUZCMWRrY3ljVUZWR2lKQlJITnlPV1pSVVRKNFUyaGtZMEZuZHkwMFkyZGthSFF3VDFKV2VGOTVlVlZSIiwiZmN2IjoiMyIsImZjX2lkIjoiZzd3UEFic1l5Sno0ZHQ5ZkFBQUFBQT09In0=",
+    "title": "Business Analyst, Entry Level (Remote)",
+    "company": "jobright.com",
+    "location": "New York, NY",
+    "description": "Join to apply for the Business Analyst, Entry Level (Remote) role at Jobright.ai\nJoin to apply for the Business Analyst, Entry Level (Remote) role at Jobright.ai\nGet AI-powered advice on this job and more exclusive features.\nJobright is an AI-powered career platform that helps job seekers discover the top opportunities in the US. We are NOT a staffing agency. Jobright does not hire directly for these positions. We connect you with verified openings from employers you can trust.\nJob Summary:\nOhio Mutual Insurance Group is seeking a Business Analyst who will act as a bridge between business requirements and IT solutions. The role involves collaborating with users to define software requirements, conducting business process analysis, and managing projects to ensure effective solutions are implemented.\nResponsibilities:\n• Collaborates with business users and programmers to define and document software requirements.\n• Conducts analysis of business processes to identify needs and develop effective solutions. Prepares comprehensive business requirements, specifications, and process documentation.\n• Accurately develops and implements test plans, coordinates issue resolutions and retesting in collaboration with business stakeholders and technical teams and thoroughly documents all test outcomes.\n• Initiates, directs, and monitors projects using project management methodologies.\n• Designs basic technical solutions, provides recommendations for improving business processes, and assesses external software solutions.\n• Controls the project schedule, scope, and costs and deals with project problems and project change management.\n• Evaluates project participants and results, reports progress on the project team and manager(s) and closes projects by getting sign-off.\n• Coordinates monthly software releases by managing reports, issues, maintenance requests, schedules, deployments, and compliance with change management.\n• Ensures that relevant business departments are engaged or kept informed regarding projects impacting their processes, and delivers ongoing support and training as needed.\n• Assists with testing of new software.\n• Proactively carries out project support and administrative functions.\n• Establishes responsible deadlines and personal work plans and manages time effectively.\n• Assists with or develops well-organized presentations.\n• Participates in team or business partner meetings.\n• Facilitates change and assists others in adjusting to changes.\n• Performs other duties as assigned.\nQualifications:\nRequired:\n• Basic knowledge of the various programs used within the company.\n• Excellent communication skills both verbal and written.\n• Strong analytical and organizational skills; use of logic and problem-solving skills.\n• Strong leadership and conflict management skills.\n• Skilled with basic business analytical tools and possesses an understanding of applications programming, database, and system design.\n• Proven ability to provide high service levels; understands and implements methods to support customer experience expectations and initiatives.\n• Possesses strong insurance business knowledge.\n• Associates degree or equivalent work experience.\n• Two (2) or more years of similar or related work experience.\nCompany:\nOhio Mutual Insurance Group, founded in 1901 and based in Bucyrus, OH, partners with nearly 400 independent agencies to distribute quality property and casualty insurance products throughout Connecticut, Indiana, Maine, New Hampshire, Ohio, Rhode Island, and Vermont. Founded in 1901, headquartered in Bucyrus, Ohio, USA, team size 201-500 employees, currently Growth Stage.\nSeniority level Seniority level Entry level\nEmployment type Employment type Full-time\nJob function Industries Software Development\nReferrals increase your chances of interviewing at Jobright.ai by 2x\nInferred from the description for this job Medical insurance\nVision insurance\n401(k)\nGet notified about new Business Analyst jobs in United States .\nUnited States $65,000.00-$75,000.00 4 days ago\nNew York, NY $90,000.00-$110,000.00 4 days ago\nNew York, United States $85,000.00-$95,000.00 3 weeks ago\nUnited States $62,000.00-$85,000.00 1 week ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nUnited States $60,000.00-$110,000.00 1 month ago\nIndiana, United States $47.00-$53.00 2 weeks ago\nUnited States $170,000.00-$200,000.00 4 days ago\nWe’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.\n\n#J-18808-Ljbffr",
+    "apply_link": "https://us.thebigjobsite.com/details/99B0C5C42A746C8CB08CDC9FB355CD21/business-analyst--entry-level--remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "via": "The BIG Jobsite",
     "score": 0,
     "reasoning": "Newly discovered job (awaiting tomorrow's AI run to score).",
     "posted_at": "Unknown",
